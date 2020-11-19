@@ -1,0 +1,603 @@
+full_name,age,birthday,league,season,position,Current Club,minutes_played_overall,minutes_played_home,minutes_played_away,nationality,appearances_overall,appearances_home,appearances_away,goals_overall,goals_home,goals_away,assists_overall,assists_home,assists_away,penalty_goals,penalty_misses,clean_sheets_overall,clean_sheets_home,clean_sheets_away,conceded_overall,conceded_home,conceded_away,yellow_cards_overall,red_cards_overall,goals_involved_per_90_overall,assists_per_90_overall,goals_per_90_overall,goals_per_90_home,goals_per_90_away,min_per_goal_overall,conceded_per_90_overall,min_per_conceded_overall,min_per_match,min_per_card_overall,min_per_assist_overall,cards_per_90_overall,rank_in_league_top_attackers,rank_in_league_top_midfielders,rank_in_league_top_defenders,rank_in_club_top_scorer
+Aaron Cresswell,30,629712000,Premier League,2017/2018,Defender,West Ham United,3073,1604,1469,England,36,18,17,1,1,0,7,3,4,0,0,10,7,3,57,23,34,7,0,0.23,0.21,0.03,0.06,0,3073,1.67,54,85,439,439,0.21,234,53,164,12
+Aaron Lennon,33,545554800,Premier League,2017/2018,Midfielder,Burnley,1918,927,991,England,29,11,11,0,0,0,2,0,2,0,0,7,4,3,28,8,20,2,0,0.09,0.09,0,0,0,0,1.31,69,66,959,959,0.09,292,145,-1,15
+Aaron Mooy,30,653382000,Premier League,2017/2018,Midfielder,Huddersfield Town,3070,1635,1435,Australia,36,19,15,4,2,2,3,2,1,1,0,10,7,3,51,24,27,5,0,0.21,0.09,0.12,0.11,0.13,768,1.5,60,85,614,1023,0.15,135,153,-1,3
+Aaron Ramsdale,22,895129200,Premier League,2017/2018,Goalkeeper,AFC Bournemouth,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Aaron Ramsey,29,662198400,Premier League,2017/2018,Midfielder,Arsenal,1848,976,872,Wales,24,11,10,7,6,1,8,5,3,0,0,10,7,3,22,9,13,0,0,0.73,0.39,0.34,0.55,0.1,264,1.07,84,77,0,231,0,44,8,-1,3
+Aaron Wan-Bissaka,22,880531200,Premier League,2017/2018,Midfielder,Crystal Palace,628,358,270,England,7,4,3,0,0,0,0,0,0,0,0,2,1,1,9,5,4,1,0,0,0,0,0,0,0,1.29,70,90,628,0,0.14,278,266,-1,15
+Abdelhamid Sabiri,23,849168000,Premier League,2017/2018,Midfielder,Huddersfield Town,219,82,137,Morocco,5,1,1,0,0,0,1,1,0,0,0,1,0,1,5,1,4,1,0,0.41,0.41,0,0,0,0,2.05,44,44,219,219,0.41,-1,-1,-1,15
+Abdoulaye Doucouré,27,725875200,Premier League,2017/2018,Midfielder,Watford,3325,1705,1620,France,37,19,18,7,4,3,3,3,0,0,0,9,5,4,56,29,27,10,0,0.27,0.08,0.19,0.21,0.17,475,1.52,59,90,333,1108,0.27,100,161,-1,1
+Adam David Lallana,32,579250800,Premier League,2017/2018,Midfielder,Liverpool,235,64,171,England,12,0,1,0,0,0,0,0,0,0,0,5,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,20,235,0,0.38,-1,-1,-1,16
+Adam Legzdins,33,533548800,Premier League,2017/2018,Goalkeeper,Burnley,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Adam Smith,29,672908400,Premier League,2017/2018,Defender,AFC Bournemouth,2068,1138,930,England,27,12,10,1,1,0,3,2,1,0,0,4,2,2,34,19,15,6,0,0.17,0.13,0.04,0.08,0,2068,1.48,61,77,345,689,0.26,231,106,130,14
+Ademola Lookman,23,877330800,Premier League,2017/2018,Forward,Everton,154,82,72,England,7,0,1,0,0,0,1,1,0,0,0,2,2,0,4,1,3,0,0,0.58,0.58,0,0,0,0,2.34,39,22,0,154,0,-1,-1,-1,19
+Adrian Mariappa,34,528706800,Premier League,2017/2018,Defender,Watford,2209,1020,1189,Jamaica,28,12,12,0,0,0,0,0,0,0,0,7,4,3,39,18,21,4,0,0,0,0,0,0,0,1.59,57,79,552,0,0.16,259,293,149,21
+Adrián San Miguel del Castillo,33,536659200,Premier League,2017/2018,Goalkeeper,West Ham United,1710,900,810,Spain,19,10,9,0,0,0,0,0,0,0,0,6,4,2,28,11,17,2,0,0,0,0,0,0,0,1.47,61,90,855,0,0.11,242,263,129,20
+Adrien Sebastian Perruchet Silva,31,605952000,Premier League,2017/2018,Midfielder,Leicester City,762,492,270,Portugal,12,6,3,0,0,0,1,1,0,0,0,3,3,0,17,7,10,3,0,0.12,0.12,0,0,0,0,2.01,45,64,254,762,0.35,284,114,-1,12
+Ahmed Hegazi,29,664790400,Premier League,2017/2018,Defender,West Bromwich Albion,3387,1710,1677,Egypt,38,19,19,2,2,0,0,0,0,0,0,10,6,4,51,27,24,4,0,0.05,0,0.05,0.11,0,1694,1.36,66,89,847,0,0.11,222,400,94,6
+Ahmed Musa,28,719046000,Premier League,2017/2018,Forward,Leicester City,0,0,0,Nigeria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Aiden O'Neill,22,899535600,Premier League,2017/2018,Midfielder,Burnley,0,0,0,Australia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ainsley Maitland-Niles,23,872838000,Premier League,2017/2018,Midfielder,Arsenal,907,461,446,England,15,4,4,0,0,0,0,0,0,0,0,5,3,2,14,7,7,1,0,0,0,0,0,0,0,1.39,65,60,907,0,0.1,272,246,-1,21
+Alberto Moreno,28,710319600,Premier League,2017/2018,Defender,Liverpool,1264,543,721,Spain,16,6,8,0,0,0,0,0,0,0,0,6,5,1,17,1,16,1,0,0,0,0,0,0,0,1.21,74,79,1264,0,0.07,348,347,68,25
+Aleksandar Dragović,29,668246400,Premier League,2017/2018,Defender,Leicester City,766,384,382,Austria,11,3,4,0,0,0,0,0,0,0,0,4,3,1,12,2,10,2,0,0,0,0,0,0,0,1.41,64,70,383,0,0.23,269,261,112,9
+Aleksandar Mitrović,26,779698800,Premier League,2017/2018,Forward,Newcastle United,89,53,36,Serbia,6,0,0,1,1,0,0,0,0,0,0,2,2,0,0,0,0,0,0,1.01,0,1.01,1.7,0,89,0,0,15,0,0,0,-1,-1,-1,11
+Alex Iwobi,24,831106800,Premier League,2017/2018,Forward,Arsenal,1843,790,1053,Nigeria,26,9,13,3,3,0,5,4,1,0,0,9,5,4,24,9,15,1,0,0.39,0.24,0.15,0.34,0,614,1.17,77,71,1843,369,0.05,120,39,-1,8
+Alex McCarthy,30,628675200,Premier League,2017/2018,Goalkeeper,Southampton,1620,720,900,England,18,8,10,0,0,0,0,0,0,0,0,4,1,3,23,10,13,2,0,0,0,0,0,0,0,1.28,70,90,810,0,0.11,255,272,77,21
+Alex Oxlade-Chamberlain,27,745398000,Premier League,2017/2018,Midfielder,Liverpool,1726,835,891,England,35,8,9,3,2,1,7,5,2,0,0,13,8,5,24,9,15,3,0,0.52,0.37,0.16,0.22,0.1,575,1.25,72,49,575,247,0.16,112,10,-1,6
+Alex Palmer,24,839660400,Premier League,2017/2018,Goalkeeper,West Bromwich Albion,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Alex Pritchard,27,736412400,Premier League,2017/2018,Midfielder,Huddersfield Town,1002,521,481,England,14,6,6,1,1,0,1,0,1,0,0,3,2,1,12,6,6,1,0,0.18,0.09,0.09,0.17,0,1002,1.08,84,72,1002,1002,0.09,166,147,-1,6
+Alexander Sørloth,24,818150400,Premier League,2017/2018,Forward,Crystal Palace,360,180,180,Norway,4,2,2,0,0,0,0,0,0,0,0,0,0,0,8,3,5,0,0,0,0,0,0,0,0,2,45,90,0,0,0,246,297,-1,28
+Alexandre Lacazette,29,675414000,Premier League,2017/2018,Forward,Arsenal,2212,1152,1060,France,32,14,12,14,11,3,4,3,1,2,0,12,8,4,28,14,14,1,0,0.73,0.16,0.57,0.86,0.25,158,1.14,79,69,2212,553,0.04,13,78,-1,1
+Alexis Sanchez,31,598521600,Premier League,2017/2018,Forward,Manchester United,2555,1405,1150,Chile,31,16,13,9,5,4,6,2,4,1,1,13,9,4,31,13,18,5,0,0.53,0.21,0.32,0.32,0.31,284,1.09,82,82,511,426,0.18,48,55,-1,2
+Alfie Mawson,26,758966400,Premier League,2017/2018,Defender,Swansea City,3420,1710,1710,England,38,19,19,2,2,0,1,1,0,0,0,9,5,4,53,23,30,3,0,0.08,0.03,0.05,0.11,0,1710,1.39,65,90,1140,3420,0.08,207,239,102,7
+Alfie Whiteman,22,907311600,Premier League,2017/2018,Goalkeeper,Tottenham Hotspur,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ali Gabr,31,600422400,Premier League,2017/2018,Defender,West Bromwich Albion,0,0,0,Egypt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Allan Nyom,32,579250800,Premier League,2017/2018,Defender,West Bromwich Albion,2308,1096,1212,Cameroon,29,12,13,0,0,0,1,1,0,0,0,9,5,4,38,20,18,7,0,0.04,0.04,0,0,0,0,1.48,61,80,330,2308,0.27,402,216,131,20
+Alvaro Morata,27,719823600,Premier League,2017/2018,Forward,Chelsea,2066,1127,939,Spain,31,13,11,11,6,5,6,4,2,0,0,13,9,4,17,8,9,7,0,0.74,0.26,0.48,0.48,0.48,188,0.74,122,67,295,344,0.3,22,30,-1,2
+Ander Herrera,31,619081200,Premier League,2017/2018,Midfielder,Manchester United,1261,361,900,Spain,26,4,9,0,0,0,2,0,2,0,0,13,6,7,13,3,10,5,0,0.14,0.14,0,0,0,0,0.93,97,49,252,631,0.36,378,88,-1,21
+Anders Lindegaard,36,450691200,Premier League,2017/2018,Goalkeeper,Burnley,0,0,0,Denmark,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Andre Ayew,30,629884800,Premier League,2017/2018,Forward,Swansea City,1842,842,1000,Ghana,30,8,11,3,2,1,4,4,0,0,1,6,4,2,38,13,25,5,0,0.34,0.2,0.15,0.21,0.09,614,1.86,48,61,368,461,0.24,124,57,-1,5
+Andre Gray,29,677919600,Premier League,2017/2018,Forward,Watford,1495,646,849,England,31,7,9,5,2,3,2,1,1,0,0,7,3,4,24,13,11,1,0,0.42,0.12,0.3,0.28,0.32,299,1.44,62,48,1495,748,0.06,54,116,-1,5
+André Martín Carrillo Díaz,29,676882800,Premier League,2017/2018,Forward,Watford,1536,747,789,Peru,28,7,9,1,1,0,2,1,1,0,0,7,4,3,28,15,13,2,0,0.18,0.12,0.06,0.12,0,1536,1.64,55,55,768,768,0.12,201,107,-1,14
+Andreas Christensen,24,829119600,Premier League,2017/2018,Defender,Chelsea,2071,943,1128,Denmark,27,10,13,0,0,0,0,0,0,0,0,11,7,4,21,9,12,0,0,0,0,0,0,0,0,0.91,99,77,0,0,0,354,353,44,24
+Andrew Robertson,26,763372800,Premier League,2017/2018,Defender,Liverpool,1943,1155,788,Scotland,22,13,9,1,1,0,5,3,2,0,0,10,7,3,16,7,9,2,0,0.28,0.23,0.05,0.08,0,1943,0.74,121,88,972,389,0.09,219,47,20,14
+Andrew Surman,34,524905200,Premier League,2017/2018,Midfielder,AFC Bournemouth,1852,985,867,England,25,11,9,2,1,1,5,3,2,0,0,5,3,2,26,14,12,2,0,0.34,0.24,0.1,0.09,0.1,926,1.26,71,74,926,370,0.1,148,38,-1,10
+Andros Townsend,29,679647600,Premier League,2017/2018,Midfielder,Crystal Palace,3128,1527,1601,England,36,17,18,2,2,0,7,3,4,0,0,8,3,5,47,23,24,3,0,0.26,0.2,0.06,0.12,0,1564,1.35,67,87,1043,447,0.09,206,59,-1,8
+Andy Carroll,31,600076800,Premier League,2017/2018,Forward,West Ham United,745,517,228,England,16,4,3,3,3,0,0,0,0,0,0,5,3,2,11,8,3,7,1,0.36,0,0.36,0.52,0,248,1.33,68,47,106,0,0.85,37,249,-1,6
+Andy King,31,594111600,Premier League,2017/2018,Midfielder,Swansea City,1251,516,735,Wales,22,6,8,3,2,1,0,0,0,0,0,3,1,2,25,10,15,2,0,0.22,0,0.22,0.35,0.12,417,1.8,50,57,626,0,0.14,81,336,-1,3
+Àngel Rangel Zaragoza,37,404636400,Premier League,2017/2018,Defender,Swansea City,155,153,2,Spain,4,2,0,0,0,0,0,0,0,0,0,1,0,1,3,3,0,0,0,0,0,0,0,0,0,1.74,52,39,0,0,0,-1,-1,-1,17
+Angelo Ogbonna,32,580374000,Premier League,2017/2018,Defender,West Ham United,2880,1440,1440,Italy,32,16,16,1,0,1,0,0,0,0,0,7,5,2,56,23,33,3,0,0.03,0,0.03,0,0.06,2880,1.75,51,90,960,0,0.09,236,379,167,11
+Anthony Knockaert,28,690624000,Premier League,2017/2018,Midfielder,Brighton & Hove Albion,2425,1286,1139,France,33,15,12,3,3,0,1,0,1,0,0,10,5,5,28,12,16,5,1,0.15,0.04,0.11,0.21,0,808,1.04,87,73,404,2425,0.22,146,213,-1,4
+Anthony Martial,24,818150400,Premier League,2017/2018,Forward,Manchester United,1583,670,913,France,30,7,11,9,5,4,5,4,1,1,0,15,10,5,13,5,8,1,0,0.8,0.28,0.51,0.67,0.39,176,0.74,122,53,1583,317,0.06,17,22,-1,3
+Antonio Martínez López,23,867654000,Premier League,2017/2018,Forward,West Ham United,0,0,0,Spain,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Antonio Rüdiger,27,731145600,Premier League,2017/2018,Defender,Chelsea,2336,1346,990,Germany,27,14,11,2,2,0,1,0,1,0,0,13,8,5,21,15,6,4,0,0.12,0.04,0.08,0.13,0,1168,0.81,111,87,584,2336,0.15,172,211,26,9
+Antonio Valencia,35,491986800,Premier League,2017/2018,Defender,Manchester United,2743,1440,1303,Ecuador,31,16,15,3,2,1,1,0,1,0,0,15,10,5,22,7,15,7,0,0.13,0.03,0.1,0.13,0.07,914,0.72,125,88,392,2743,0.23,149,227,16,10
+Arthur Masuaku,26,752659200,Premier League,2017/2018,Defender,West Ham United,1872,923,949,France,27,11,10,0,0,0,3,3,0,0,0,7,5,2,27,10,17,5,0,0.14,0.14,0,0,0,0,1.3,69,69,374,624,0.24,357,92,82,24
+Artur Boruc,40,319881600,Premier League,2017/2018,Goalkeeper,AFC Bournemouth,0,0,0,Poland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ashley Barnes,30,625737600,Premier League,2017/2018,Forward,Burnley,2157,1150,1007,England,36,11,10,9,5,4,0,0,0,0,0,12,7,5,20,9,11,10,0,0.38,0,0.38,0.39,0.36,240,0.83,108,60,216,0,0.42,34,301,-1,2
+Ashley Westwood,30,638956800,Premier League,2017/2018,Midfielder,Burnley,1106,553,553,England,19,6,6,0,0,0,1,1,0,0,0,5,4,1,15,5,10,2,0,0.08,0.08,0,0,0,0,1.22,74,58,553,1106,0.16,303,155,-1,18
+Ashley Williams,36,462092400,Premier League,2017/2018,Defender,Everton,1833,903,930,Wales,24,10,10,1,1,0,0,0,0,0,0,6,4,2,30,11,19,4,1,0.05,0,0.05,0.1,0,1833,1.47,61,76,367,0,0.25,212,317,124,10
+Ashley Young,35,489740400,Premier League,2017/2018,Midfielder,Manchester United,2447,1222,1225,England,30,14,14,2,0,2,4,4,0,0,0,12,8,4,25,9,16,7,0,0.22,0.15,0.07,0,0.15,1224,0.92,98,82,350,612,0.26,181,85,-1,11
+Asmir Begović,33,551170800,Premier League,2017/2018,Goalkeeper,AFC Bournemouth,3420,1710,1710,Bosnia and Herzegovina,38,19,19,0,0,0,0,0,0,0,0,6,3,3,56,28,28,2,0,0,0,0,0,0,0,1.47,61,90,1710,0,0.05,405,405,125,17
+Axel Tuanzebe,22,879494400,Premier League,2017/2018,Defender,Manchester United,0,0,0,England,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Aymeric Laporte,26,770022000,Premier League,2017/2018,Defender,Manchester City,807,450,357,France,9,5,4,0,0,0,0,0,0,0,0,4,3,1,5,2,3,1,0,0,0,0,0,0,0,0.56,161,90,807,0,0.11,244,287,7,14
+Ayoze Perez,27,743929200,Premier League,2017/2018,Forward,Newcastle United,2497,1190,1307,Spain,36,13,15,8,4,4,5,2,3,0,0,9,7,2,26,8,18,3,0,0.47,0.18,0.29,0.3,0.28,312,0.94,96,69,832,499,0.11,55,66,-1,1
+Bakary Sako,32,578041200,Premier League,2017/2018,Midfielder,Crystal Palace,468,184,284,Mali,16,1,3,3,2,1,0,0,0,0,0,3,1,2,10,0,10,0,0,0.58,0,0.58,0.98,0.32,156,1.92,47,29,0,0,0,12,255,-1,5
+Ben Chilwell,23,851155200,Premier League,2017/2018,Defender,Leicester City,1852,899,953,England,24,9,11,0,0,0,2,0,2,0,0,6,4,2,28,10,18,3,1,0.1,0.1,0,0,0,0,1.36,66,77,617,926,0.15,340,126,91,17
+Ben Davies,27,735634800,Premier League,2017/2018,Defender,Tottenham Hotspur,2323,1062,1261,Wales,29,12,14,2,0,2,6,2,4,0,0,14,8,6,17,7,10,3,0,0.31,0.23,0.08,0,0.14,1162,0.66,137,80,774,387,0.12,179,46,11,6
+Ben Foster,37,418204800,Premier League,2017/2018,Goalkeeper,West Bromwich Albion,3330,1710,1620,England,37,19,18,0,0,0,0,0,0,0,0,10,6,4,51,27,24,2,0,0,0,0,0,0,0,1.38,65,90,1665,0,0.05,401,386,101,18
+Ben Hamer,32,564393600,Premier League,2017/2018,Goalkeeper,Leicester City,274,180,94,England,4,2,1,0,0,0,0,0,0,0,0,1,1,0,6,2,4,0,0,0,0,0,0,0,0,1.97,46,69,0,0,0,329,337,171,16
+Ben Mee,31,622364400,Premier League,2017/2018,Defender,Burnley,2610,1170,1440,England,29,13,16,0,0,0,0,0,0,0,0,9,4,5,23,9,14,5,0,0,0,0,0,0,0,0.79,113,90,522,0,0.17,314,326,23,21
+Ben Watson,35,489740400,Premier League,2017/2018,Midfielder,Watford,458,223,235,England,8,3,3,0,0,0,0,0,0,0,0,1,0,1,9,4,5,1,0,0,0,0,0,0,0,1.77,51,57,458,0,0.2,346,343,-1,24
+Beni Baningime,32,589791600,Premier League,2017/2018,Midfielder,Everton,192,125,67,Congo DR,8,1,0,0,0,0,0,0,0,0,0,4,3,1,2,1,1,1,0,0,0,0,0,0,0,0.94,96,24,192,0,0.47,-1,-1,-1,14
+Benik Afobe,27,729504000,Premier League,2017/2018,Forward,AFC Bournemouth,532,246,286,Congo DR,17,2,3,0,0,0,0,0,0,0,0,2,1,1,12,4,8,0,0,0,0,0,0,0,0,2.03,44,31,0,0,0,299,412,-1,20
+Benjamin Johnson,20,948700800,Premier League,2017/2018,Forward,West Ham United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Benjamin Mendy,26,774428400,Premier League,2017/2018,Defender,Manchester City,361,181,180,France,7,2,2,0,0,0,1,1,0,0,0,5,4,1,1,0,1,2,0,0.25,0.25,0,0,0,0,0.25,361,52,181,361,0.5,286,36,3,18
+Benjamin Woodburn,21,939970800,Premier League,2017/2018,Forward,Liverpool,6,6,0,Wales,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,-1,-1,-1,17
+Beram Kayal,32,578559600,Premier League,2017/2018,Midfielder,Brighton & Hove Albion,739,233,506,Israel,19,2,6,0,0,0,0,0,0,0,0,3,2,1,14,4,10,2,0,0,0,0,0,0,0,1.71,53,39,370,0,0.24,294,285,-1,22
+Bernardo Silva,26,776502000,Premier League,2017/2018,Midfielder,Manchester City,1519,762,757,Portugal,35,7,8,6,4,2,4,2,2,0,0,17,7,10,9,6,3,0,0,0.59,0.24,0.36,0.47,0.24,253,0.53,169,43,0,380,0,39,42,-1,7
+Bojan,30,651826800,Premier League,2017/2018,Forward,Stoke City,72,0,72,Spain,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1.25,72,72,0,0,0,-1,-1,-1,28
+Brad Smith,26,765874800,Premier League,2017/2018,Defender,AFC Bournemouth,0,0,0,Australia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Brahim Abdelkader Diaz,21,933663600,Premier League,2017/2018,Midfielder,Manchester City,50,22,28,Spain,5,0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,1,0,0,0,0,0,0,0,0,1.8,50,10,0,0,0,-1,-1,-1,15
+Bruno Martins Indi,28,697536000,Premier League,2017/2018,Defender,Stoke City,1244,534,710,Netherlands,17,6,8,0,0,0,0,0,0,0,0,3,1,2,26,12,14,3,0,0,0,0,0,0,0,1.88,48,73,415,0,0.22,279,278,169,21
+Bruno Saltor Grau,40,339231600,Premier League,2017/2018,Defender,Brighton & Hove Albion,2018,1073,945,Spain,25,12,11,0,0,0,0,0,0,0,0,10,5,5,22,10,12,3,0,0,0,0,0,0,0,0.98,92,81,673,0,0.13,409,410,50,14
+Callum Hudson-Odoi,19,973584000,Premier League,2017/2018,Midfielder,Chelsea,27,27,0,England,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,3.33,27,14,0,0,0,-1,-1,-1,18
+Callum Wilson,28,699177600,Premier League,2017/2018,Forward,AFC Bournemouth,1990,1050,940,England,28,12,11,8,5,3,2,1,1,0,0,5,2,3,30,17,13,0,0,0.45,0.09,0.36,0.43,0.29,249,1.36,66,71,0,995,0,40,150,-1,1
+Calum Chambers,25,790588800,Premier League,2017/2018,Defender,Arsenal,869,364,505,England,12,4,6,0,0,0,0,0,0,0,0,3,3,0,13,4,9,1,0,0,0,0,0,0,0,1.35,67,72,869,0,0.1,287,265,90,19
+Cameron Carter-Vickers,22,883555200,Premier League,2017/2018,Defender,Tottenham Hotspur,0,0,0,USA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Carl Stewart,23,862556400,Premier League,2017/2018,Midfielder,Watford,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Cedric Soares,29,683622000,Premier League,2017/2018,Defender,Southampton,2797,1433,1364,Portugal,32,16,16,0,0,0,3,0,3,0,0,7,3,4,41,21,20,3,0,0.1,0.1,0,0,0,0,1.32,68,87,932,932,0.1,393,129,86,23
+Cenk Tosun,29,676278000,Premier League,2017/2018,Forward,Everton,991,503,488,Turkey,14,6,6,5,1,4,0,0,0,0,0,4,3,1,13,5,8,0,0,0.45,0,0.45,0.18,0.74,198,1.18,76,71,0,0,0,25,290,-1,3
+Cesar Azpilicueta,31,620290800,Premier League,2017/2018,Defender,Chelsea,3330,1620,1710,Spain,37,18,19,2,2,0,6,3,3,0,0,15,9,6,34,15,19,1,0,0.22,0.16,0.05,0.11,0,1665,0.92,98,90,3330,555,0.03,214,76,45,8
+Cesc Fabregas,33,547110000,Premier League,2017/2018,Midfielder,Chelsea,2309,1432,877,Spain,32,16,9,2,1,1,4,1,3,0,0,14,9,5,25,14,11,6,1,0.23,0.16,0.08,0.06,0.1,1155,0.97,92,72,385,577,0.23,174,75,-1,10
+Chancel Mbemba Mangulu,26,776329200,Premier League,2017/2018,Defender,Newcastle United,672,313,359,Congo DR,9,3,4,0,0,0,0,0,0,0,0,1,1,0,11,4,7,0,0,0,0,0,0,0,0,1.47,61,75,0,0,0,366,364,126,17
+Charlie Adam,34,503049600,Premier League,2017/2018,Midfielder,Stoke City,408,295,113,Scotland,11,4,1,0,0,0,0,0,0,0,1,3,2,1,7,3,4,3,1,0,0,0,0,0,0,1.54,58,37,102,0,0.88,390,354,-1,20
+Charlie Austin,31,615625200,Premier League,2017/2018,Forward,Southampton,1030,581,449,England,24,6,4,7,5,2,0,0,0,1,0,4,2,2,14,8,6,2,0,0.61,0,0.61,0.77,0.4,147,1.22,74,43,515,0,0.17,10,391,-1,1
+Charlie Daniels,34,526460400,Premier League,2017/2018,Defender,AFC Bournemouth,3005,1385,1620,England,35,16,18,1,1,0,3,1,2,0,0,6,3,3,46,22,24,0,0,0.12,0.09,0.03,0.06,0,3005,1.38,65,86,0,1002,0,233,139,100,12
+Charlie Taylor,27,748335600,Premier League,2017/2018,Defender,Burnley,949,409,540,England,11,4,6,0,0,0,0,0,0,0,0,3,1,2,10,6,4,3,0,0,0,0,0,0,0,0.95,95,86,316,0,0.28,302,325,47,19
+Charly Junior Musonda,24,845362800,Premier League,2017/2018,Midfielder,Chelsea,34,0,34,Belgium,3,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,2.65,2.65,0,0,0,0,0,0,11,0,34,0,-1,-1,-1,22
+Cheikhou Kouyaté,30,630230400,Premier League,2017/2018,Midfielder,West Ham United,2803,1481,1322,Senegal,33,17,15,2,2,0,3,1,2,0,0,7,5,2,55,25,30,5,0,0.16,0.1,0.06,0.12,0,1402,1.77,51,85,561,934,0.16,194,133,-1,10
+Choupo-Moting,31,606643200,Premier League,2017/2018,Forward,Stoke City,2248,1203,1045,Cameroon,30,14,12,5,4,1,5,5,0,0,0,5,3,2,44,18,26,3,0,0.4,0.2,0.2,0.3,0.09,450,1.76,51,75,749,450,0.12,96,58,-1,3
+Chris Brunt,35,471859200,Premier League,2017/2018,Midfielder,West Bromwich Albion,1923,1157,766,Northern Ireland,26,13,9,0,0,0,7,6,1,0,0,9,5,4,21,13,8,5,0,0.33,0.33,0,0,0,0,0.98,92,74,385,275,0.23,404,14,-1,22
+Chris Löwe,31,608713200,Premier League,2017/2018,Defender,Huddersfield Town,1593,900,693,Germany,23,10,9,0,0,0,0,0,0,0,0,7,4,3,25,15,10,1,0,0,0,0,0,0,0,1.41,64,69,1593,0,0.06,313,310,113,24
+Chris Smalling,30,627724800,Premier League,2017/2018,Defender,Manchester United,2535,1170,1365,England,29,13,15,4,1,3,0,0,0,0,0,12,7,5,23,7,16,4,0,0.14,0,0.14,0.08,0.2,634,0.82,110,87,634,0,0.14,127,377,27,8
+Chris Wood,28,692092800,Premier League,2017/2018,Forward,Burnley,1633,807,826,New Zealand,24,10,10,10,5,5,1,0,1,0,0,9,5,4,10,5,5,1,0,0.61,0.06,0.55,0.56,0.54,163,0.55,163,68,1633,1633,0.06,16,190,-1,1
+Christian Atsu Twasam,28,695030400,Premier League,2017/2018,Midfielder,Newcastle United,1782,952,830,Ghana,28,10,9,2,1,1,2,1,1,0,0,8,6,2,22,7,15,1,0,0.2,0.1,0.1,0.09,0.11,891,1.11,81,64,1782,891,0.05,150,132,-1,9
+Christian Benteke,29,660211200,Premier League,2017/2018,Forward,Crystal Palace,2236,1184,1052,Belgium,31,12,12,3,1,2,5,2,3,1,1,9,4,5,35,19,16,6,0,0.32,0.2,0.12,0.08,0.17,745,1.41,64,72,373,447,0.24,138,60,-1,7
+Christian Eriksen,28,698054400,Premier League,2017/2018,Midfielder,Tottenham Hotspur,3226,1696,1530,Denmark,37,19,18,10,5,5,10,3,7,0,0,16,10,6,30,15,15,0,0,0.56,0.28,0.28,0.27,0.29,323,0.84,108,87,0,323,0,60,24,-1,3
+Christian Fuchs,34,513244800,Premier League,2017/2018,Defender,Leicester City,1918,979,939,Austria,25,11,10,0,0,0,1,1,0,0,0,6,3,3,34,12,22,1,0,0.05,0.05,0,0,0,0,1.6,56,77,1918,1918,0.05,334,207,153,18
+Christian Kabasele,29,667382400,Premier League,2017/2018,Defender,Watford,2332,1144,1188,Belgium,28,13,14,2,1,1,0,0,0,0,0,7,3,4,39,22,17,5,0,0.08,0,0.08,0.08,0.08,1166,1.51,60,83,466,0,0.19,167,254,139,8
+Christopher Schindler,30,641372400,Premier League,2017/2018,Defender,Huddersfield Town,3266,1677,1589,Germany,37,19,18,0,0,0,1,1,0,0,0,10,7,3,51,24,27,8,1,0.03,0.03,0,0,0,0,1.41,64,88,408,3266,0.22,315,230,109,23
+Chung-Yong Lee,32,583830000,Premier League,2017/2018,Midfielder,Crystal Palace,130,56,74,South Korea,7,0,1,0,0,0,0,0,0,0,0,3,3,0,3,2,1,0,0,0,0,0,0,0,0,2.08,43,19,0,0,0,-1,-1,-1,21
+Ciaran Clark,31,622796400,Premier League,2017/2018,Defender,Newcastle United,1745,845,900,Republic of Ireland,20,9,10,2,1,1,1,0,1,0,0,4,2,2,29,12,17,3,0,0.15,0.05,0.1,0.11,0.1,873,1.5,60,87,582,1745,0.15,151,205,135,7
+Claudio Andrés Bravo Muñoz,37,419068800,Premier League,2017/2018,Goalkeeper,Manchester City,225,135,90,Chile,3,1,1,0,0,0,0,0,0,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0.4,225,75,0,0,0,-1,-1,-1,21
+Claudio Yacob,33,553590000,Premier League,2017/2018,Midfielder,West Bromwich Albion,899,435,464,Argentina,16,4,5,0,0,0,0,0,0,0,0,4,2,2,17,10,7,5,0,0,0,0,0,0,0,1.7,53,56,180,0,0.5,403,401,-1,23
+Collin Quaner,29,677228400,Premier League,2017/2018,Forward,Huddersfield Town,1272,597,675,Germany,26,6,7,0,0,0,4,1,3,0,0,7,6,1,22,6,16,4,0,0.28,0.28,0,0,0,0,1.56,58,49,318,318,0.28,319,23,-1,16
+Connor Goldson,27,724665600,Premier League,2017/2018,Defender,Brighton & Hove Albion,199,180,19,England,3,2,0,0,0,0,0,0,0,0,0,1,1,0,5,4,1,1,0,0,0,0,0,0,0,2.26,40,66,199,0,0.45,-1,-1,-1,21
+Connor Mahoney,23,855734400,Premier League,2017/2018,Midfielder,AFC Bournemouth,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Connor Roberts,25,811839600,Premier League,2017/2018,Midfielder,Swansea City,268,153,115,Wales,4,2,1,0,0,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,1.34,67,67,0,0,0,-1,-1,-1,26
+Conor Masterson,22,905238000,Premier League,2017/2018,Defender,Liverpool,0,0,0,Republic of Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Costel Pantilimon,33,539164800,Premier League,2017/2018,Goalkeeper,Watford,0,0,0,Romania,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Craig Cathcart,31,602755200,Premier League,2017/2018,Defender,Watford,495,225,270,Northern Ireland,7,2,3,0,0,0,0,0,0,0,0,2,2,0,4,1,3,1,0,0,0,0,0,0,0,0.73,124,71,495,0,0.18,290,274,18,23
+Craig Dawson,30,641977200,Premier League,2017/2018,Defender,West Bromwich Albion,2511,1251,1260,England,28,14,14,2,2,0,0,0,0,0,0,8,5,3,36,16,20,6,0,0.07,0,0.07,0.14,0,1256,1.29,70,90,419,0,0.22,183,398,79,5
+Curtis Jones,19,980841600,Premier League,2017/2018,Midfielder,Liverpool,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Dale Stephens,31,613638000,Premier League,2017/2018,Midfielder,Brighton & Hove Albion,3240,1620,1620,England,36,18,18,0,0,0,3,2,1,0,0,10,5,5,49,22,27,6,0,0.08,0.08,0,0,0,0,1.36,66,90,540,1080,0.17,399,168,-1,11
+Daley Blind,30,636969600,Premier League,2017/2018,Defender,Manchester United,360,257,103,Netherlands,7,3,1,0,0,0,0,0,0,0,0,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,376,373,1,24
+Damien Delaney,39,364460400,Premier League,2017/2018,Defender,Crystal Palace,95,5,90,Republic of Ireland,2,0,1,0,0,0,0,0,0,0,0,0,0,0,5,1,4,0,0,0,0,0,0,0,0,4.74,19,48,0,0,0,-1,-1,-1,13
+Dan Gosling,30,633859200,Premier League,2017/2018,Midfielder,AFC Bournemouth,1942,841,1101,England,28,9,12,2,2,0,1,1,0,0,0,4,2,2,36,15,21,8,0,0.14,0.05,0.09,0.21,0,971,1.67,54,69,243,1942,0.37,164,197,-1,11
+Daniel Amartey,25,787996800,Premier League,2017/2018,Midfielder,Leicester City,505,233,272,Ghana,8,3,3,0,0,0,0,0,0,0,0,3,2,1,7,1,6,2,1,0,0,0,0,0,0,1.25,72,63,253,0,0.36,339,335,-1,19
+Daniel Bachmann,26,773737200,Premier League,2017/2018,Goalkeeper,Watford,0,0,0,Austria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Daniel Sturridge,31,620636400,Premier League,2017/2018,Forward,West Bromwich Albion,547,396,151,England,15,5,2,2,2,0,1,0,1,0,0,6,5,1,8,4,4,0,0,0.49,0.16,0.33,0.45,0,274,1.32,68,36,0,547,0,46,77,-1,9
+Daniel William John Ings,28,711874800,Premier League,2017/2018,Forward,Liverpool,265,90,175,England,8,1,2,1,0,1,0,0,0,0,0,5,3,2,0,0,0,0,0,0.34,0,0.34,0,0.51,265,0,0,33,0,0,0,-1,-1,-1,12
+Daniel Williams,31,605347200,Premier League,2017/2018,Midfielder,Huddersfield Town,1117,447,670,USA,20,4,7,0,0,0,0,0,0,0,0,6,5,1,21,7,14,2,0,0,0,0,0,0,0,1.69,53,56,559,0,0.16,318,312,-1,19
+Danilo,29,679561200,Premier League,2017/2018,Defender,Manchester City,1341,552,789,Brazil,23,5,8,3,2,1,2,1,1,0,0,12,5,7,11,6,5,2,0,0.34,0.13,0.2,0.33,0.11,447,0.74,122,58,671,671,0.13,95,105,19,11
+Danny Drinkwater,30,636624000,Premier League,2017/2018,Midfielder,Chelsea,522,205,317,England,12,2,3,1,1,0,0,0,0,0,0,6,4,2,5,1,4,0,0,0.17,0,0.17,0.44,0,522,0.86,104,44,0,0,0,109,291,-1,15
+Danny Rose,30,646902000,Premier League,2017/2018,Defender,Tottenham Hotspur,802,362,440,England,10,4,5,0,0,0,1,1,0,0,0,3,3,0,13,6,7,4,0,0.11,0.11,0,0,0,0,1.46,62,80,201,802,0.45,258,118,122,13
+Danny Simpson,33,536745600,Premier League,2017/2018,Defender,Leicester City,2312,1132,1180,England,28,14,13,0,0,0,0,0,0,0,0,5,3,2,39,16,23,4,0,0,0,0,0,0,0,1.52,59,83,578,0,0.16,335,332,141,23
+Danny Ward,27,740732400,Premier League,2017/2018,Goalkeeper,Liverpool,0,0,0,Wales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Danny Welbeck,29,659606400,Premier League,2017/2018,Forward,Arsenal,1185,598,587,England,28,6,6,5,5,0,2,2,0,0,0,10,6,4,19,10,9,1,0,0.53,0.15,0.38,0.75,0,237,1.44,62,42,1185,593,0.08,33,83,-1,4
+Darren Fletcher,36,444470400,Premier League,2017/2018,Midfielder,Stoke City,2223,1050,1173,Scotland,27,13,12,1,0,1,1,0,1,0,0,5,3,2,48,18,30,0,0,0.08,0.04,0.04,0,0.08,2223,1.94,46,82,0,2223,0,229,225,-1,10
+Daryl Janmaat,31,617094000,Premier League,2017/2018,Defender,Watford,1822,994,828,Netherlands,23,12,9,3,1,2,0,0,0,0,0,3,2,1,33,19,14,3,0,0.15,0,0.15,0.09,0.22,607,1.63,55,79,607,0,0.15,121,328,157,6
+David de Gea,29,657964800,Premier League,2017/2018,Goalkeeper,Manchester United,3330,1620,1710,Spain,37,18,19,0,0,0,0,0,0,0,0,18,11,7,27,9,18,0,0,0,0,0,0,0,0,0.73,123,90,0,0,0,375,372,17,18
+David Luiz,33,546073200,Premier League,2017/2018,Defender,Chelsea,839,357,482,Brazil,10,4,5,1,1,0,0,0,0,0,0,4,2,2,12,5,7,5,1,0.11,0,0.11,0.25,0,839,1.29,70,84,140,0,0.64,143,352,78,16
+David Ospina Ramírez,32,589014000,Premier League,2017/2018,Goalkeeper,Arsenal,380,200,180,Colombia,5,2,2,0,0,0,0,0,0,0,0,2,1,1,2,1,1,0,0,0,0,0,0,0,0,0.47,190,76,0,0,0,332,330,5,23
+David Silva,34,505555200,Premier League,2017/2018,Midfielder,Manchester City,2437,1297,1140,Spain,29,15,13,9,3,6,11,4,7,0,0,15,8,7,17,11,6,5,0,0.74,0.41,0.33,0.21,0.47,271,0.63,143,84,487,222,0.18,45,7,-1,5
+Davide Zappacosta,28,708246000,Premier League,2017/2018,Defender,Chelsea,1095,486,609,Italy,22,6,6,1,1,0,1,0,1,0,0,10,6,4,12,3,9,0,0,0.16,0.08,0.08,0.19,0,1095,0.99,91,50,0,1095,0,177,165,51,13
+Davinson Sánchez Mina,24,834562800,Premier League,2017/2018,Defender,Tottenham Hotspur,2534,1272,1262,Colombia,31,14,15,0,0,0,0,0,0,0,0,14,9,5,20,8,12,2,1,0,0,0,0,0,0,0.71,127,82,845,0,0.11,296,280,15,14
+Davy Klaassen,27,730281600,Premier League,2017/2018,Midfielder,Everton,250,177,73,Netherlands,7,3,0,0,0,0,0,0,0,0,0,2,2,0,6,3,3,0,0,0,0,0,0,0,0,2.16,42,36,0,0,0,-1,-1,-1,25
+Davy Pröpper,29,683794800,Premier League,2017/2018,Midfielder,Brighton & Hove Albion,3120,1604,1516,Netherlands,35,18,17,0,0,0,4,2,2,0,0,9,5,4,48,22,26,3,1,0.12,0.12,0,0,0,0,1.38,65,89,780,780,0.12,384,109,-1,10
+Dean Marney,36,444384000,Premier League,2017/2018,Midfielder,Burnley,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Dean Whitehead,38,380448000,Premier League,2017/2018,Midfielder,Huddersfield Town,67,55,12,England,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,2.69,34,17,0,0,0,-1,-1,-1,12
+DeAndre Yedlin,27,742201200,Premier League,2017/2018,Defender,Newcastle United,2842,1530,1312,USA,34,17,14,0,0,0,2,1,1,0,0,7,6,1,36,14,22,5,0,0.06,0.06,0,0,0,0,1.14,79,84,568,1421,0.16,264,184,63,25
+Declan Rice,21,916300800,Premier League,2017/2018,Midfielder,West Ham United,1422,560,862,Republic of Ireland,26,6,9,0,0,0,0,0,0,0,0,6,4,2,26,7,19,1,0,0,0,0,0,0,0,1.65,55,55,1422,0,0.06,249,269,-1,22
+Dejan Lovren,31,615625200,Premier League,2017/2018,Defender,Liverpool,2124,983,1141,Croatia,29,11,13,2,1,1,1,0,1,0,0,13,8,5,21,5,16,4,0,0.13,0.04,0.08,0.09,0.08,1062,0.89,101,73,531,2124,0.17,168,218,40,7
+Dele Alli,24,829206000,Premier League,2017/2018,Midfielder,Tottenham Hotspur,2972,1415,1557,England,36,16,18,9,4,5,10,6,4,0,0,15,9,6,26,10,16,7,0,0.58,0.3,0.27,0.25,0.29,330,0.79,114,83,425,297,0.21,63,19,-1,4
+Demarai Gray,24,835945200,Premier League,2017/2018,Midfielder,Leicester City,1690,796,894,England,35,7,10,3,2,1,1,0,1,0,0,9,6,3,32,11,21,2,0,0.21,0.05,0.16,0.23,0.1,563,1.7,53,48,845,1690,0.11,113,195,-1,6
+Diafra Sakho,30,630489600,Premier League,2017/2018,Forward,West Ham United,292,59,233,Senegal,14,0,0,2,1,1,0,0,0,0,0,5,3,2,9,1,8,2,0,0.62,0,0.62,1.53,0.39,146,2.77,32,21,146,0,0.62,9,299,-1,9
+Didier Ndong Ibrahim,26,771836400,Premier League,2017/2018,Midfielder,Watford,0,0,0,Gabon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Diego Cavalieri,37,407577600,Premier League,2017/2018,Goalkeeper,Crystal Palace,0,0,0,Brazil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Dion Henry,23,874047600,Premier League,2017/2018,Goalkeeper,Crystal Palace,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Divock Origi,25,798188400,Premier League,2017/2018,Forward,Liverpool,9,0,9,Belgium,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,-1,-1,-1,24
+Dodi Lukebakio,23,875084400,Premier League,2017/2018,Midfielder,Watford,15,0,15,Belgium,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,6,15,15,0,0,0,-1,-1,-1,29
+Domingos Quina,20,942912000,Premier League,2017/2018,Midfielder,West Ham United,0,0,0,Portugal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Dominic Calvert-Lewin,23,858499200,Premier League,2017/2018,Forward,Everton,1874,941,933,England,32,9,9,4,3,1,6,3,3,0,0,9,7,2,26,9,17,4,0,0.48,0.29,0.19,0.29,0.1,469,1.25,72,59,469,312,0.19,98,20,-1,5
+Dominic Solanke,23,874220400,Premier League,2017/2018,Forward,Liverpool,582,254,328,England,21,2,3,1,1,0,1,0,1,0,0,11,7,4,3,1,2,0,0,0.31,0.15,0.15,0.35,0,582,0.46,194,28,0,582,0,122,82,-1,11
+Dujon Sterling,21,940748400,Premier League,2017/2018,Defender,Chelsea,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Dušan Tadić,31,596016000,Premier League,2017/2018,Midfielder,Southampton,2812,1511,1301,Serbia,36,18,16,6,5,1,3,2,1,1,0,8,3,5,40,21,19,4,0,0.29,0.1,0.19,0.3,0.07,469,1.28,70,78,703,937,0.13,101,131,-1,2
+Dwight Gayle,30,656146800,Premier League,2017/2018,Forward,Newcastle United,1961,1046,915,England,35,13,10,6,2,4,3,3,0,0,0,7,5,2,30,12,18,3,0,0.41,0.14,0.28,0.17,0.39,327,1.38,65,56,654,654,0.14,61,96,-1,2
+Dwight McNeil,20,943257600,Premier League,2017/2018,Forward,Burnley,0,0,0,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Eden Hazard,29,663235200,Premier League,2017/2018,Midfielder,Chelsea,2433,1125,1308,Belgium,34,13,15,12,4,8,4,1,3,2,0,14,8,6,26,11,15,2,0,0.59,0.15,0.44,0.32,0.55,203,0.96,94,72,1217,608,0.07,26,81,-1,1
+Ederson,27,745570800,Premier League,2017/2018,Goalkeeper,Manchester City,3195,1575,1620,Brazil,36,18,18,0,0,0,0,0,0,0,0,17,8,9,24,12,12,1,0,0,0,0,0,0,0,0.68,133,89,3195,0,0.03,383,370,12,17
+Edimilson Fernandes,24,829551600,Premier League,2017/2018,Midfielder,West Ham United,846,353,493,Switzerland,14,3,6,0,0,0,1,1,0,0,0,2,1,1,18,8,10,1,0,0.11,0.11,0,0,0,0,1.91,47,60,846,846,0.11,300,125,-1,23
+Eduardo dos Reis Carvalho,38,401266800,Premier League,2017/2018,Goalkeeper,Chelsea,0,0,0,Portugal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Edward Nketiah,21,928047600,Premier League,2017/2018,Forward,Arsenal,17,0,17,England,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,-1,-1,-1,18
+Eldin Jakupovic,36,465548400,Premier League,2017/2018,Goalkeeper,Leicester City,180,90,90,Switzerland,2,1,1,0,0,0,0,0,0,0,0,0,0,0,6,1,5,0,0,0,0,0,0,0,0,3,30,90,0,0,0,-1,-1,-1,10
+Eliaquim Mangala,29,666432000,Premier League,2017/2018,Defender,Everton,618,244,374,France,11,3,3,0,0,0,0,0,0,0,0,5,1,4,6,1,5,0,0,0,0,0,0,0,0,0.87,103,56,0,0,0,361,359,35,13
+Elias Kachunga,28,703926000,Premier League,2017/2018,Forward,Huddersfield Town,1338,622,716,Congo DR,19,8,9,1,0,1,1,1,0,0,0,6,4,2,22,7,15,1,0,0.13,0.07,0.07,0,0.13,1338,1.48,61,70,1338,1338,0.07,184,170,-1,7
+Emerson Hyndman,24,829033200,Premier League,2017/2018,Midfielder,AFC Bournemouth,59,0,59,USA,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1.53,59,59,0,0,0,-1,-1,-1,22
+Emerson Palmieri dos Santos,26,775897200,Premier League,2017/2018,Defender,Chelsea,279,7,272,Italy,5,0,3,0,0,0,1,0,1,0,0,1,0,1,4,0,4,0,0,0.32,0.32,0,0,0,0,1.29,70,56,0,279,0,412,15,81,26
+Emre Can,26,758361600,Premier League,2017/2018,Midfielder,Liverpool,2094,947,1147,Germany,26,11,13,3,1,2,4,2,2,0,0,11,8,3,26,5,21,8,0,0.3,0.17,0.13,0.1,0.16,698,1.12,81,81,262,524,0.34,133,67,-1,5
+Erdal Rakip,24,824198400,Premier League,2017/2018,Midfielder,Crystal Palace,0,0,0,Sweden,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Eric Bertrand Bailly,26,766134000,Premier League,2017/2018,Defender,Manchester United,999,549,450,Côte d'Ivoire,13,6,5,1,0,1,0,0,0,0,0,8,5,3,6,1,5,2,0,0.09,0,0.09,0,0.2,999,0.54,167,77,500,0,0.18,160,375,6,12
+Eric Dier,26,758620800,Premier League,2017/2018,Midfielder,Tottenham Hotspur,2827,1485,1342,England,34,17,15,0,0,0,2,1,1,0,0,15,9,6,27,13,14,4,0,0.06,0.06,0,0,0,0,0.86,105,83,707,1414,0.13,372,186,-1,19
+Erik Lamela,28,699696000,Premier League,2017/2018,Midfielder,Tottenham Hotspur,832,343,489,Argentina,25,3,4,2,2,0,2,1,1,0,0,10,7,3,10,8,2,4,0,0.43,0.22,0.22,0.52,0,416,1.08,83,33,208,416,0.43,82,50,-1,5
+Erik Pieters,32,586940400,Premier League,2017/2018,Defender,Stoke City,2720,1393,1327,Netherlands,31,16,14,0,0,0,1,1,0,0,0,6,3,3,48,22,26,5,0,0.03,0.03,0,0,0,0,1.59,57,88,544,2720,0.17,385,234,151,24
+Erwin Mulder,31,604915200,Premier League,2017/2018,Goalkeeper,Swansea City,0,0,0,Netherlands,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ethan Ampadu,20,968914800,Premier League,2017/2018,Midfielder,Chelsea,10,0,10,Wales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,-1,-1,-1,19
+Etienne Capoue,32,584607600,Premier League,2017/2018,Midfielder,Watford,1542,807,735,France,23,9,9,1,0,1,0,0,0,0,0,5,3,2,27,11,16,3,0,0.06,0,0.06,0,0.12,1542,1.58,57,67,514,0,0.18,191,344,-1,10
+Fabian Delph,30,627638400,Premier League,2017/2018,Midfielder,Manchester City,1746,953,793,England,22,11,10,1,1,0,2,2,0,0,0,9,5,4,15,9,6,2,0,0.15,0.1,0.05,0.09,0,1746,0.77,116,79,873,873,0.1,217,128,-1,12
+Faustino Marcos Alberto Rojo,30,637920000,Premier League,2017/2018,Defender,Manchester United,642,272,370,Argentina,9,4,4,0,0,0,0,0,0,0,0,3,2,1,8,3,5,6,0,0,0,0,0,0,0,1.12,80,71,107,0,0.84,276,289,59,15
+Federico Fernández,31,604051200,Premier League,2017/2018,Defender,Swansea City,2677,1260,1417,Argentina,30,14,16,1,0,1,1,1,0,0,0,7,3,4,41,16,25,5,0,0.07,0.03,0.03,0,0.06,2677,1.38,65,89,535,2677,0.17,235,241,99,10
+Fernando Llorente Torres,35,478252800,Premier League,2017/2018,Forward,Tottenham Hotspur,224,78,146,Spain,16,0,1,1,0,1,0,0,0,0,0,5,3,2,1,0,1,1,0,0.4,0,0.4,0,0.62,224,0.4,224,14,224,0,0.4,-1,-1,-1,9
+Fernando Luiz Rosa,35,484038000,Premier League,2017/2018,Midfielder,Manchester City,2885,1387,1498,Brazil,34,16,17,5,3,2,3,2,1,0,0,15,6,9,22,11,11,7,0,0.25,0.09,0.16,0.19,0.12,577,0.69,131,85,412,962,0.22,114,151,-1,8
+Fikayo Tomori,22,882518400,Premier League,2017/2018,Defender,Chelsea,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Florent Hadergjonaj,26,775638000,Premier League,2017/2018,Defender,Huddersfield Town,1673,789,884,Switzerland,23,9,10,0,0,0,1,1,0,0,0,6,4,2,28,9,19,3,0,0.05,0.05,0,0,0,0,1.51,60,73,558,1673,0.16,256,192,138,14
+Florian Lejeune,29,674722800,Premier League,2017/2018,Defender,Newcastle United,2104,1024,1080,France,24,12,12,0,0,0,2,1,1,0,0,5,5,0,31,9,22,3,0,0.09,0.09,0,0,0,0,1.33,68,88,701,1052,0.13,363,137,88,22
+Fousseni Diabaté,25,813999600,Premier League,2017/2018,Midfielder,Leicester City,582,353,229,Mali,14,4,1,0,0,0,1,1,0,0,0,2,1,1,11,5,6,1,0,0.15,0.15,0,0,0,0,1.7,53,42,582,582,0.15,280,84,-1,11
+Francis Coquelin,29,674118000,Premier League,2017/2018,Midfielder,Arsenal,164,41,123,France,7,0,1,0,0,0,0,0,0,0,0,3,3,0,5,0,5,0,0,0,0,0,0,0,0,2.74,33,23,0,0,0,-1,-1,-1,22
+Francisco Femenía Far,29,665481600,Premier League,2017/2018,Midfielder,Watford,1715,833,882,Spain,23,8,11,1,1,0,1,0,1,0,0,7,4,3,31,13,18,2,0,0.1,0.05,0.05,0.11,0,1715,1.63,55,75,858,1715,0.1,213,209,-1,15
+Fraser Forster,32,574588800,Premier League,2017/2018,Goalkeeper,Southampton,1800,990,810,England,20,11,9,0,0,0,0,0,0,0,0,4,2,2,29,15,14,0,0,0,0,0,0,0,0,1.45,62,90,0,0,0,391,355,121,19
+Freddie Ladapo,27,728553600,Premier League,2017/2018,Forward,Crystal Palace,16,0,16,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,5.63,16,16,0,0,0,-1,-1,-1,22
+Freddie Woodman,23,857462400,Premier League,2017/2018,Goalkeeper,Newcastle United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Fredrik Ulvestad,28,708764400,Premier League,2017/2018,Midfielder,Burnley,0,0,0,Norway,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Gabriel Jesus,23,860054400,Premier League,2017/2018,Forward,Manchester City,1672,644,1028,Brazil,29,7,12,13,6,7,3,1,2,0,2,14,5,9,11,5,6,6,0,0.86,0.16,0.7,0.84,0.61,129,0.59,152,58,279,557,0.32,5,72,-1,3
+Gaëtan Bong Songo,32,577954800,Premier League,2017/2018,Defender,Brighton & Hove Albion,2238,990,1248,Cameroon,25,11,14,0,0,0,0,0,0,0,0,6,2,4,35,14,21,2,0,0,0,0,0,0,0,1.41,64,90,1119,0,0.08,250,270,110,18
+Gareth Barry,39,351763200,Premier League,2017/2018,Midfielder,West Bromwich Albion,1926,1020,906,England,25,12,10,1,1,0,1,1,0,0,0,5,4,1,32,16,16,4,0,0.09,0.05,0.05,0.09,0,1926,1.5,60,77,482,1926,0.19,221,198,-1,14
+Gareth McAuley,40,313228800,Premier League,2017/2018,Defender,West Bromwich Albion,456,254,202,Northern Ireland,9,3,2,0,0,0,0,0,0,0,0,1,1,0,15,10,5,0,0,0,0,0,0,0,0,2.96,30,51,0,0,0,271,258,176,24
+Gary Cahill,34,503827200,Premier League,2017/2018,Defender,Chelsea,2084,1153,931,England,27,14,10,0,0,0,0,0,0,0,0,12,9,3,21,7,14,2,1,0,0,0,0,0,0,0.91,99,77,695,0,0.13,353,351,42,21
+Geoff Cameron,35,489913200,Premier League,2017/2018,Defender,Stoke City,1525,693,832,USA,20,8,9,0,0,0,0,0,0,0,0,3,2,1,30,11,19,2,0,0,0,0,0,0,0,1.77,51,76,763,0,0.12,387,322,168,29
+George Thomas,23,859190400,Premier League,2017/2018,Midfielder,Leicester City,0,0,0,Wales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Georges-Kevin N'Koudou Mbida,25,792662400,Premier League,2017/2018,Forward,Burnley,224,27,197,France,9,0,2,0,0,0,0,0,0,0,0,2,2,0,2,0,2,1,0,0,0,0,0,0,0,0.8,112,25,224,0,0.4,-1,-1,-1,13
+Georginio Wijnaldum,29,658310400,Premier League,2017/2018,Midfielder,Liverpool,2387,1084,1303,Netherlands,33,12,15,1,1,0,2,1,1,0,0,16,11,5,20,4,16,1,0,0.11,0.08,0.04,0.08,0,2387,0.75,119,72,2387,1194,0.04,228,157,-1,8
+Gerard Deulofeu,26,763545600,Premier League,2017/2018,Forward,Watford,438,186,252,Spain,7,2,3,1,1,0,0,0,0,0,0,2,1,1,3,1,2,0,0,0.21,0,0.21,0.48,0,438,0.62,146,63,0,0,0,85,283,-1,11
+Glen Johnson,36,462092400,Premier League,2017/2018,Defender,Stoke City,549,453,96,England,9,6,1,0,0,0,0,0,0,0,0,0,0,0,14,11,3,3,0,0,0,0,0,0,0,2.3,39,61,183,0,0.49,389,324,174,26
+Glenn Murray,37,433321200,Premier League,2017/2018,Forward,Brighton & Hove Albion,2197,1220,977,England,35,14,11,12,7,5,0,0,0,4,2,8,4,4,35,19,16,9,0,0.49,0,0.49,0.52,0.46,183,1.43,63,63,244,0,0.37,21,384,-1,1
+Glyn Oliver Myhill,37,405676800,Premier League,2017/2018,Goalkeeper,West Bromwich Albion,90,0,90,Wales,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,90,90,90,0,1,-1,-1,-1,19
+Gnégnéri Yaya Touré,37,421657200,Premier League,2017/2018,Midfielder,Manchester City,228,159,69,Côte d'Ivoire,10,1,0,0,0,0,2,1,1,0,0,5,2,3,2,2,0,1,0,0.79,0.79,0,0,0,0,0.79,114,23,228,114,0.39,-1,-1,-1,20
+Grady Diangana,22,892969200,Premier League,2017/2018,Midfielder,West Ham United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Granit Xhaka,28,717577200,Premier League,2017/2018,Midfielder,Arsenal,3266,1607,1659,Switzerland,38,18,19,1,1,0,7,4,3,0,0,13,9,4,46,20,26,10,0,0.22,0.19,0.03,0.06,0,3266,1.27,71,86,327,467,0.28,241,65,-1,14
+Grzegorz Krychowiak,30,633600000,Premier League,2017/2018,Midfielder,West Bromwich Albion,1643,673,970,Poland,27,8,12,0,0,0,2,1,1,0,0,7,4,3,28,13,15,2,0,0.11,0.11,0,0,0,0,1.53,59,61,822,822,0.11,266,120,-1,16
+Guido Marcelo Carrillo,29,675154800,Premier League,2017/2018,Forward,Southampton,451,213,238,Argentina,7,2,3,0,0,0,1,0,1,0,0,1,1,0,8,2,6,0,0,0.2,0.2,0,0,0,0,1.6,56,64,0,451,0,243,61,-1,25
+Gylfi Sigurdsson,31,621241200,Premier League,2017/2018,Midfielder,Everton,2262,1157,1105,Iceland,27,13,12,4,3,1,3,2,1,0,0,6,4,2,37,14,23,2,0,0.28,0.12,0.16,0.23,0.08,566,1.47,61,84,1131,754,0.08,115,110,-1,4
+Hal Robson-Kanu,31,611737200,Premier League,2017/2018,Forward,West Bromwich Albion,828,367,461,Wales,21,3,5,2,1,1,0,0,0,0,0,7,4,3,10,3,7,3,1,0.22,0,0.22,0.25,0.2,414,1.09,83,39,207,0,0.43,84,404,-1,3
+Hamza Choudhury,23,875689200,Premier League,2017/2018,Midfielder,Leicester City,332,206,126,England,8,2,2,0,0,0,1,1,0,0,0,1,1,0,9,3,6,1,0,0.27,0.27,0,0,0,0,2.44,37,42,332,332,0.27,291,25,-1,14
+Harry Arter,30,630835200,Premier League,2017/2018,Midfielder,AFC Bournemouth,962,428,534,Republic of Ireland,13,5,6,1,1,0,0,0,0,0,0,3,1,2,12,5,7,4,0,0.09,0,0.09,0.21,0,962,1.12,80,74,241,0,0.37,162,406,-1,13
+Harry Kane,27,743842800,Premier League,2017/2018,Forward,Tottenham Hotspur,3083,1690,1393,England,37,19,16,30,15,15,2,2,0,2,1,16,10,6,30,15,15,5,0,0.93,0.06,0.88,0.8,0.97,103,0.88,103,83,617,1542,0.15,3,180,-1,1
+Harry Maguire,27,731318400,Premier League,2017/2018,Defender,Leicester City,3420,1710,1710,England,38,19,19,2,2,0,4,1,3,0,0,9,6,3,57,21,36,7,0,0.16,0.11,0.05,0.11,0,1710,1.5,60,90,489,855,0.18,216,117,133,7
+Harry Souttar,22,909039600,Premier League,2017/2018,Defender,Stoke City,0,0,0,Scotland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Harry Winks,24,823248000,Premier League,2017/2018,Midfielder,Tottenham Hotspur,771,440,331,England,16,6,3,0,0,0,1,1,0,0,0,6,3,3,7,2,5,0,0,0.12,0.12,0,0,0,0,0.82,110,48,0,771,0,373,113,-1,17
+Harvey Lewis Barnes,22,881654400,Premier League,2017/2018,Midfielder,Leicester City,7,2,5,England,3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,-1,-1,-1,24
+Hector Bellerin,25,795600000,Premier League,2017/2018,Defender,Arsenal,3051,1604,1447,Spain,35,18,16,2,1,1,3,3,0,0,0,12,8,4,41,20,21,5,0,0.15,0.09,0.06,0.06,0.06,1526,1.21,74,87,610,1017,0.15,202,152,69,11
+Henri Saivet,29,656924400,Premier League,2017/2018,Forward,Newcastle United,84,0,84,Senegal,1,0,1,1,0,1,0,0,0,0,0,0,0,0,2,0,2,0,0,1.07,0,1.07,0,1.07,84,2.14,42,84,0,0,0,-1,-1,-1,10
+Henrikh Mkhitaryan,31,601372800,Premier League,2017/2018,Midfielder,Arsenal,1725,871,854,Armenia,26,10,10,3,2,1,9,7,2,0,0,14,10,4,15,4,11,2,0,0.63,0.47,0.16,0.21,0.11,575,0.78,115,66,863,192,0.1,110,4,-1,7
+Heung-Min Son,28,710578800,Premier League,2017/2018,Forward,Tottenham Hotspur,2311,1325,986,South Korea,37,16,11,12,9,3,6,5,1,0,0,16,10,6,16,7,9,0,0,0.7,0.23,0.47,0.61,0.27,193,0.62,144,62,0,385,0,24,44,-1,2
+Heurelho da Silva Gomes,39,351072000,Premier League,2017/2018,Goalkeeper,Watford,2129,1080,1049,Brazil,24,12,12,0,0,0,0,0,0,0,0,5,2,3,37,24,13,0,0,0,0,0,0,0,0,1.56,58,89,0,0,0,341,338,146,17
+Hugo Lloris,33,535968000,Premier League,2017/2018,Goalkeeper,Tottenham Hotspur,3240,1620,1620,France,36,18,18,0,0,0,0,0,0,0,0,15,9,6,31,15,16,1,0,0,0,0,0,0,0,0.86,105,90,3240,0,0.03,368,366,33,15
+Ibrahim Afellay,34,512812800,Premier League,2017/2018,Midfielder,Stoke City,162,37,125,Netherlands,6,0,1,0,0,0,0,0,0,0,0,0,0,0,9,2,7,1,0,0,0,0,0,0,0,5,18,27,162,0,0.56,-1,-1,-1,19
+Idrissa Gana Gueye,31,622796400,Premier League,2017/2018,Midfielder,Everton,2757,1212,1545,Senegal,33,14,18,2,0,2,1,1,0,0,0,8,6,2,42,12,30,8,1,0.1,0.03,0.07,0,0.12,1379,1.37,66,84,345,2757,0.26,190,233,-1,7
+İlkay Gündoğan,29,656751600,Premier League,2017/2018,Midfielder,Manchester City,1508,735,773,Germany,30,7,8,4,2,2,1,1,0,1,0,15,6,9,13,6,7,3,0,0.3,0.06,0.24,0.24,0.23,377,0.78,116,50,503,1508,0.18,70,181,-1,10
+Isaac Ajayi Success,24,821001600,Premier League,2017/2018,Forward,Watford,0,0,0,Nigeria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Isaac Hayden,25,795859200,Premier League,2017/2018,Midfielder,Newcastle United,1370,612,758,England,26,7,8,1,0,1,0,0,0,0,0,8,6,2,24,6,18,7,0,0.07,0,0.07,0,0.12,1370,1.58,57,53,196,0,0.46,182,362,-1,15
+Isaiah Brown,23,852624000,Premier League,2017/2018,Forward,Brighton & Hove Albion,306,136,170,England,13,2,2,0,0,0,0,0,0,0,0,4,2,2,7,3,4,0,0,0,0,0,0,0,0,2.06,44,24,0,0,0,371,399,-1,12
+Islam Slimani,32,582620400,Premier League,2017/2018,Forward,Newcastle United,370,252,118,Algeria,16,2,1,1,1,0,1,1,0,0,0,3,3,0,4,1,3,1,0,0.49,0.24,0.24,0.36,0,370,0.97,93,23,370,370,0.24,72,37,-1,14
+Jack Butland,27,731750400,Premier League,2017/2018,Goalkeeper,Stoke City,3150,1620,1530,England,35,18,17,0,0,0,0,0,0,0,0,6,3,3,60,27,33,0,0,0,0,0,0,0,0,1.71,53,90,0,0,0,356,321,166,14
+Jack Cork,31,614761200,Premier League,2017/2018,Midfielder,Burnley,3420,1710,1710,England,38,19,19,2,1,1,1,0,1,0,0,12,7,5,34,13,21,7,0,0.08,0.03,0.05,0.05,0.05,1710,0.89,101,90,489,3420,0.18,215,244,-1,4
+Jack Simpson,23,850896000,Premier League,2017/2018,Defender,AFC Bournemouth,72,0,72,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,2.5,36,72,0,0,0,-1,-1,-1,15
+Jack Stephens,26,759657600,Premier League,2017/2018,Defender,Southampton,1980,990,990,England,22,11,11,2,1,1,0,0,0,0,0,5,2,3,31,12,19,7,1,0.09,0,0.09,0.09,0.09,990,1.41,64,90,248,0,0.36,163,387,111,9
+Jack Wilshere,28,694252800,Premier League,2017/2018,Midfielder,Arsenal,1187,578,609,England,20,6,6,1,1,0,3,1,2,0,0,7,5,2,15,7,8,6,0,0.3,0.23,0.08,0.16,0,1187,1.14,79,59,198,396,0.45,176,45,-1,13
+Jacob Murphy,25,793612800,Premier League,2017/2018,Midfielder,Newcastle United,1144,406,738,England,25,4,9,1,0,1,1,0,1,0,0,5,3,2,24,7,17,0,0,0.16,0.08,0.08,0,0.12,1144,1.89,48,46,0,1144,0,170,169,-1,12
+Jaïro Riedewald,24,842252400,Premier League,2017/2018,Defender,Crystal Palace,434,384,50,Netherlands,12,4,0,0,0,0,0,0,0,0,0,3,2,1,5,4,1,0,0,0,0,0,0,0,0,1.04,87,36,0,0,0,307,305,54,26
+Jake Livermore,30,627033600,Premier League,2017/2018,Midfielder,West Bromwich Albion,2675,1299,1376,England,34,14,16,2,2,0,2,0,2,0,0,9,5,4,38,21,17,5,0,0.13,0.07,0.07,0.14,0,1338,1.28,70,79,535,1338,0.17,187,171,-1,8
+Jakob Haugaard,28,704703600,Premier League,2017/2018,Goalkeeper,Stoke City,0,0,0,Denmark,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jamal Lascelles,26,753004800,Premier League,2017/2018,Defender,Newcastle United,2928,1488,1440,England,33,16,16,3,2,1,0,0,0,0,0,9,7,2,31,10,21,5,0,0.09,0,0.09,0.12,0.06,976,0.95,94,89,586,0,0.15,156,363,48,4
+James Collins,37,430470000,Premier League,2017/2018,Defender,West Ham United,1050,452,598,Wales,13,5,7,1,0,1,0,0,0,0,0,4,2,2,18,5,13,3,0,0.09,0,0.09,0,0.15,1050,1.54,58,81,350,0,0.26,157,262,145,13
+James Daly,20,947664000,Premier League,2017/2018,Forward,Crystal Palace,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+James McArthur,33,560588400,Premier League,2017/2018,Midfielder,Crystal Palace,2434,1131,1303,Scotland,33,13,14,5,3,2,1,1,0,0,0,8,3,5,34,16,18,5,0,0.22,0.04,0.18,0.24,0.14,487,1.26,72,74,487,2434,0.18,105,222,-1,3
+James McCarthy,29,658396800,Premier League,2017/2018,Midfielder,Everton,207,89,118,Republic of Ireland,4,1,2,0,0,0,0,0,0,0,0,0,0,0,6,2,4,0,0,0,0,0,0,0,0,2.61,35,52,0,0,0,-1,-1,-1,12
+James McClean,31,609231600,Premier League,2017/2018,Midfielder,West Bromwich Albion,1396,623,773,Republic of Ireland,30,6,8,1,0,1,0,0,0,0,0,9,5,4,19,9,10,7,0,0.06,0,0.06,0,0.12,1396,1.22,73,47,199,0,0.45,199,402,-1,12
+James Milner,34,505209600,Premier League,2017/2018,Midfielder,Liverpool,1762,866,896,England,32,8,8,0,0,0,3,2,1,0,0,13,9,4,22,6,16,3,0,0.15,0.15,0,0,0,0,1.12,80,55,587,587,0.15,349,86,-1,19
+James Morrison,34,517388400,Premier League,2017/2018,Midfielder,West Bromwich Albion,206,160,46,Scotland,4,2,0,1,0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0.44,0,0.44,0,1.96,206,0.44,206,52,0,0,0,-1,-1,-1,11
+James Tarkowski,27,722160000,Premier League,2017/2018,Defender,Burnley,2790,1440,1350,England,31,16,15,0,0,0,0,0,0,0,0,11,7,4,27,9,18,5,0,0,0,0,0,0,0,0.87,103,90,558,0,0.16,326,313,37,20
+James Tomkins,31,607161600,Premier League,2017/2018,Defender,Crystal Palace,2388,1218,1170,England,28,14,13,3,2,1,0,0,0,0,0,8,4,4,30,14,16,8,0,0.11,0,0.11,0.15,0.08,796,1.13,80,85,299,0,0.3,145,308,62,6
+James Ward-Prowse,25,783676800,Premier League,2017/2018,Midfielder,Southampton,1716,855,861,England,30,10,10,3,0,3,3,2,1,0,0,5,1,4,26,13,13,3,0,0.31,0.16,0.16,0,0.31,572,1.36,66,57,572,572,0.16,111,74,-1,4
+Jamie Murphy,31,620290800,Premier League,2017/2018,Midfielder,Brighton & Hove Albion,165,75,90,Scotland,4,0,1,0,0,0,0,0,0,0,0,2,1,1,4,2,2,0,0,0,0,0,0,0,0,2.18,41,41,0,0,0,-1,-1,-1,13
+Jamie Vardy,33,537350400,Premier League,2017/2018,Forward,Leicester City,3258,1612,1646,England,37,18,19,20,9,11,1,0,1,5,1,8,5,3,55,21,34,3,0,0.58,0.03,0.55,0.5,0.6,163,1.52,59,88,1086,3258,0.08,15,231,-1,1
+Jan Bednarek,24,829292400,Premier League,2017/2018,Defender,Southampton,428,180,248,Poland,5,2,3,1,1,0,0,0,0,0,0,2,0,2,4,4,0,1,0,0.21,0,0.21,0.5,0,428,0.84,107,86,428,0,0.21,88,392,29,13
+Jan Vertonghen,33,546246000,Premier League,2017/2018,Defender,Tottenham Hotspur,3205,1590,1615,Belgium,36,18,18,0,0,0,0,0,0,0,0,15,10,5,28,11,17,4,0,0,0,0,0,0,0,0.79,114,89,801,0,0.11,369,367,24,18
+Jarosław Jach,26,761472000,Premier League,2017/2018,Defender,Crystal Palace,0,0,0,Poland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jason Eyenga-Lokilo,22,906015600,Premier League,2017/2018,Forward,Crystal Palace,0,0,0,Congo DR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jason Puncheon,34,520153200,Premier League,2017/2018,Midfielder,Crystal Palace,570,305,265,England,10,3,3,0,0,0,0,0,0,0,0,1,1,0,13,6,7,5,0,0,0,0,0,0,0,2.05,44,57,114,0,0.79,309,307,-1,24
+Javier Hernandez,32,581151600,Premier League,2017/2018,Forward,West Ham United,1543,691,852,Mexico,28,7,9,8,3,5,0,0,0,0,0,6,4,2,32,13,19,3,0,0.47,0,0.47,0.39,0.53,193,1.87,48,55,514,0,0.17,23,356,-1,2
+Javier Manquillo Gaitán,26,768121200,Premier League,2017/2018,Defender,Newcastle United,1759,810,949,Spain,21,9,11,0,0,0,1,0,1,0,0,4,2,2,30,11,19,2,0,0.05,0.05,0,0,0,0,1.53,59,84,880,1759,0.1,365,208,143,20
+Jay Fulton,26,765442800,Premier League,2017/2018,Midfielder,Swansea City,17,1,16,Scotland,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,9,17,0,5.29,-1,-1,-1,20
+Jay Rodriguez,31,617698800,Premier League,2017/2018,Forward,West Bromwich Albion,2824,1354,1470,England,37,15,16,7,4,3,1,1,0,1,0,10,6,4,38,18,20,2,0,0.25,0.03,0.22,0.27,0.18,403,1.21,74,76,1412,2824,0.06,79,240,-1,1
+Jayson Molumby,21,933922800,Premier League,2017/2018,Midfielder,Brighton & Hove Albion,0,0,0,Republic of Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jeff Hendrick,28,696844800,Premier League,2017/2018,Midfielder,Burnley,2342,1164,1178,Republic of Ireland,34,15,14,2,1,1,2,2,0,0,0,11,6,5,24,9,15,1,0,0.15,0.08,0.08,0.08,0.08,1171,0.92,98,69,2342,1171,0.04,178,164,-1,6
+Jeffrey Schlupp,27,725097600,Premier League,2017/2018,Defender,Crystal Palace,1748,792,956,Ghana,24,9,12,0,0,0,1,1,0,0,0,5,1,4,30,15,15,3,0,0.05,0.05,0,0,0,0,1.54,58,73,583,1748,0.15,310,199,144,23
+Jeremie Boga,23,852278400,Premier League,2017/2018,Midfielder,Chelsea,18,18,0,Côte d'Ivoire,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,-1,-1,-1,25
+Jérémy Pied,31,604224000,Premier League,2017/2018,Defender,Southampton,180,90,90,France,2,1,1,0,0,0,1,1,0,0,0,0,0,0,3,2,1,0,0,0.5,0.5,0,0,0,0,1.5,60,90,0,180,0,-1,-1,-1,16
+Jermain Defoe,38,402822000,Premier League,2017/2018,Forward,AFC Bournemouth,1084,641,443,England,24,7,4,4,1,3,1,0,1,0,0,2,1,1,20,13,7,1,0,0.42,0.08,0.33,0.14,0.61,271,1.66,54,45,1084,1084,0.08,47,160,-1,5
+Jerome Sinclair,24,843202800,Premier League,2017/2018,Forward,Watford,27,0,27,England,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,-1,-1,-1,20
+Jesé,27,730713600,Premier League,2017/2018,Forward,Stoke City,617,405,212,Spain,13,5,3,1,1,0,1,0,1,0,0,2,1,1,16,11,5,0,0,0.29,0.15,0.15,0.22,0,617,2.33,39,47,0,617,0,118,87,-1,11
+Jesse Lingard,27,724406400,Premier League,2017/2018,Midfielder,Manchester United,1821,731,1090,England,33,7,13,8,3,5,5,2,3,0,0,15,10,5,18,4,14,2,0,0.64,0.25,0.4,0.37,0.41,228,0.89,101,55,911,364,0.1,31,32,-1,4
+Jesús Gámez Duarte,35,481968000,Premier League,2017/2018,Defender,Newcastle United,97,0,97,Spain,2,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0,0,0,-1,-1,-1,24
+Jiří Skalák,28,700387200,Premier League,2017/2018,Midfielder,Brighton & Hove Albion,0,0,0,Czech Republic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+João Mário,27,727430400,Premier League,2017/2018,Midfielder,West Ham United,1027,619,408,Portugal,13,7,5,2,1,1,1,0,1,0,0,4,3,1,14,5,9,0,0,0.26,0.09,0.18,0.15,0.22,514,1.23,73,79,0,1027,0,104,144,-1,8
+Joe Allen,30,637401600,Premier League,2017/2018,Midfielder,Stoke City,3142,1710,1432,Wales,36,19,17,2,2,0,6,3,3,0,0,6,3,3,53,30,23,8,0,0.23,0.17,0.06,0.11,0,1571,1.52,59,87,393,524,0.23,200,69,-1,5
+Joe Gomez,23,864370800,Premier League,2017/2018,Defender,Liverpool,1900,910,990,England,23,10,11,0,0,0,2,2,0,0,0,10,7,3,20,5,15,3,0,0.09,0.09,0,0,0,0,0.95,95,83,633,950,0.14,350,149,49,22
+Joe Hart,33,545814000,Premier League,2017/2018,Goalkeeper,West Ham United,1710,810,900,England,19,9,10,0,0,0,1,0,1,0,0,4,3,1,36,15,21,0,0,0.05,0.05,0,0,0,0,1.89,48,90,0,1710,0,380,201,170,17
+Joe Lolley,28,714726000,Premier League,2017/2018,Forward,Huddersfield Town,219,131,88,England,6,1,1,1,1,0,0,0,0,0,0,2,2,0,5,4,1,1,0,0.41,0,0.41,0.69,0,219,2.05,44,37,219,0,0.41,-1,-1,-1,8
+Joe Rodon,23,877503600,Premier League,2017/2018,Defender,Swansea City,0,0,0,Wales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Joel Coleman,25,812098800,Premier League,2017/2018,Goalkeeper,Huddersfield Town,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Joel Matip,29,681634800,Premier League,2017/2018,Defender,Liverpool,1994,1004,990,Cameroon,25,11,11,1,0,1,0,0,0,0,0,10,7,3,23,7,16,3,0,0.05,0,0.05,0,0.09,1994,1.04,87,80,665,0,0.14,220,346,57,13
+Joel Pereira Castro,24,835945200,Premier League,2017/2018,Goalkeeper,Manchester United,0,0,0,Portugal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Joel Robles Blázquez,30,645606000,Premier League,2017/2018,Goalkeeper,Everton,0,0,0,Spain,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Joel Ward,30,625647600,Premier League,2017/2018,Defender,Crystal Palace,1616,780,836,England,19,9,10,0,0,0,1,1,0,0,0,4,1,3,25,14,11,4,0,0.06,0.06,0,0,0,0,1.39,65,85,404,1616,0.22,306,183,108,27
+Johann Berg Guðmunds­son,29,657010800,Premier League,2017/2018,Midfielder,Burnley,2839,1566,1273,Iceland,35,17,15,2,2,0,8,6,2,0,0,11,7,4,29,12,17,2,0,0.32,0.25,0.06,0.11,0,1420,0.92,98,81,1420,355,0.06,197,34,-1,5
+John Stones,26,770108400,Premier League,2017/2018,Defender,Manchester City,1305,734,571,England,18,9,7,0,0,0,0,0,0,0,0,9,4,5,10,5,5,0,0,0,0,0,0,0,0,0.69,131,73,0,0,0,360,358,13,22
+Jon Flanagan,27,725875200,Premier League,2017/2018,Defender,Liverpool,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jon Gorenc Stankovič,24,821606400,Premier League,2017/2018,Defender,Huddersfield Town,0,0,0,Slovenia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jonas Lössl,31,602323200,Premier League,2017/2018,Goalkeeper,Huddersfield Town,3420,1710,1710,Denmark,38,19,19,0,0,0,1,1,0,0,0,10,7,3,56,24,32,1,0,0.03,0.03,0,0,0,0,1.47,61,90,3420,3420,0.03,312,235,127,9
+Jonathan Hogg,31,597398400,Premier League,2017/2018,Midfielder,Huddersfield Town,2408,1361,1047,England,30,16,13,0,0,0,0,0,0,0,0,7,5,2,39,21,18,10,1,0,0,0,0,0,0,1.46,62,80,241,0,0.37,268,260,-1,13
+Jonathan Leko,21,924937200,Premier League,2017/2018,Forward,West Bromwich Albion,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jonathan Walters,37,432889200,Premier League,2017/2018,Forward,Burnley,36,12,24,Republic of Ireland,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,2.5,36,12,0,0,0,-1,-1,-1,17
+Jonjo Shelvey,28,699177600,Premier League,2017/2018,Midfielder,Newcastle United,2268,1238,1030,England,30,14,11,1,0,1,3,3,0,0,0,7,6,1,27,9,18,5,2,0.16,0.12,0.04,0,0.09,2268,1.07,84,76,378,756,0.24,225,112,-1,16
+Jonjoe Kenny,23,858412800,Premier League,2017/2018,Defender,Everton,1588,688,900,England,19,7,10,0,0,0,1,1,0,0,0,5,3,2,29,8,21,2,0,0.06,0.06,0,0,0,0,1.64,55,84,794,1588,0.11,293,178,160,17
+Jonny Evans,32,568195200,Premier League,2017/2018,Defender,West Bromwich Albion,2272,1093,1179,Northern Ireland,28,12,14,2,2,0,2,2,0,0,0,6,4,2,35,18,17,7,0,0.16,0.08,0.08,0.16,0,1136,1.39,65,81,325,1136,0.28,173,156,107,4
+Jordan Ayew,29,684572400,Premier League,2017/2018,Forward,Swansea City,2859,1558,1301,Ghana,36,17,16,7,4,3,2,2,0,1,0,9,5,4,46,22,24,3,1,0.28,0.06,0.22,0.23,0.21,408,1.45,62,79,715,1430,0.13,83,177,-1,1
+Jordan Henderson,30,645606000,Premier League,2017/2018,Midfielder,Liverpool,2173,1145,1028,England,27,13,12,1,0,1,1,0,1,0,0,14,10,4,19,2,17,1,0,0.08,0.04,0.04,0,0.09,2173,0.79,114,80,2173,2173,0.04,230,212,-1,9
+Jordan Hugill,28,707641200,Premier League,2017/2018,Forward,West Ham United,22,12,10,England,3,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,-1,-1,-1,14
+Jordan Pickford,26,763027200,Premier League,2017/2018,Goalkeeper,Everton,3420,1710,1710,England,38,19,19,0,0,0,0,0,0,0,0,10,7,3,55,20,35,0,0,0,0,0,0,0,0,1.45,62,90,0,0,0,321,315,119,22
+Jordi Osei-Tutu,22,907311600,Premier League,2017/2018,Defender,Arsenal,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jordon Ibe,24,818409600,Premier League,2017/2018,Midfielder,AFC Bournemouth,1999,898,1101,England,32,10,12,2,2,0,6,4,2,0,0,5,2,3,32,16,16,1,0,0.36,0.27,0.09,0.2,0,1000,1.44,62,62,1999,333,0.05,154,27,-1,6
+Jordon Mutch,28,691660800,Premier League,2017/2018,Midfielder,Crystal Palace,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jose Fonte,36,440928000,Premier League,2017/2018,Defender,West Ham United,690,344,346,Portugal,8,4,4,0,0,0,1,1,0,0,0,3,2,1,10,6,4,0,0,0.13,0.13,0,0,0,0,1.3,69,86,0,690,0,247,99,83,18
+José Holebas,36,457167600,Premier League,2017/2018,Defender,Watford,2382,1076,1306,Greece,28,12,14,0,0,0,4,2,2,0,0,7,4,3,43,19,24,7,0,0.15,0.15,0,0,0,0,1.62,55,85,340,596,0.26,343,79,156,28
+Jose Izquierdo,28,710492400,Premier League,2017/2018,Forward,Brighton & Hove Albion,1987,988,999,Colombia,32,11,12,5,2,3,3,3,0,0,0,8,4,4,30,14,16,2,0,0.36,0.14,0.23,0.18,0.27,397,1.36,66,62,994,662,0.09,74,94,-1,3
+José Leonardo Ulloa,34,522745200,Premier League,2017/2018,Forward,Brighton & Hove Albion,279,62,217,Argentina,14,0,2,1,0,1,0,0,0,0,0,2,1,1,3,0,3,0,0,0.32,0,0.32,0,0.41,279,0.97,93,20,0,0,0,49,271,-1,7
+José Luis Sanmartín Mato,30,638524800,Premier League,2017/2018,Forward,Newcastle United,1716,913,803,Spain,30,10,9,4,4,0,1,0,1,0,1,7,6,1,25,10,15,2,0,0.26,0.05,0.21,0.39,0,429,1.31,69,57,858,1716,0.1,86,194,-1,3
+José Ramiro Funes Mori,29,668160000,Premier League,2017/2018,Defender,Everton,119,44,75,Argentina,4,0,1,0,0,0,0,0,0,0,0,1,0,1,2,1,1,1,0,0,0,0,0,0,0,1.51,60,30,119,0,0.76,-1,-1,-1,29
+Joseph Willock,21,935132400,Premier League,2017/2018,Midfielder,Arsenal,82,0,82,England,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1.1,82,41,0,0,0,-1,-1,-1,17
+Josh Cullen,24,828864000,Premier League,2017/2018,Midfielder,West Ham United,6,1,5,Republic of Ireland,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,-1,-1,-1,16
+Josh Pask,22,878371200,Premier League,2017/2018,Defender,West Ham United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Josh Tymon,21,927356400,Premier League,2017/2018,Defender,Stoke City,163,27,136,England,3,0,2,0,0,0,0,0,0,0,0,0,0,0,9,2,7,0,0,0,0,0,0,0,0,4.97,18,54,0,0,0,-1,-1,-1,25
+Joshua King,28,695462400,Premier League,2017/2018,Forward,AFC Bournemouth,2456,1241,1215,Norway,33,14,13,8,3,5,3,3,0,2,0,6,3,3,34,17,17,3,0,0.4,0.11,0.29,0.22,0.37,307,1.25,72,74,819,819,0.11,57,124,-1,2
+Joshua Sims,23,859536000,Premier League,2017/2018,Midfielder,Southampton,159,83,76,England,6,1,0,0,0,0,0,0,0,0,0,1,1,0,2,0,2,0,0,0,0,0,0,0,0,1.13,80,27,0,0,0,-1,-1,-1,15
+Joy Mukena,21,930985200,Premier League,2017/2018,Defender,Watford,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Juan Marcos Foyth,22,884592000,Premier League,2017/2018,Defender,Tottenham Hotspur,0,0,0,Argentina,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Juan Mata,32,578214000,Premier League,2017/2018,Midfielder,Manchester United,1933,1233,700,Spain,28,15,8,3,1,2,5,4,1,0,0,15,11,4,10,5,5,1,0,0.37,0.23,0.14,0.07,0.26,644,0.47,193,69,1933,387,0.05,128,43,-1,9
+Julián Speroni,41,295858800,Premier League,2017/2018,Goalkeeper,Crystal Palace,990,540,450,Argentina,11,6,5,0,0,0,0,0,0,0,0,2,0,2,14,11,3,0,0,0,0,0,0,0,0,1.27,71,90,0,0,0,311,309,76,19
+Julien Ngoy,22,878457600,Premier League,2017/2018,Forward,Stoke City,19,0,19,Belgium,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,9.47,10,19,0,0,0,-1,-1,-1,12
+Junior Stanislas,30,628070400,Premier League,2017/2018,Midfielder,AFC Bournemouth,1296,594,702,England,19,7,10,5,2,3,2,0,2,1,0,2,1,1,21,10,11,1,0,0.49,0.14,0.35,0.3,0.38,259,1.46,62,68,1296,648,0.07,41,95,-1,4
+Jürgen Locadia,26,752659200,Premier League,2017/2018,Forward,Brighton & Hove Albion,224,83,141,Netherlands,6,1,2,1,1,0,1,0,1,0,0,0,0,0,8,1,7,0,0,0.8,0.4,0.4,1.08,0,224,3.21,28,37,0,224,0,-1,-1,-1,8
+Kane Wilson,20,952761600,Premier League,2017/2018,Defender,West Bromwich Albion,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Karl Darlow,30,655369200,Premier League,2017/2018,Goalkeeper,Newcastle United,900,450,450,England,10,5,5,0,0,0,0,0,0,0,0,2,1,1,15,6,9,0,0,0,0,0,0,0,0,1.5,60,90,0,0,0,367,365,136,19
+Kasey Palmer,23,847526400,Premier League,2017/2018,Midfielder,Huddersfield Town,168,52,116,England,4,0,1,0,0,0,0,0,0,0,0,3,2,1,2,0,2,2,0,0,0,0,0,0,0,1.07,84,42,84,0,1.07,-1,-1,-1,21
+Kasper Schmeichel,33,531561600,Premier League,2017/2018,Goalkeeper,Leicester City,2966,1440,1526,Denmark,33,16,17,0,0,0,0,0,0,0,0,8,5,3,45,18,27,3,0,0,0,0,0,0,0,1.37,66,90,989,0,0.09,333,331,98,15
+Kazaiah Sterling,21,910598400,Premier League,2017/2018,Forward,Tottenham Hotspur,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Kelechi Iheanacho,24,844326000,Premier League,2017/2018,Forward,Leicester City,867,445,422,Nigeria,21,4,3,3,1,2,3,1,2,0,0,3,2,1,18,4,14,2,0,0.62,0.31,0.31,0.2,0.43,289,1.87,48,41,434,289,0.21,51,16,-1,4
+Keshi Anderson,25,797151600,Premier League,2017/2018,Forward,Crystal Palace,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Kevin De Bruyne,29,678092400,Premier League,2017/2018,Midfielder,Manchester City,3085,1427,1658,Belgium,37,17,19,8,5,3,16,12,4,0,0,18,8,10,20,8,12,2,0,0.7,0.47,0.23,0.32,0.16,386,0.58,154,83,1543,193,0.06,73,5,-1,6
+Kevin Long,30,650962800,Premier League,2017/2018,Defender,Burnley,1440,810,630,Republic of Ireland,16,9,7,1,1,0,2,0,2,0,0,4,3,1,18,8,10,1,0,0.19,0.13,0.06,0.11,0,1440,1.13,80,90,1440,720,0.06,203,102,61,8
+Kevin Mirallas,33,560415600,Premier League,2017/2018,Forward,Everton,138,13,125,Belgium,5,0,2,0,0,0,0,0,0,0,0,1,1,0,7,0,7,1,0,0,0,0,0,0,0,4.57,20,28,138,0,0.65,-1,-1,-1,18
+Kevin Wimmer,27,721814400,Premier League,2017/2018,Defender,Stoke City,1321,577,744,Austria,17,6,8,0,0,0,0,0,0,0,0,1,0,1,31,10,21,5,0,0,0,0,0,0,0,2.11,43,78,264,0,0.34,374,371,173,22
+Kieran Gibbs,31,622796400,Premier League,2017/2018,Defender,West Bromwich Albion,2831,1367,1464,England,33,16,16,0,0,0,1,1,0,0,0,8,5,3,41,21,20,3,0,0.03,0.03,0,0,0,0,1.3,69,86,944,2831,0.1,275,237,84,17
+Kieran Trippier,30,653727600,Premier League,2017/2018,Defender,Tottenham Hotspur,1914,1073,841,England,24,12,9,0,0,0,5,2,3,0,0,9,6,3,17,8,9,1,0,0.24,0.24,0,0,0,0,0.8,113,80,1914,383,0.05,283,41,25,11
+Konstantinos Mavropanos,22,881827200,Premier League,2017/2018,Defender,Arsenal,195,90,105,Greece,3,1,2,0,0,0,0,0,0,0,0,1,1,0,2,0,2,1,1,0,0,0,0,0,0,0.92,98,65,98,0,0.92,-1,-1,-1,26
+Konstantinos Stafylidis,26,754819200,Premier League,2017/2018,Defender,Stoke City,335,180,155,Greece,5,2,2,0,0,0,0,0,0,0,0,1,0,1,6,4,2,0,0,0,0,0,0,0,0,1.61,56,67,0,0,0,252,247,154,17
+Kristoffer Nordfeldt,31,614588400,Premier League,2017/2018,Goalkeeper,Swansea City,0,0,0,Sweden,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Kurt Zouma,25,783241200,Premier League,2017/2018,Defender,Stoke City,2887,1381,1506,France,34,15,17,1,0,1,0,0,0,0,0,6,3,3,48,21,27,1,0,0.03,0,0.03,0,0.06,2887,1.5,60,85,2887,0,0.03,232,323,134,9
+Kyle Bartley,29,674895600,Premier League,2017/2018,Defender,Swansea City,233,67,166,England,5,1,1,0,0,0,0,0,0,0,0,1,0,1,4,1,3,2,0,0,0,0,0,0,0,1.55,58,47,117,0,0.77,-1,-1,-1,16
+Kyle Jameson,22,905497200,Premier League,2017/2018,Defender,West Bromwich Albion,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Kyle Naughton,31,595238400,Premier League,2017/2018,Defender,Swansea City,3033,1505,1528,England,34,17,17,0,0,0,2,1,1,0,0,9,5,4,47,19,28,1,0,0.06,0.06,0,0,0,0,1.39,65,89,3033,1517,0.03,396,188,104,24
+Kyle Scott,22,882777600,Premier League,2017/2018,Midfielder,Chelsea,0,0,0,USA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Kyle Taylor,21,935823600,Premier League,2017/2018,Midfielder,AFC Bournemouth,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Kyle Walker,30,643878000,Premier League,2017/2018,Defender,Manchester City,2787,1394,1393,England,32,16,16,0,0,0,6,2,4,0,0,15,7,8,20,9,11,4,1,0.19,0.19,0,0,0,0,0.65,139,87,697,465,0.13,359,64,10,23
+Kyle Walker-Peters,23,860914800,Premier League,2017/2018,Defender,Tottenham Hotspur,188,90,98,England,3,1,1,0,0,0,2,2,0,0,0,2,0,2,4,4,0,0,0,0.96,0.96,0,0,0,0,1.91,47,63,0,94,0,-1,-1,-1,21
+Lasse Sørensen,21,940489200,Premier League,2017/2018,Midfielder,Stoke City,76,0,76,Denmark,1,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,1.18,1.18,0,0,0,0,1.18,76,76,0,76,0,-1,-1,-1,30
+Laurent Depoitre,31,597484800,Premier League,2017/2018,Forward,Huddersfield Town,1808,824,984,Belgium,33,8,10,6,3,3,1,0,1,0,0,7,5,2,32,14,18,1,0,0.35,0.05,0.3,0.33,0.27,301,1.59,57,55,1808,1808,0.05,53,203,-1,2
+Laurent Koscielny,35,495183600,Premier League,2017/2018,Defender,Arsenal,2227,1080,1147,France,25,12,13,2,2,0,0,0,0,0,0,8,5,3,31,13,18,4,0,0.08,0,0.08,0.17,0,1114,1.25,72,89,557,0,0.16,169,277,74,12
+Layton Ndukwu,22,905151600,Premier League,2017/2018,Forward,Leicester City,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Lee Grant,37,412502400,Premier League,2017/2018,Goalkeeper,Stoke City,270,90,180,England,3,1,2,0,0,0,0,0,0,0,0,0,0,0,6,3,3,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,23
+Leighton Baines,35,471600000,Premier League,2017/2018,Defender,Everton,1910,990,920,England,22,11,11,2,1,1,3,2,1,2,0,5,4,1,31,14,17,1,0,0.24,0.14,0.09,0.09,0.1,955,1.46,62,87,1910,637,0.05,155,98,123,8
+Leon Britton,38,401007600,Premier League,2017/2018,Midfielder,Swansea City,305,162,143,England,5,2,2,0,0,0,0,0,0,0,0,2,1,1,1,1,0,1,0,0,0,0,0,0,0,0.3,305,61,305,0,0.3,386,395,-1,22
+Leroy Fer,30,631526400,Premier League,2017/2018,Midfielder,Swansea City,1397,648,749,Netherlands,20,7,8,1,0,1,1,0,1,0,0,6,3,3,24,9,15,5,0,0.13,0.06,0.06,0,0.12,1397,1.55,58,70,279,1397,0.32,205,179,-1,11
+Leroy Sané,24,821347200,Premier League,2017/2018,Midfielder,Manchester City,2423,1238,1185,Germany,32,14,13,10,5,5,15,12,3,0,0,15,6,9,21,11,10,4,0,0.93,0.56,0.37,0.36,0.38,242,0.78,115,76,606,162,0.15,36,1,-1,4
+Levi Lumeka,22,904978800,Premier League,2017/2018,Forward,Crystal Palace,25,0,25,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,-1,-1,-1,16
+Lewis Cook,23,854956800,Premier League,2017/2018,Midfielder,AFC Bournemouth,2238,1272,966,England,29,14,11,0,0,0,2,1,1,0,0,5,3,2,39,23,16,5,0,0.08,0.08,0,0,0,0,1.57,57,77,448,1119,0.2,285,166,-1,16
+Lewis Dunk,28,690710400,Premier League,2017/2018,Defender,Brighton & Hove Albion,3420,1710,1710,England,38,19,19,1,1,0,1,0,1,0,0,10,5,5,52,23,29,7,0,0.05,0.03,0.03,0.05,0,3420,1.37,66,90,489,3420,0.18,238,245,97,9
+Liam Rosenior,36,458204400,Premier League,2017/2018,Defender,Brighton & Hove Albion,162,28,134,England,3,0,1,0,0,0,0,0,0,0,0,1,0,1,3,1,2,0,0,0,0,0,0,0,0,1.67,54,54,0,0,0,-1,-1,-1,16
+Loris Karius,27,740732400,Premier League,2017/2018,Goalkeeper,Liverpool,1710,990,720,Germany,19,11,8,0,0,0,0,0,0,0,0,10,7,3,12,5,7,1,0,0,0,0,0,0,0,0.63,143,90,1710,0,0.05,351,348,9,21
+Lucas Rodrigues Moura da Silva,28,713689200,Premier League,2017/2018,Midfielder,Tottenham Hotspur,208,98,110,Brazil,6,1,1,0,0,0,1,1,0,0,0,2,1,1,5,4,1,0,0,0.43,0.43,0,0,0,0,2.16,42,35,0,208,0,-1,-1,-1,23
+Luciano Narsingh,30,653209200,Premier League,2017/2018,Forward,Swansea City,616,404,212,Netherlands,18,4,1,1,0,1,0,0,0,0,0,2,2,0,14,9,5,0,0,0.15,0,0.15,0,0.42,616,2.05,44,34,0,0,0,119,396,-1,9
+Luka Milivojević,29,671011200,Premier League,2017/2018,Midfielder,Crystal Palace,3082,1565,1517,Serbia,36,18,17,10,4,6,1,1,0,7,1,8,4,4,51,24,27,8,0,0.32,0.03,0.29,0.23,0.36,308,1.49,60,86,385,3082,0.23,59,236,-1,1
+Lukas Nmecha,21,913622400,Premier League,2017/2018,Forward,Manchester City,14,4,10,England,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,-1,-1,-1,24
+Luke Garbutt,27,737967600,Premier League,2017/2018,Defender,Everton,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Luke Shaw,25,805532400,Premier League,2017/2018,Defender,Manchester United,788,473,315,England,11,5,3,0,0,0,0,0,0,0,0,8,5,3,2,2,0,2,0,0,0,0,0,0,0,0.23,394,72,394,0,0.23,297,295,2,25
+Lys Mousset,24,823766400,Premier League,2017/2018,Forward,AFC Bournemouth,581,264,317,France,23,1,3,2,2,0,0,0,0,0,0,2,1,1,12,5,7,1,0,0.31,0,0.31,0.68,0,291,1.86,48,25,581,0,0.15,52,408,-1,7
+Maarten Stekelenburg,38,401526000,Premier League,2017/2018,Goalkeeper,Everton,0,0,0,Netherlands,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Mamadou Sakho,30,634896000,Premier League,2017/2018,Defender,Crystal Palace,1600,700,900,France,19,8,10,1,1,0,2,2,0,0,0,6,2,4,23,9,14,1,0,0.17,0.11,0.06,0.13,0,1600,1.29,70,84,1600,800,0.06,198,121,80,10
+Mame Biram Diouf,32,566640000,Premier League,2017/2018,Forward,Stoke City,2602,1341,1261,Senegal,35,15,15,6,5,1,2,2,0,0,0,6,3,3,49,23,26,6,0,0.28,0.07,0.21,0.34,0.07,434,1.69,53,74,434,1301,0.21,87,175,-1,2
+Manolo Gabbiadini,28,691142400,Premier League,2017/2018,Forward,Southampton,1072,673,399,Italy,28,7,4,5,3,2,0,0,0,1,0,7,3,4,17,10,7,2,0,0.42,0,0.42,0.4,0.45,214,1.43,63,38,536,0,0.17,28,390,-1,3
+Manuel Lanzini,27,729763200,Premier League,2017/2018,Midfielder,West Ham United,2047,973,1074,Argentina,27,11,12,5,3,2,6,2,4,0,1,6,4,2,42,17,25,4,0,0.48,0.26,0.22,0.28,0.17,409,1.85,49,76,512,341,0.18,78,29,-1,3
+Marc Albrighton,30,627379200,Premier League,2017/2018,Midfielder,Leicester City,2544,1357,1187,England,34,16,14,2,1,1,7,3,4,0,0,9,6,3,38,17,21,6,1,0.32,0.25,0.07,0.07,0.08,1272,1.34,67,75,363,363,0.25,188,31,-1,8
+Marc Pugh,33,544348800,Premier League,2017/2018,Midfielder,AFC Bournemouth,983,564,419,England,20,7,4,0,0,0,0,0,0,0,0,6,3,3,17,9,8,2,0,0,0,0,0,0,0,1.56,58,49,492,0,0.18,407,407,-1,21
+Marcos Alonso,29,662371200,Premier League,2017/2018,Defender,Chelsea,2860,1591,1269,Spain,33,18,15,7,3,4,2,0,2,0,0,14,9,5,27,15,12,6,0,0.28,0.06,0.22,0.17,0.28,409,0.85,106,87,477,1430,0.19,80,189,30,3
+Marcus Browne,22,882432000,Premier League,2017/2018,Midfielder,West Ham United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Marcus Rashford,22,878284800,Premier League,2017/2018,Forward,Manchester United,1805,1015,790,England,35,10,7,7,5,2,5,4,1,0,0,19,12,7,15,7,8,3,0,0.6,0.25,0.35,0.44,0.23,258,0.75,120,52,602,361,0.15,42,35,-1,5
+Mario Lemina,27,746866800,Premier League,2017/2018,Midfielder,Southampton,1723,844,879,Gabon,25,10,10,1,0,1,1,1,0,0,0,5,2,3,29,13,16,2,0,0.1,0.05,0.05,0,0.1,1723,1.51,59,69,862,1723,0.1,218,204,-1,12
+Mark Noble,33,547455600,Premier League,2017/2018,Midfielder,West Ham United,2404,1247,1157,England,29,14,14,4,1,3,0,0,0,2,0,8,6,2,43,17,26,6,0,0.15,0,0.15,0.07,0.23,601,1.61,56,83,401,0,0.22,126,381,-1,4
+Marko Arnautović,31,608972400,Premier League,2017/2018,Forward,West Ham United,2323,1281,1042,Austria,31,15,13,11,6,5,6,2,4,0,0,8,5,3,46,21,25,6,1,0.66,0.23,0.43,0.42,0.43,211,1.78,51,75,332,387,0.27,27,49,-1,1
+Marko Grujić,24,829378800,Premier League,2017/2018,Midfielder,Liverpool,13,6,7,Serbia,3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,-1,-1,-1,20
+Markus Suttner,33,545554800,Premier League,2017/2018,Defender,Brighton & Hove Albion,1178,720,458,Austria,14,8,5,0,0,0,0,0,0,0,0,4,3,1,17,9,8,0,0,0,0,0,0,0,0,1.3,69,84,0,0,0,410,411,85,19
+Marouane Fellaini,32,564566400,Premier League,2017/2018,Midfielder,Manchester United,612,296,316,Belgium,16,2,3,4,4,0,0,0,0,0,0,10,6,4,1,0,1,1,0,0.59,0,0.59,1.22,0,153,0.15,612,38,612,0,0.15,11,376,-1,7
+Martin Cranie,34,528102000,Premier League,2017/2018,Defender,Huddersfield Town,180,29,151,England,3,0,2,0,0,0,0,0,0,0,0,1,1,0,7,0,7,0,0,0,0,0,0,0,0,3.5,26,60,0,0,0,-1,-1,-1,11
+Martin Dúbravka,31,600854400,Premier League,2017/2018,Goalkeeper,Newcastle United,1080,540,540,Slovakia,12,6,6,0,0,0,0,0,0,0,0,4,4,0,11,2,9,0,0,0,0,0,0,0,0,0.92,98,90,0,0,0,253,253,46,27
+Martin Kelly,30,641199600,Premier League,2017/2018,Defender,Crystal Palace,1194,514,680,England,15,5,7,0,0,0,0,0,0,0,0,4,2,2,20,10,10,1,0,0,0,0,0,0,0,1.51,60,80,1194,0,0.08,251,284,140,17
+Martin Olsson,32,579855600,Premier League,2017/2018,Defender,Swansea City,3154,1552,1602,Sweden,36,18,18,0,0,0,1,0,1,0,0,9,5,4,48,21,27,7,0,0.03,0.03,0,0,0,0,1.37,66,88,451,3154,0.2,395,238,96,25
+Marvin Zeegelaar,30,650444400,Premier League,2017/2018,Defender,Watford,995,630,365,Netherlands,12,7,5,0,0,0,1,0,1,0,0,2,1,1,15,10,5,5,1,0.09,0.09,0,0,0,0,1.36,66,83,166,995,0.54,270,138,92,19
+Mason Holgate,24,845967600,Premier League,2017/2018,Defender,Everton,1182,552,630,England,15,6,7,0,0,0,0,0,0,0,0,5,3,2,14,5,9,3,0,0,0,0,0,0,0,1.07,84,79,394,0,0.23,328,320,58,20
+Massadio Haïdara,27,723283200,Premier League,2017/2018,Defender,Newcastle United,3,3,0,France,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,-1,-1,-1,26
+Mathew Ryan,28,702716400,Premier League,2017/2018,Goalkeeper,Brighton & Hove Albion,3420,1710,1710,Australia,38,19,19,0,0,0,0,0,0,0,0,10,5,5,52,23,29,0,0,0,0,0,0,0,0,1.37,66,90,0,0,0,408,409,95,24
+Mathias Jattah-Njie Jørgensen,30,640854000,Premier League,2017/2018,Defender,Huddersfield Town,3420,1710,1710,Denmark,38,19,19,0,0,0,2,2,0,0,0,10,7,3,56,24,32,6,0,0.05,0.05,0,0,0,0,1.47,61,90,570,1710,0.16,301,196,128,18
+Mathieu Debuchy,35,491382000,Premier League,2017/2018,Defender,Arsenal,0,0,0,France,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Matias Ezequiel Schelotto,31,611910000,Premier League,2017/2018,Defender,Brighton & Hove Albion,1316,615,701,Italy,20,7,8,0,0,0,0,0,0,0,0,2,0,2,29,12,17,3,0,0,0,0,0,0,0,1.98,45,66,439,0,0.21,265,250,172,20
+Matt Butcher,23,863593200,Premier League,2017/2018,Midfielder,AFC Bournemouth,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Matt Macey,26,779094000,Premier League,2017/2018,Goalkeeper,Arsenal,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Matt Phillips,29,668851200,Premier League,2017/2018,Midfielder,West Bromwich Albion,2096,1281,815,Scotland,30,15,8,2,1,1,2,1,1,0,0,8,5,3,31,18,13,3,0,0.17,0.09,0.09,0.07,0.11,1048,1.33,68,70,699,1048,0.13,158,140,-1,7
+Matt Ritchie,31,621414000,Premier League,2017/2018,Midfielder,Newcastle United,2812,1441,1371,Scotland,35,17,15,3,3,0,5,3,2,0,0,9,7,2,34,14,20,6,0,0.26,0.16,0.1,0.19,0,937,1.09,83,80,469,562,0.19,152,73,-1,5
+Matt Targett,25,811407600,Premier League,2017/2018,Defender,Southampton,167,90,77,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,6,1,5,0,0,0,0,0,0,0,0,3.23,28,84,0,0,0,-1,-1,-1,14
+Matteo Darmian,30,628588800,Premier League,2017/2018,Defender,Manchester United,442,90,352,Italy,8,1,4,0,0,0,0,0,0,0,0,4,2,2,3,0,3,0,0,0,0,0,0,0,0,0.61,147,55,0,0,0,379,378,8,20
+Matthew Lowton,31,613378800,Premier League,2017/2018,Defender,Burnley,2294,1214,1080,England,26,13,12,0,0,0,3,2,1,0,0,8,5,3,23,7,16,1,0,0.12,0.12,0,0,0,0,0.9,100,88,2294,765,0.04,327,115,41,22
+Matty James,29,680166000,Premier League,2017/2018,Midfielder,Leicester City,995,546,449,England,13,6,5,0,0,0,0,0,0,0,0,4,3,1,14,4,10,2,0,0,0,0,0,0,0,1.27,71,77,498,0,0.18,337,334,-1,21
+Max Melbourne,22,909212400,Premier League,2017/2018,Defender,West Bromwich Albion,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Maya Yoshida,32,588409200,Premier League,2017/2018,Defender,Southampton,2051,1174,877,Japan,24,13,10,2,1,1,0,0,0,0,0,6,2,4,29,18,11,4,1,0.09,0,0.09,0.08,0.1,1026,1.27,71,85,513,0,0.18,165,385,75,7
+Mesut Özil,32,592902000,Premier League,2017/2018,Midfielder,Arsenal,2164,1243,921,Germany,26,14,10,4,3,1,8,6,2,0,0,8,7,1,35,16,19,4,0,0.5,0.33,0.17,0.22,0.1,541,1.46,62,83,541,271,0.17,107,13,-1,6
+Michael Carrick,39,365151600,Premier League,2017/2018,Midfielder,Manchester United,109,85,24,England,2,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,-1,-1,-1,17
+Michael Folivi,22,888393600,Premier League,2017/2018,Forward,Watford,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Michael Hefele,30,652172400,Premier League,2017/2018,Defender,Huddersfield Town,31,0,31,Germany,2,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0,0,0,0,0,2.9,31,16,31,0,2.9,-1,-1,-1,17
+Michael Keane,27,726739200,Premier League,2017/2018,Defender,Everton,2561,1270,1291,England,30,14,15,0,0,0,1,1,0,0,0,8,6,2,43,17,26,3,0,0.04,0.04,0,0,0,0,1.51,60,85,854,2561,0.11,323,214,137,27
+Michael Obafemi,20,962866800,Premier League,2017/2018,Forward,Southampton,8,8,0,Republic of Ireland,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,-1,-1,-1,17
+Michail Antonio,30,638611200,Premier League,2017/2018,Midfielder,West Ham United,1357,707,650,England,21,10,6,3,0,3,1,1,0,0,0,8,6,2,22,8,14,1,0,0.27,0.07,0.2,0,0.42,452,1.46,62,65,1357,1357,0.07,93,174,-1,5
+Michel Vorm,36,435481200,Premier League,2017/2018,Goalkeeper,Tottenham Hotspur,90,0,90,Netherlands,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,16
+Michy Batshuayi,27,749545200,Premier League,2017/2018,Forward,Chelsea,353,144,209,Belgium,12,1,2,2,2,0,1,0,1,0,0,6,3,3,6,3,3,0,0,0.76,0.25,0.51,1.25,0,177,1.53,59,29,0,353,0,18,33,-1,11
+Miguel Ángel Britos Cabrera,35,490431600,Premier League,2017/2018,Defender,Watford,797,384,413,Uruguay,12,5,5,1,1,0,0,0,0,0,0,5,3,2,14,5,9,4,1,0.11,0,0.11,0.23,0,797,1.58,57,66,159,0,0.56,141,339,148,12
+Mike van der Hoorn,28,719132400,Premier League,2017/2018,Defender,Swansea City,1952,946,1006,Netherlands,24,11,13,1,1,0,0,0,0,0,0,7,4,3,27,12,15,4,0,0.05,0,0.05,0.1,0,1952,1.24,72,81,488,0,0.18,209,259,71,12
+Mikel Merino,24,835426800,Premier League,2017/2018,Midfielder,Newcastle United,1343,693,650,Spain,24,7,7,1,1,0,1,1,0,0,0,5,4,1,18,7,11,4,0,0.13,0.07,0.07,0.13,0,1343,1.21,75,56,336,1343,0.27,189,173,-1,13
+Mohamed Diamé,33,550652400,Premier League,2017/2018,Midfielder,Newcastle United,2042,968,1074,Senegal,31,11,12,2,0,2,0,0,0,0,0,8,6,2,27,9,18,3,0,0.09,0,0.09,0,0.17,1021,1.19,76,66,681,0,0.13,161,275,-1,8
+Mohamed Elneny,28,710838000,Premier League,2017/2018,Midfielder,Arsenal,870,555,315,Egypt,13,7,4,0,0,0,1,1,0,0,0,5,4,1,11,6,5,4,1,0.1,0.1,0,0,0,0,1.14,79,67,174,870,0.52,331,136,-1,24
+Mohamed Salah,28,708591600,Premier League,2017/2018,Forward,Liverpool,2922,1556,1366,Egypt,36,18,16,32,19,13,10,8,2,1,1,16,12,4,29,7,22,1,0,1.29,0.31,0.99,1.1,0.86,91,0.89,101,81,2922,292,0.03,1,17,-1,1
+Molla Wagué,29,667123200,Premier League,2017/2018,Defender,Watford,439,244,195,Mali,6,3,2,1,1,0,0,0,0,0,0,0,0,0,8,3,5,0,0,0.21,0,0.21,0.37,0,439,1.64,55,73,0,0,0,89,268,162,16
+Morgan Schneiderlin,30,626515200,Premier League,2017/2018,Midfielder,Everton,2128,1029,1099,France,30,12,12,0,0,0,0,0,0,0,0,8,5,3,37,14,23,7,1,0,0,0,0,0,0,1.56,58,71,304,0,0.3,324,318,-1,26
+Moritz Bauer,28,696326400,Premier League,2017/2018,Defender,Stoke City,1309,609,700,Switzerland,15,7,8,0,0,0,0,0,0,0,0,4,2,2,18,8,10,4,0,0,0,0,0,0,0,1.24,73,87,327,0,0.28,281,267,72,16
+Moses Makasi,25,811753200,Premier League,2017/2018,Midfielder,West Ham United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Moussa Dembele,33,553417200,Premier League,2017/2018,Midfielder,Tottenham Hotspur,1885,895,990,Belgium,28,10,11,0,0,0,0,0,0,0,0,11,7,4,20,6,14,6,0,0,0,0,0,0,0,0.95,94,67,314,0,0.29,370,357,-1,20
+Moussa Sissoko,31,619254000,Premier League,2017/2018,Midfielder,Tottenham Hotspur,1393,650,743,France,33,6,9,1,0,1,1,0,1,0,0,14,9,5,16,9,7,3,0,0.13,0.06,0.06,0,0.12,1393,1.03,87,42,464,1393,0.19,192,182,-1,8
+Muhamed Bešić,28,716108400,Premier League,2017/2018,Midfielder,Everton,44,0,44,Bosnia and Herzegovina,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,-1,-1,-1,21
+N'Golo Kanté,29,670233600,Premier League,2017/2018,Midfielder,Chelsea,2998,1590,1408,France,34,18,16,1,0,1,1,1,0,0,0,15,10,5,29,13,16,3,0,0.06,0.03,0.03,0,0.06,2998,0.87,103,88,999,2998,0.09,240,229,-1,14
+Nacer Chadli,31,618044400,Premier League,2017/2018,Midfielder,West Bromwich Albion,215,11,204,Belgium,5,0,2,1,0,1,0,0,0,0,0,1,1,0,3,0,3,1,0,0.42,0,0.42,0,0.44,215,1.26,72,43,215,0,0.42,-1,-1,-1,10
+Nacho Monreal,34,509788800,Premier League,2017/2018,Defender,Arsenal,2244,1116,1128,Spain,28,14,12,5,3,2,2,2,0,0,0,11,7,4,26,9,17,3,0,0.28,0.08,0.2,0.24,0.16,449,1.04,86,80,748,1122,0.12,94,163,56,5
+Nahki Wells,30,644223600,Premier League,2017/2018,Forward,Burnley,46,22,24,Bermuda,9,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,-1,-1,-1,23
+Nathan Aké,25,793094400,Premier League,2017/2018,Defender,AFC Bournemouth,3353,1710,1643,Netherlands,38,19,18,2,1,1,3,2,1,0,0,6,3,3,54,28,26,5,0,0.13,0.08,0.05,0.05,0.05,1677,1.45,62,88,671,1118,0.13,223,167,120,9
+Nathan Dyer,32,565171200,Premier League,2017/2018,Midfielder,Swansea City,1312,805,507,England,24,9,7,0,0,0,0,0,0,0,0,4,4,0,20,9,11,2,0,0,0,0,0,0,0,1.37,66,55,656,0,0.14,263,252,-1,13
+Nathan Ferguson,20,970815600,Premier League,2017/2018,Midfielder,West Bromwich Albion,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Nathan Redmond,26,762940800,Premier League,2017/2018,Midfielder,Southampton,1945,944,1001,England,31,11,11,1,0,1,3,2,1,0,0,8,3,5,29,12,17,3,0,0.19,0.14,0.05,0,0.09,1945,1.34,67,63,648,648,0.14,208,91,-1,10
+Nathan Trott,21,911635200,Premier League,2017/2018,Goalkeeper,West Ham United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Nathaniel Chalobah,25,787219200,Premier League,2017/2018,Midfielder,Watford,448,250,198,England,6,3,2,0,0,0,0,0,0,0,0,3,1,2,7,7,0,1,0,0,0,0,0,0,0,1.41,64,75,448,0,0.2,344,340,-1,27
+Nathaniel Clyne,29,670838400,Premier League,2017/2018,Defender,Liverpool,174,25,149,England,3,0,2,0,0,0,0,0,0,0,0,2,1,1,1,0,1,1,0,0,0,0,0,0,0,0.52,174,58,174,0,0.52,-1,-1,-1,26
+Nemanja Matić,32,586422000,Premier League,2017/2018,Midfielder,Manchester United,3119,1620,1499,Serbia,36,18,17,1,0,1,1,1,0,0,0,17,11,6,25,9,16,6,0,0.06,0.03,0.03,0,0.06,3119,0.72,125,87,520,3119,0.17,237,226,-1,13
+Nick Pope,28,703666800,Premier League,2017/2018,Goalkeeper,Burnley,3114,1584,1530,England,35,17,17,0,0,0,0,0,0,0,0,12,7,5,30,12,18,3,0,0,0,0,0,0,0,0.87,104,89,1038,0,0.09,304,302,34,16
+Nicolas Otamendi,32,571651200,Premier League,2017/2018,Defender,Manchester City,2968,1502,1466,Argentina,34,17,16,4,2,2,0,0,0,0,0,15,7,8,23,12,11,9,0,0.12,0,0.12,0.12,0.12,742,0.7,129,87,330,0,0.27,137,383,14,9
+Niki Mäenpää,35,475315200,Premier League,2017/2018,Goalkeeper,Brighton & Hove Albion,0,0,0,Finland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Nikola Vlašić,23,875948400,Premier League,2017/2018,Midfielder,Everton,575,363,212,Croatia,12,5,2,0,0,0,0,0,0,0,0,3,1,2,10,8,2,0,0,0,0,0,0,0,0,1.57,58,48,0,0,0,257,288,-1,16
+Nordin Amrabat,33,544176000,Premier League,2017/2018,Midfielder,Watford,200,118,82,Morocco,3,2,1,0,0,0,0,0,0,0,0,2,1,1,3,3,0,0,0,0,0,0,0,0,0,1.35,67,67,0,0,0,-1,-1,-1,26
+Nya Kirby,20,949305600,Premier League,2017/2018,Midfielder,Crystal Palace,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Oleksandr Zinchenko,23,850636800,Premier League,2017/2018,Midfielder,Manchester City,533,408,125,Ukraine,8,5,1,0,0,0,0,0,0,0,0,5,2,3,3,3,0,1,0,0,0,0,0,0,0,0.51,178,67,533,0,0.17,274,279,-1,16
+Oliver Burke,23,860396400,Premier League,2017/2018,Midfielder,West Bromwich Albion,356,236,120,Scotland,15,2,0,0,0,0,2,1,1,0,0,1,1,0,9,5,4,0,0,0.51,0.51,0,0,0,0,2.28,40,24,0,178,0,295,2,-1,15
+Oliver McBurnie,24,833871600,Premier League,2017/2018,Forward,Swansea City,269,39,230,Scotland,11,0,2,0,0,0,1,0,1,0,0,2,0,2,5,2,3,0,0,0.33,0.33,0,0,0,0,1.67,54,24,0,269,0,-1,-1,-1,18
+Olivier Giroud,34,528447600,Premier League,2017/2018,Forward,Chelsea,983,428,555,France,29,3,4,7,4,3,1,1,0,0,0,10,7,3,9,0,9,0,0,0.73,0.09,0.64,0.84,0.49,140,0.82,109,34,0,983,0,7,146,-1,4
+Oluwatosin Adarabioyo,23,875084400,Premier League,2017/2018,Defender,Manchester City,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Onyinye Wilfred Ndidi,23,850723200,Premier League,2017/2018,Midfielder,Leicester City,2899,1411,1488,Nigeria,33,16,17,0,0,0,3,1,2,0,0,9,6,3,43,16,27,10,2,0.09,0.09,0,0,0,0,1.33,67,88,290,966,0.31,338,148,-1,20
+Orestis Karnezis,35,489913200,Premier League,2017/2018,Goalkeeper,Watford,1291,630,661,Greece,15,7,7,0,0,0,0,0,0,0,0,4,3,1,20,5,15,0,0,0,0,0,0,0,0,1.39,65,86,0,0,0,260,294,106,18
+Oriol Romeu,29,685695600,Premier League,2017/2018,Midfielder,Southampton,2903,1388,1515,Spain,34,17,17,1,0,1,0,0,0,0,0,8,3,5,43,22,21,11,0,0.03,0,0.03,0,0.06,2903,1.33,68,85,264,0,0.34,239,389,-1,11
+Oumar Niasse,30,640422000,Premier League,2017/2018,Forward,Everton,1081,550,531,Senegal,22,5,5,8,6,2,2,1,1,0,0,3,1,2,20,6,14,2,0,0.83,0.17,0.67,0.98,0.34,135,1.67,54,49,541,541,0.17,6,71,-1,2
+Pablo Zabaleta,35,474710400,Premier League,2017/2018,Defender,West Ham United,3291,1620,1671,Argentina,37,18,19,0,0,0,1,1,0,0,0,10,7,3,60,22,38,9,0,0.03,0.03,0,0,0,0,1.64,55,89,366,3291,0.25,381,228,161,21
+Papa Alioune N'Diaye,29,657010800,Premier League,2017/2018,Midfielder,Stoke City,1140,529,611,Senegal,13,6,7,2,1,1,1,0,1,0,0,2,0,2,16,10,6,5,0,0.24,0.08,0.16,0.17,0.15,570,1.26,71,88,228,1140,0.39,116,162,-1,6
+Pape N'Diaye Souaré,30,644655600,Premier League,2017/2018,Defender,Crystal Palace,8,8,0,Senegal,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,-1,-1,-1,14
+Pascal Groß,29,676969200,Premier League,2017/2018,Midfielder,Brighton & Hove Albion,2949,1614,1335,Germany,38,19,16,7,7,0,8,6,2,1,0,10,5,5,44,21,23,2,0,0.46,0.24,0.21,0.39,0,421,1.34,67,78,1475,369,0.06,90,40,-1,2
+Patrice Evra,39,358758000,Premier League,2017/2018,Defender,West Ham United,228,66,162,France,5,1,2,0,0,0,0,0,0,0,0,1,0,1,10,4,6,0,0,0,0,0,0,0,0,3.95,23,46,0,0,0,-1,-1,-1,26
+Patrick van Aanholt,30,651913200,Premier League,2017/2018,Defender,Crystal Palace,2185,1062,1123,Netherlands,28,13,12,5,3,2,1,1,0,0,0,6,4,2,37,13,24,7,0,0.25,0.04,0.21,0.25,0.16,437,1.52,59,78,312,2185,0.29,91,224,142,4
+Paul Dummett,29,685868400,Premier League,2017/2018,Defender,Newcastle United,1603,875,728,Wales,20,11,8,0,0,0,0,0,0,0,0,6,5,1,18,5,13,1,0,0,0,0,0,0,0,1.01,89,80,1603,0,0.06,364,361,52,21
+Paul Pogba,27,732182400,Premier League,2017/2018,Midfielder,Manchester United,2151,968,1183,France,27,11,14,6,3,3,10,3,7,0,0,13,8,5,19,5,14,6,1,0.67,0.42,0.25,0.28,0.23,359,0.79,113,80,307,215,0.29,66,6,-1,6
+Paulo Dino Gazzaniga,28,694339200,Premier League,2017/2018,Goalkeeper,Tottenham Hotspur,90,90,0,Argentina,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,12
+Pedro Obiang,28,701683200,Premier League,2017/2018,Midfielder,West Ham United,1564,770,794,Equatorial Guinea,21,9,9,2,1,1,0,0,0,0,0,5,3,2,27,13,14,3,0,0.12,0,0.12,0.12,0.11,782,1.55,58,74,521,0,0.17,139,382,-1,7
+Pedro Rodriguez,33,554454000,Premier League,2017/2018,Midfielder,Chelsea,1522,739,783,Spain,31,9,8,4,2,2,2,1,1,0,0,13,8,5,12,6,6,1,0,0.35,0.12,0.24,0.24,0.23,381,0.71,127,49,1522,761,0.06,71,111,-1,6
+Per Mertesacker,36,465289200,Premier League,2017/2018,Defender,Arsenal,365,103,262,Germany,6,1,3,1,0,1,0,0,0,0,0,1,1,0,5,1,4,0,0,0.25,0,0.25,0,0.34,365,1.23,73,61,0,0,0,67,273,70,15
+Peter Crouch,39,349689600,Premier League,2017/2018,Forward,Stoke City,1554,880,674,England,31,8,6,5,2,3,2,2,0,0,0,4,2,2,25,15,10,4,0,0.41,0.12,0.29,0.2,0.4,311,1.45,62,50,389,777,0.23,58,108,-1,4
+Petr Čech,38,390726000,Premier League,2017/2018,Goalkeeper,Arsenal,3040,1510,1530,Czech Republic,34,17,17,0,0,0,0,0,0,0,0,11,8,3,45,19,26,1,0,0,0,0,0,0,0,1.33,68,89,3040,0,0.03,298,298,89,20
+Phil Bardsley,35,488790000,Premier League,2017/2018,Defender,Burnley,1126,496,630,Scotland,13,6,7,0,0,0,0,0,0,0,0,4,2,2,11,6,5,5,0,0,0,0,0,0,0,0.88,102,87,225,0,0.4,288,281,38,14
+Phil Jagielka,38,398415600,Premier League,2017/2018,Defender,Everton,2065,890,1175,England,25,10,13,0,0,0,0,0,0,0,0,7,5,2,36,10,26,2,0,0,0,0,0,0,0,1.57,57,83,1033,0,0.09,322,316,147,28
+Phil Jones,28,698659200,Premier League,2017/2018,Defender,Manchester United,1975,810,1165,England,23,9,14,0,0,0,0,0,0,0,0,15,8,7,10,2,8,2,0,0,0,0,0,0,0,0.46,198,86,988,0,0.09,377,374,4,23
+Philip Billing,24,834476400,Premier League,2017/2018,Midfielder,Huddersfield Town,760,339,421,Denmark,16,3,5,0,0,0,0,0,0,0,0,5,3,2,10,4,6,3,0,0,0,0,0,0,0,1.18,76,48,253,0,0.36,317,300,-1,20
+Philip Foden,20,959497200,Premier League,2017/2018,Midfielder,Manchester City,44,36,8,England,5,0,0,0,0,0,1,1,0,0,0,3,2,1,0,0,0,0,0,2.05,2.05,0,0,0,0,0,0,9,0,44,0,-1,-1,-1,19
+Philippe Coutinho,28,708332400,Premier League,2017/2018,Midfielder,Liverpool,1116,596,520,Brazil,14,7,6,7,2,5,6,2,4,0,0,5,4,1,14,3,11,0,0,1.05,0.48,0.56,0.3,0.87,159,1.13,80,80,0,186,0,14,3,-1,4
+Pierre-Emerick Aubameyang,31,614156400,Premier League,2017/2018,Forward,Arsenal,1058,541,517,Gabon,13,6,6,10,7,3,4,3,1,1,1,4,3,1,13,5,8,0,0,1.19,0.34,0.85,1.16,0.52,106,1.11,81,81,0,265,0,4,11,-1,2
+Pierre-Emile Højbjerg,25,807606000,Premier League,2017/2018,Midfielder,Southampton,1671,716,955,Denmark,23,8,11,0,0,0,0,0,0,0,0,3,0,3,27,10,17,6,0,0,0,0,0,0,0,1.45,62,73,279,0,0.32,254,286,-1,18
+Rafael Euclides Soares Camacho,20,958978800,Premier League,2017/2018,Midfielder,Liverpool,0,0,0,Portugal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ragnar Klavan,34,499507200,Premier League,2017/2018,Defender,Liverpool,1448,818,630,Estonia,19,9,7,1,0,1,0,0,0,0,0,9,7,2,14,3,11,0,0,0.06,0,0.06,0,0.14,1448,0.87,103,76,0,0,0,204,349,36,15
+Raheem Sterling,25,786873600,Premier League,2017/2018,Forward,Manchester City,2592,1240,1352,England,33,14,15,18,11,7,11,6,5,1,0,14,5,9,21,11,10,5,1,1.01,0.38,0.63,0.8,0.47,144,0.73,123,79,518,236,0.17,8,9,-1,2
+Rajiv van La Parra,29,676018800,Premier League,2017/2018,Midfielder,Huddersfield Town,2145,1020,1125,Netherlands,33,12,14,3,2,1,0,0,0,1,0,9,6,3,34,14,20,4,1,0.13,0,0.13,0.18,0.08,715,1.43,63,65,429,0,0.21,134,314,-1,4
+Ramadan Sobhi,23,854006400,Premier League,2017/2018,Forward,Stoke City,1233,465,768,Egypt,24,5,7,2,1,1,0,0,0,0,0,4,2,2,30,14,16,2,0,0.15,0,0.15,0.19,0.12,617,2.19,41,51,617,0,0.15,123,327,-1,7
+Rayhaan Rahim Amari Tulloch,19,979977600,Premier League,2017/2018,Midfielder,West Bromwich Albion,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Reece Burke,24,841647600,Premier League,2017/2018,Defender,West Ham United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Reece Oxford,21,913795200,Premier League,2017/2018,Defender,West Ham United,4,4,0,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,-1,-1,-1,15
+Reiss Nelson,20,944812800,Premier League,2017/2018,Forward,Arsenal,146,82,64,England,3,1,1,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,1.85,49,49,0,0,0,-1,-1,-1,16
+Rekeem Harper,20,952502400,Premier League,2017/2018,Midfielder,West Bromwich Albion,20,20,0,England,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,-1,-1,-1,21
+Renato Sanches,23,871887600,Premier League,2017/2018,Midfielder,Swansea City,704,313,391,Portugal,12,4,5,0,0,0,0,0,0,0,0,2,1,1,8,4,4,1,0,0,0,0,0,0,0,1.02,88,59,704,0,0.13,261,296,-1,14
+Rhu-endly Martina,31,622710000,Premier League,2017/2018,Defender,Everton,1830,1020,810,Curaçao,21,11,9,0,0,0,2,1,1,0,0,6,4,2,29,11,18,1,0,0.1,0.1,0,0,0,0,1.43,63,87,1830,915,0.05,355,130,117,23
+Richarlison de Andrade,23,863247600,Premier League,2017/2018,Forward,Watford,2827,1265,1562,Brazil,38,14,18,5,1,4,4,0,4,0,0,9,5,4,48,23,25,4,0,0.29,0.13,0.16,0.07,0.23,565,1.53,59,74,707,707,0.13,117,100,-1,4
+Riyad Mahrez,29,667123200,Premier League,2017/2018,Midfielder,Leicester City,2960,1543,1417,Algeria,36,18,16,12,6,6,10,4,6,0,0,9,6,3,48,18,30,2,0,0.67,0.3,0.36,0.35,0.38,247,1.46,62,82,1480,296,0.06,38,18,-1,2
+Rob Elliot,34,515228400,Premier League,2017/2018,Goalkeeper,Newcastle United,1440,720,720,Republic of Ireland,16,8,8,0,0,0,0,0,0,0,0,3,2,1,20,8,12,0,0,0,0,0,0,0,0,1.25,72,90,0,0,0,362,360,73,23
+Rob Holding,25,811580400,Premier League,2017/2018,Defender,Arsenal,820,365,455,England,12,4,5,0,0,0,0,0,0,0,0,3,2,1,15,5,10,3,0,0,0,0,0,0,0,1.65,55,68,273,0,0.33,330,329,163,25
+Robbie Brady,28,695376000,Premier League,2017/2018,Midfielder,Burnley,1279,618,661,Republic of Ireland,15,7,8,1,0,1,2,1,1,0,0,6,4,2,11,2,9,3,0,0.21,0.14,0.07,0,0.14,1279,0.77,116,85,426,640,0.21,180,90,-1,10
+Robert Green,40,317030400,Premier League,2017/2018,Goalkeeper,Huddersfield Town,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Robert Kenedy Nunes do Nascimento,24,823766400,Premier League,2017/2018,Midfielder,Newcastle United,1030,504,526,Brazil,13,6,7,2,2,0,2,2,0,0,0,3,3,0,9,2,7,1,0,0.35,0.17,0.17,0.36,0,515,0.79,114,79,1030,515,0.09,108,70,-1,6
+Roberto Firmino,29,686386800,Premier League,2017/2018,Forward,Liverpool,2778,1456,1322,Brazil,37,17,15,15,8,7,7,3,4,1,0,17,12,5,30,7,23,1,0,0.71,0.23,0.49,0.49,0.48,185,0.97,93,75,2778,397,0.03,20,48,-1,2
+Roberto Maximiliano Pereyra,29,663235200,Premier League,2017/2018,Forward,Watford,1622,890,732,Argentina,32,10,8,5,4,1,2,2,0,0,0,6,4,2,30,16,14,3,0,0.39,0.11,0.28,0.4,0.12,324,1.66,54,51,541,811,0.17,62,119,-1,2
+Rolando Aarons,24,816508800,Premier League,2017/2018,Midfielder,Newcastle United,137,87,50,England,4,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,1.31,69,34,0,0,0,-1,-1,-1,18
+Romelu Lukaku,27,737276400,Premier League,2017/2018,Forward,Manchester United,2869,1491,1378,Belgium,34,18,15,16,10,6,7,4,3,0,1,16,11,5,25,8,17,4,0,0.72,0.22,0.5,0.6,0.39,179,0.78,115,84,717,410,0.13,19,51,-1,1
+Rondon,31,621932400,Premier League,2017/2018,Forward,West Bromwich Albion,2772,1340,1432,Venezuela,36,16,16,7,5,2,3,1,2,0,0,9,5,4,45,25,20,4,0,0.32,0.1,0.23,0.34,0.13,396,1.46,62,77,693,924,0.13,75,134,-1,2
+Roque Mesa,31,613206000,Premier League,2017/2018,Midfielder,Swansea City,757,470,287,Spain,11,5,4,0,0,0,0,0,0,0,0,2,2,0,13,6,7,3,0,0,0,0,0,0,0,1.55,58,69,252,0,0.36,400,397,-1,15
+Ross Barkley,26,755078400,Premier League,2017/2018,Midfielder,Chelsea,131,54,77,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,4,1,3,0,0,0,0,0,0,0,0,2.75,33,66,0,0,0,-1,-1,-1,17
+Ruben Loftus-Cheek,24,822384000,Premier League,2017/2018,Midfielder,Crystal Palace,1875,961,914,England,24,11,10,2,2,0,3,1,2,0,0,7,2,5,30,18,12,1,0,0.24,0.14,0.1,0.19,0,938,1.44,63,78,1875,625,0.05,147,89,-1,9
+Ryan Bertrand,31,618303600,Premier League,2017/2018,Defender,Southampton,3137,1607,1530,England,35,18,17,0,0,0,4,4,0,0,0,7,3,4,46,24,22,2,0,0.11,0.11,0,0,0,0,1.32,68,90,1569,784,0.06,392,122,87,24
+Ryan Fraser,26,762076800,Premier League,2017/2018,Midfielder,AFC Bournemouth,2009,989,1020,Scotland,26,11,12,5,4,1,3,2,1,0,0,3,2,1,36,15,21,0,0,0.36,0.13,0.22,0.36,0.09,402,1.61,56,77,0,670,0,77,103,-1,3
+Ryan Shawcross,33,560329200,Premier League,2017/2018,Defender,Stoke City,2372,1260,1112,England,27,14,13,1,0,1,1,0,1,0,0,5,3,2,38,20,18,2,0,0.08,0.04,0.04,0,0.08,2372,1.44,62,88,1186,2372,0.08,227,221,118,8
+Sadio Mané,28,702889200,Premier League,2017/2018,Forward,Liverpool,2207,1034,1173,Senegal,29,13,15,10,6,4,7,3,4,0,0,12,8,4,18,5,13,4,1,0.69,0.29,0.41,0.52,0.31,221,0.73,123,76,441,315,0.2,29,21,-1,3
+Saido Berahino,27,744447600,Premier League,2017/2018,Forward,Stoke City,484,274,210,England,15,1,2,0,0,0,1,1,0,0,1,3,2,1,13,4,9,0,0,0.19,0.19,0,0,0,0,2.42,37,32,0,484,0,388,63,-1,27
+Sam Baldock,31,605952000,Premier League,2017/2018,Forward,Brighton & Hove Albion,30,6,24,England,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,-1,-1,-1,23
+Sam Byram,27,748162800,Premier League,2017/2018,Defender,West Ham United,246,103,143,England,5,1,1,0,0,0,0,0,0,0,0,1,1,0,7,1,6,1,0,0,0,0,0,0,0,2.56,35,49,246,0,0.37,-1,-1,-1,19
+Sam Clucas,30,654246000,Premier League,2017/2018,Midfielder,Swansea City,2045,963,1082,England,29,11,12,3,2,1,1,0,1,0,0,6,3,3,28,10,18,2,0,0.18,0.04,0.13,0.19,0.08,682,1.23,73,71,1023,2045,0.09,131,223,-1,4
+Sam Field,22,894610800,Premier League,2017/2018,Midfielder,West Bromwich Albion,540,275,265,England,10,3,4,1,1,0,0,0,0,0,0,3,2,1,6,4,2,3,0,0.17,0,0.17,0.33,0,540,1,90,54,180,0,0.5,106,403,-1,13
+Sam Hughes,23,861087600,Premier League,2017/2018,Midfielder,Leicester City,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Sam McQueen,25,792057600,Premier League,2017/2018,Defender,Southampton,142,13,129,England,7,0,1,0,0,0,0,0,0,0,0,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,-1,-1,-1,22
+Sam Vokes,30,624956400,Premier League,2017/2018,Forward,Burnley,978,429,549,Wales,30,3,4,4,0,4,1,1,0,0,0,8,4,4,13,4,9,3,0,0.46,0.09,0.37,0,0.66,245,1.2,75,33,326,978,0.28,35,143,-1,3
+Sandro Ramirez,25,805273200,Premier League,2017/2018,Forward,Everton,276,176,100,Spain,8,2,1,0,0,0,0,0,0,0,0,2,2,0,6,2,4,0,0,0,0,0,0,0,0,1.96,46,35,0,0,0,325,319,-1,24
+Scott Arfield,31,594374400,Premier League,2017/2018,Midfielder,Burnley,1336,556,780,Canada,18,7,8,2,1,1,1,1,0,0,0,6,3,3,14,6,8,3,0,0.2,0.07,0.13,0.16,0.12,668,0.94,95,74,445,1336,0.2,132,172,-1,7
+Scott Dann,33,540288000,Premier League,2017/2018,Defender,Crystal Palace,1435,805,630,England,17,9,7,1,1,0,0,0,0,0,0,2,1,1,26,16,10,4,0,0.06,0,0.06,0.11,0,1435,1.63,55,84,359,0,0.25,195,304,158,11
+Scott Malone,29,669888000,Premier League,2017/2018,Defender,Huddersfield Town,1115,586,529,England,22,7,5,0,0,0,1,1,0,0,0,4,3,1,21,8,13,3,0,0.08,0.08,0,0,0,0,1.7,53,51,372,1115,0.24,320,154,165,10
+Scott McTominay,23,850032000,Premier League,2017/2018,Midfielder,Manchester United,629,457,172,England,13,5,2,0,0,0,0,0,0,0,0,6,5,1,3,2,1,2,0,0,0,0,0,0,0,0.43,210,48,315,0,0.29,262,292,-1,16
+Sead Haksabanovic,21,925801200,Premier League,2017/2018,Midfielder,West Ham United,0,0,0,Montenegro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Sead Kolašinac,27,740559600,Premier League,2017/2018,Defender,Arsenal,2151,1106,1045,Bosnia and Herzegovina,27,12,13,2,2,0,4,4,0,0,0,10,7,3,27,13,14,3,0,0.25,0.17,0.08,0.16,0,1076,1.13,80,80,717,538,0.13,171,68,60,10
+Séamus Coleman,32,592556400,Premier League,2017/2018,Defender,Everton,1036,586,450,Republic of Ireland,12,7,5,0,0,0,1,0,1,0,0,4,3,1,12,5,7,0,0,0.09,0.09,0,0,0,0,1.04,86,86,0,1036,0,277,142,55,15
+Sebastian Prödl,33,551257200,Premier League,2017/2018,Defender,Watford,1568,781,787,Austria,21,9,8,0,0,0,0,0,0,0,0,6,3,3,25,13,12,5,0,0,0,0,0,0,0,1.43,63,75,314,0,0.29,345,342,115,22
+Serge Aurier,27,725184000,Premier League,2017/2018,Defender,Tottenham Hotspur,1429,657,772,Côte d'Ivoire,17,7,9,2,1,1,2,1,1,0,0,7,5,2,12,4,8,3,1,0.25,0.13,0.13,0.14,0.12,715,0.76,119,84,476,715,0.19,129,101,21,7
+Sergio Aguero,32,581238000,Premier League,2017/2018,Forward,Manchester City,1969,1190,779,Argentina,25,14,8,21,15,6,6,3,3,4,0,12,6,6,12,6,6,2,0,1.23,0.27,0.96,1.13,0.69,94,0.55,164,79,985,328,0.09,2,28,-1,1
+Sergio Germán Romero,33,540979200,Premier League,2017/2018,Goalkeeper,Manchester United,90,90,0,Argentina,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,22
+Shane Duffy,28,694252800,Premier League,2017/2018,Defender,Brighton & Hove Albion,3294,1603,1691,Republic of Ireland,37,18,19,0,0,0,1,1,0,0,0,9,4,5,51,23,28,8,0,0.03,0.03,0,0,0,0,1.39,65,89,412,3294,0.22,411,243,103,17
+Shane Long,33,538300800,Premier League,2017/2018,Forward,Southampton,1577,647,930,Republic of Ireland,30,6,9,2,1,1,1,0,1,0,0,7,2,5,25,10,15,6,0,0.17,0.06,0.11,0.14,0.1,789,1.43,63,53,263,1577,0.34,144,187,-1,6
+Shinji Okazaki,34,514022400,Premier League,2017/2018,Forward,Leicester City,1329,491,838,Japan,27,5,12,6,2,4,2,1,1,0,0,8,5,3,18,5,13,2,0,0.54,0.14,0.41,0.37,0.43,222,1.22,74,49,665,665,0.14,30,93,-1,3
+Shkodran Mustafi,28,703494000,Premier League,2017/2018,Defender,Arsenal,2273,1212,1061,Germany,27,14,11,3,2,1,1,1,0,0,0,10,7,3,29,14,15,6,0,0.16,0.04,0.12,0.15,0.08,758,1.15,78,84,379,2273,0.24,136,219,64,9
+Simon Francis,35,477388800,Premier League,2017/2018,Defender,AFC Bournemouth,2706,1412,1294,England,32,17,14,0,0,0,1,0,1,0,0,5,3,2,43,24,19,10,1,0.03,0.03,0,0,0,0,1.43,63,85,271,2706,0.33,406,232,116,19
+Simon Mignolet,32,573638400,Premier League,2017/2018,Goalkeeper,Liverpool,1710,720,990,Belgium,19,8,11,0,0,0,0,0,0,0,0,7,5,2,22,3,19,3,0,0,0,0,0,0,0,1.16,78,90,570,0,0.16,347,345,65,23
+Sofiane Boufal,27,748249200,Premier League,2017/2018,Midfielder,Southampton,1212,610,602,Morocco,26,5,6,2,1,1,2,0,2,0,0,4,3,1,23,10,13,1,0,0.3,0.15,0.15,0.15,0.15,606,1.71,53,47,1212,606,0.07,125,80,-1,8
+Solomon March,26,774687600,Premier League,2017/2018,Midfielder,Brighton & Hove Albion,1841,806,1035,England,36,8,10,1,0,1,1,1,0,0,0,10,5,5,27,10,17,3,0,0.1,0.05,0.05,0,0.09,1841,1.32,68,51,614,1841,0.15,211,193,-1,6
+Stefano Okaka,31,618649200,Premier League,2017/2018,Forward,Watford,444,380,64,Italy,15,3,0,1,1,0,1,1,0,0,0,3,3,0,7,4,3,2,0,0.41,0.2,0.2,0.24,0,444,1.42,63,30,222,444,0.41,97,62,-1,9
+Stephen Ireland,34,525078000,Premier League,2017/2018,Midfielder,Stoke City,128,21,107,Republic of Ireland,4,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,3,1,0,0,0,0,0,0,0,2.11,43,32,128,0,0.7,-1,-1,-1,15
+Stephen Ward,35,493369200,Premier League,2017/2018,Defender,Burnley,2462,1292,1170,Republic of Ireland,28,15,13,1,0,1,1,0,1,0,0,10,7,3,24,7,17,1,0,0.07,0.04,0.04,0,0.08,2462,0.88,103,88,2462,2462,0.04,226,217,39,11
+Steve Cook,29,672044400,Premier League,2017/2018,Defender,AFC Bournemouth,2766,1307,1459,England,34,15,16,2,0,2,1,1,0,0,0,5,2,3,49,23,26,5,0,0.1,0.03,0.07,0,0.12,1383,1.59,56,81,553,2766,0.16,186,242,150,8
+Steve Mounié,26,780822000,Premier League,2017/2018,Forward,Huddersfield Town,1857,998,859,Benin,28,12,9,7,3,4,1,1,0,0,0,7,5,2,31,13,18,2,0,0.39,0.05,0.34,0.27,0.42,265,1.5,60,66,929,1857,0.1,43,206,-1,1
+Steve Sidwell,37,408700800,Premier League,2017/2018,Midfielder,Brighton & Hove Albion,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Steven Davis,35,473414400,Premier League,2017/2018,Midfielder,Southampton,1521,920,601,Northern Ireland,23,10,7,3,1,2,0,0,0,0,0,5,2,3,21,14,7,0,0,0.18,0,0.18,0.1,0.3,507,1.24,72,66,0,0,0,102,388,-1,5
+Steven Defour,32,577090800,Premier League,2017/2018,Midfielder,Burnley,2009,1046,963,Belgium,24,12,12,1,0,1,1,0,1,0,0,10,6,4,16,7,9,6,0,0.09,0.04,0.04,0,0.09,2009,0.72,126,84,335,2009,0.27,224,215,-1,9
+Stuart Taylor,39,344246400,Premier League,2017/2018,Goalkeeper,Southampton,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Sullay Kaikai,25,809420400,Premier League,2017/2018,Midfielder,Crystal Palace,13,0,13,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,-1,-1,-1,20
+Sung-Yeung Ki,31,601632000,Premier League,2017/2018,Midfielder,Swansea City,1869,1026,843,South Korea,25,11,10,2,2,0,2,1,1,0,0,6,5,1,28,11,17,2,0,0.19,0.1,0.1,0.18,0,935,1.35,67,75,935,935,0.1,153,135,-1,6
+Tammy Abraham,23,875775600,Premier League,2017/2018,Forward,Swansea City,1716,742,974,England,31,6,9,5,3,2,1,0,1,0,0,8,4,4,27,10,17,0,0,0.31,0.05,0.26,0.36,0.18,343,1.42,64,55,0,1716,0,65,202,-1,2
+Tashan Oakley-Boothe,20,950515200,Premier League,2017/2018,Midfielder,Tottenham Hotspur,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Terence Kongolo,26,761212800,Premier League,2017/2018,Defender,Huddersfield Town,1047,417,630,Netherlands,13,4,7,0,0,0,0,0,0,0,0,2,1,1,14,6,8,0,0,0,0,0,0,0,0,1.2,75,81,0,0,0,282,251,67,25
+Theo Walcott,31,606038400,Premier League,2017/2018,Forward,Everton,1216,650,566,England,20,7,6,3,3,0,3,1,2,0,0,5,4,1,17,6,11,2,0,0.44,0.22,0.22,0.42,0,405,1.26,72,61,608,405,0.15,76,52,-1,6
+Thibaut Courtois,28,705567600,Premier League,2017/2018,Goalkeeper,Chelsea,3150,1530,1620,Belgium,35,17,18,0,0,0,0,0,0,0,0,15,10,5,30,11,19,2,0,0,0,0,0,0,0,0.86,105,90,1575,0,0.06,352,350,32,23
+Thomas Edwards,21,916992000,Premier League,2017/2018,Defender,Stoke City,483,180,303,England,6,2,4,0,0,0,0,0,0,0,0,0,0,0,15,2,13,0,0,0,0,0,0,0,0,2.8,32,81,0,0,0,273,276,175,13
+Tiemoué Bakayoko,26,777106800,Premier League,2017/2018,Midfielder,Chelsea,2124,801,1323,France,29,8,16,2,0,2,2,1,1,0,0,14,8,6,17,6,11,5,1,0.17,0.08,0.08,0,0.14,1062,0.72,125,73,425,1062,0.21,175,158,-1,12
+Tim Krul,32,576057600,Premier League,2017/2018,Goalkeeper,Brighton & Hove Albion,0,0,0,Netherlands,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Timothy Fosu-Mensah,22,883728000,Premier League,2017/2018,Defender,Crystal Palace,1594,874,720,Netherlands,21,9,8,0,0,0,0,0,0,0,0,2,2,0,29,12,17,2,0,0,0,0,0,0,0,1.64,55,76,797,0,0.11,308,306,159,25
+Toby Alderweireld,31,604828800,Premier League,2017/2018,Defender,Tottenham Hotspur,1177,547,630,Belgium,14,6,7,0,0,0,0,0,0,0,0,6,3,3,11,7,4,3,0,0,0,0,0,0,0,0.84,107,84,392,0,0.23,358,368,28,22
+Tom Carroll,28,707036400,Premier League,2017/2018,Midfielder,Swansea City,2569,1232,1337,England,37,14,14,0,0,0,4,3,1,0,0,9,5,4,37,16,21,3,0,0.14,0.14,0,0,0,0,1.3,69,69,856,642,0.11,398,97,-1,21
+Tom Cleverley,31,618908400,Premier League,2017/2018,Midfielder,Watford,1905,907,998,England,23,11,11,1,1,0,2,1,1,0,1,6,2,4,28,17,11,3,1,0.14,0.09,0.05,0.1,0,1905,1.32,68,83,635,953,0.14,210,141,-1,13
+Tom Davies,22,899190000,Premier League,2017/2018,Midfielder,Everton,1899,1089,810,England,33,10,10,2,2,0,1,1,0,0,0,10,7,3,21,9,12,7,0,0.14,0.05,0.09,0.17,0,950,1,90,58,271,1899,0.33,159,191,-1,9
+Tom Heaton,34,513936000,Premier League,2017/2018,Goalkeeper,Burnley,306,126,180,England,4,2,2,0,0,0,0,0,0,0,0,1,1,0,4,1,3,0,0,0,0,0,0,0,0,1.18,77,77,0,0,0,342,341,66,12
+Tom Ince,28,696758400,Premier League,2017/2018,Midfielder,Huddersfield Town,2456,1350,1106,England,33,16,11,2,2,0,0,0,0,0,0,9,7,2,37,17,20,0,0,0.07,0,0.07,0.13,0,1228,1.36,66,74,0,0,0,185,311,-1,5
+Tom Smith,28,703234800,Premier League,2017/2018,Defender,Huddersfield Town,1907,925,982,England,24,10,11,0,0,0,1,0,1,0,0,7,4,3,30,15,15,7,0,0.05,0.05,0,0,0,0,1.42,64,79,272,1907,0.33,316,200,114,22
+Tomer Hemed,33,546937200,Premier League,2017/2018,Forward,Brighton & Hove Albion,848,420,428,Israel,16,5,4,2,2,0,2,2,0,0,0,7,4,3,8,3,5,0,0,0.42,0.21,0.21,0.43,0,424,0.85,106,53,0,424,0,92,56,-1,5
+Trent Alexander-Arnold,22,907743600,Premier League,2017/2018,Defender,Liverpool,1576,865,711,England,19,10,8,1,1,0,1,1,0,0,0,9,7,2,15,3,12,3,0,0.11,0.06,0.06,0.1,0,1576,0.86,105,83,525,1576,0.17,196,185,31,10
+Trevoh Chalobah,21,931158000,Premier League,2017/2018,Defender,Chelsea,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Troy Deeney,32,583570800,Premier League,2017/2018,Forward,Watford,1841,927,914,England,29,10,10,5,5,0,2,1,1,3,2,6,4,2,26,12,14,2,1,0.34,0.1,0.24,0.49,0,368,1.27,71,63,614,921,0.15,69,127,-1,3
+Tyrese Campbell,20,946368000,Premier League,2017/2018,Forward,Stoke City,75,49,26,England,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,2.4,38,19,0,0,0,-1,-1,-1,18
+Tyrone Mings,27,732009600,Premier League,2017/2018,Defender,AFC Bournemouth,202,90,112,England,4,1,2,0,0,0,0,0,0,0,0,1,1,0,4,1,3,1,0,0,0,0,0,0,0,1.78,51,51,202,0,0.45,-1,-1,-1,18
+Uwe Hünemeier,34,505641600,Premier League,2017/2018,Defender,Brighton & Hove Albion,17,17,0,Germany,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,-1,-1,-1,15
+Vicente Iborra De La Fuente,32,569318400,Premier League,2017/2018,Midfielder,Leicester City,1415,675,740,Spain,19,9,8,3,0,3,0,0,0,0,0,5,2,3,23,10,13,0,0,0.19,0,0.19,0,0.36,472,1.46,62,74,0,0,0,99,264,-1,5
+Victor Moses,29,660988800,Premier League,2017/2018,Midfielder,Chelsea,2118,941,1177,Nigeria,28,11,14,3,1,2,3,3,0,0,0,13,9,4,18,5,13,3,0,0.25,0.13,0.13,0.1,0.15,706,0.76,118,76,706,706,0.13,130,104,-1,7
+Victor Nilsson Lindelöf,26,774428400,Premier League,2017/2018,Defender,Manchester United,1281,674,607,Sweden,17,7,6,0,0,0,0,0,0,0,0,6,3,3,13,5,8,1,0,0,0,0,0,0,0,0.91,99,75,1281,0,0.07,248,256,43,19
+Victor Wanyama,29,677833200,Premier League,2017/2018,Midfielder,Tottenham Hotspur,838,332,506,Kenya,18,3,5,1,0,1,0,0,0,0,0,8,5,3,9,6,3,2,0,0.11,0,0.11,0,0.18,838,0.97,93,47,419,0,0.21,140,369,-1,10
+Vincent Janssen,26,771663600,Premier League,2017/2018,Forward,Tottenham Hotspur,0,0,0,Netherlands,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Vincent Kompany,34,513504000,Premier League,2017/2018,Defender,Manchester City,1397,540,857,Belgium,17,6,11,1,1,0,1,0,1,0,0,7,2,5,12,6,6,6,0,0.13,0.06,0.06,0.17,0,1397,0.77,116,82,233,1397,0.39,193,176,22,13
+Virgil van Dijk,29,678956400,Premier League,2017/2018,Defender,Liverpool,2253,1170,1083,Netherlands,26,13,12,0,0,0,0,0,0,0,0,9,6,3,26,11,15,1,0,0,0,0,0,0,0,1.04,87,87,2253,0,0.04,267,257,53,18
+Wayne Hennessey,33,538473600,Premier League,2017/2018,Goalkeeper,Crystal Palace,2430,1170,1260,Wales,27,13,14,0,0,0,0,0,0,0,0,7,4,3,40,15,25,1,0,0,0,0,0,0,0,1.48,61,90,2430,0,0.04,305,303,132,18
+Wayne Rooney,34,498985200,Premier League,2017/2018,Forward,Everton,2283,1213,1070,England,31,15,12,10,6,4,2,2,0,3,3,8,6,2,32,15,17,5,0,0.47,0.08,0.39,0.45,0.34,228,1.26,71,74,457,1142,0.2,32,159,-1,1
+Wayne Routledge,35,473932800,Premier League,2017/2018,Midfielder,Swansea City,421,180,241,England,15,2,2,0,0,0,0,0,0,0,0,4,1,3,11,6,5,1,0,0,0,0,0,0,0,2.35,38,28,421,0,0.21,397,394,-1,23
+Wes Morgan,36,443520000,Premier League,2017/2018,Defender,Leicester City,2818,1378,1440,Jamaica,32,16,16,0,0,0,0,0,0,0,0,6,4,2,50,20,30,4,0,0,0,0,0,0,0,1.6,56,88,705,0,0.13,336,333,152,22
+Wesley Hoedt,26,762940800,Premier League,2017/2018,Defender,Southampton,2520,990,1530,Netherlands,28,11,17,0,0,0,1,1,0,0,0,5,1,4,38,13,25,7,0,0.04,0.04,0,0,0,0,1.36,66,90,360,2520,0.25,289,210,93,20
+Wilfredo Daniel Caballero,39,370508400,Premier League,2017/2018,Goalkeeper,Chelsea,270,180,90,Argentina,3,2,1,0,0,0,0,0,0,0,0,1,0,1,4,4,0,0,0,0,0,0,0,0,0,1.33,68,90,0,0,0,-1,-1,-1,20
+Wilfried Guemiand Bony,31,597744000,Premier League,2017/2018,Forward,Swansea City,704,373,331,Côte d'Ivoire,15,4,4,2,1,1,0,0,0,0,0,4,3,1,8,5,3,2,0,0.26,0,0.26,0.24,0.27,352,1.02,88,47,352,0,0.26,64,248,-1,8
+Wilfried Zaha,27,721382400,Premier League,2017/2018,Midfielder,Crystal Palace,2550,1350,1200,Côte d'Ivoire,29,15,13,9,7,2,3,2,1,0,0,9,4,5,31,20,11,5,0,0.42,0.11,0.32,0.47,0.15,283,1.09,82,88,510,850,0.18,50,123,-1,2
+Will Hughes,25,798102000,Premier League,2017/2018,Midfielder,Watford,995,505,490,England,15,6,5,2,1,1,3,3,0,0,0,4,3,1,15,7,8,0,0,0.45,0.27,0.18,0.18,0.18,498,1.36,66,66,0,332,0,103,26,-1,7
+Willian,32,587113200,Premier League,2017/2018,Forward,Chelsea,1883,1026,857,Brazil,36,10,10,6,2,4,7,3,4,1,0,16,10,6,16,9,7,1,0,0.62,0.33,0.29,0.18,0.42,314,0.76,118,52,1883,269,0.05,56,12,-1,5
+Winston Reid,32,583916400,Premier League,2017/2018,Defender,West Ham United,1454,900,554,New Zealand,17,10,7,0,0,0,0,0,0,0,0,5,4,1,26,15,11,5,0,0,0,0,0,0,0,1.61,56,86,291,0,0.31,382,380,155,25
+Xherdan Shaqiri,29,687078000,Premier League,2017/2018,Midfielder,Stoke City,3049,1494,1555,Switzerland,36,18,18,8,4,4,7,4,3,0,1,6,3,3,56,26,30,5,0,0.44,0.21,0.24,0.24,0.23,381,1.65,54,85,610,436,0.15,68,54,-1,1
+Yannick Bolasie Yala,31,611996400,Premier League,2017/2018,Forward,Everton,855,440,415,Congo DR,16,6,5,1,1,0,0,0,0,0,0,4,3,1,14,4,10,0,0,0.11,0,0.11,0.2,0,855,1.47,61,53,0,0,0,142,282,-1,11
+Yohan Benalouane,33,543916800,Premier League,2017/2018,Defender,Leicester City,90,90,0,Tunisia,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,13
+Yohan Cabaye,34,506073600,Premier League,2017/2018,Midfielder,Crystal Palace,2388,1157,1231,France,31,14,14,0,0,0,1,1,0,0,0,7,3,4,36,15,21,7,0,0.04,0.04,0,0,0,0,1.36,66,77,341,2388,0.26,245,220,-1,12
+Younes Kaboul,34,505209600,Premier League,2017/2018,Defender,Watford,151,90,61,France,2,1,1,0,0,0,0,0,0,0,0,1,0,1,3,3,0,0,0,0,0,0,0,0,0,1.79,50,76,0,0,0,-1,-1,-1,25
+Zlatan Ibrahimović,39,370940400,Premier League,2017/2018,Forward,Manchester United,103,101,2,Sweden,5,1,0,0,0,0,0,0,0,0,0,1,1,0,2,2,0,0,0,0,0,0,0,0,0,1.75,52,21,0,0,0,-1,-1,-1,14
+Łukasz Fabiański,35,482659200,Premier League,2017/2018,Goalkeeper,Swansea City,3420,1710,1710,Poland,38,19,19,0,0,0,0,0,0,0,0,9,5,4,53,23,30,0,0,0,0,0,0,0,0,1.39,65,90,0,0,0,394,393,105,19
