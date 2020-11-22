@@ -9,7 +9,7 @@ import os
 ## CONSTANTS ##
 URL = "https://api.footystats.org"  # non-changing base url
 # examples = "England Premier League", "Germany Bundesliga", "Spain La Liga", etc.
-leagueName = "Spain La Liga"
+leagueName = "USA MLS"
 apiKey = '3c87c3773c4ff88f7cbdc8f44e4ced63130a5756031056c90b9025b5ffe62407'
 
 ## FUNCTIONS ##
@@ -98,15 +98,15 @@ seasonIds = getSeasonIds(leagueName)    #get season id's for specified league
 #allSeasons = pd.DataFrame()     #empty data frame to populate
 
 for season_id in seasonIds:
-    #matchIds = getMatchIds(season_id)
+    matchIds = getMatchIds(season_id)
     #print(matchIds)
-    #matchDetails = getMatchDetails(matchIds)
+    matchDetails = getMatchDetails(matchIds)
     #allSeasons = allSeasons.append(df)    #append to sum dataframe
     teams = getTeams(season_id)
     players = getPlayers(season_id)
 
     # Produce CSV's #
-    #produceCSV(matchDetails, "{}.csv".format(season_id))
+    produceCSV(matchDetails, "{}.csv".format(season_id))
     produceCSV(teams, "{}_teams.csv".format(season_id))
     produceCSV(players, "{}_players.csv".format(season_id))
 
