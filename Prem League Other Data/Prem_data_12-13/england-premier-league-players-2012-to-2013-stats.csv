@@ -1,0 +1,619 @@
+full_name,age,birthday,league,season,position,Current Club,minutes_played_overall,minutes_played_home,minutes_played_away,nationality,appearances_overall,appearances_home,appearances_away,goals_overall,goals_home,goals_away,assists_overall,assists_home,assists_away,penalty_goals,penalty_misses,clean_sheets_overall,clean_sheets_home,clean_sheets_away,conceded_overall,conceded_home,conceded_away,yellow_cards_overall,red_cards_overall,goals_involved_per_90_overall,assists_per_90_overall,goals_per_90_overall,goals_per_90_home,goals_per_90_away,min_per_goal_overall,conceded_per_90_overall,min_per_conceded_overall,min_per_match,min_per_card_overall,min_per_assist_overall,cards_per_90_overall,rank_in_league_top_attackers,rank_in_league_top_midfielders,rank_in_league_top_defenders,rank_in_club_top_scorer
+Aaron Hughes,40,310896000,Premier League,2012/2013,Defender,Fulham,2114,1034,1080,Northern Ireland,24,11,12,0,0,0,0,0,0,0,0,4,3,1,39,18,21,1,0,0,0,0,0,0,0,1.66,54,88,2114,0,0.04,354,346,136,19
+Aaron Lennon,33,545554800,Premier League,2012/2013,Midfielder,Tottenham Hotspur,2840,1384,1456,England,34,16,17,4,3,1,7,5,2,0,0,9,5,4,29,11,18,1,0,0.35,0.22,0.13,0.2,0.06,710,0.92,98,84,2840,406,0.03,134,45,-1,6
+Aaron Ramsey,29,662198400,Premier League,2012/2013,Midfielder,Arsenal,2084,937,1147,Wales,36,9,12,1,1,0,2,0,2,0,0,13,4,9,19,11,8,5,0,0.13,0.09,0.04,0.1,0,2084,0.82,110,58,417,1042,0.22,223,157,-1,12
+Abdul Razak,27,721468800,Premier League,2012/2013,Midfielder,Manchester City,0,0,0,Côte d'Ivoire,3,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Adam Campbell,25,788947200,Premier League,2012/2013,Forward,Newcastle United,23,23,0,England,3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,-1,-1,-1,13
+Adam David Lallana,32,579250800,Premier League,2012/2013,Midfielder,Southampton,2241,1111,1130,England,30,14,12,3,1,2,5,2,3,0,0,5,2,3,41,16,25,2,0,0.32,0.2,0.12,0.08,0.16,747,1.65,55,75,1121,448,0.08,145,63,-1,6
+Adam Federici,35,476006400,Premier League,2012/2013,Goalkeeper,Reading,1890,1080,810,Australia,21,12,9,0,0,0,0,0,0,0,0,3,3,0,36,21,15,0,0,0,0,0,0,0,0,1.71,53,90,0,0,0,320,310,148,23
+Adam Johnson,33,553244400,Premier League,2012/2013,Midfielder,Sunderland,2941,1506,1435,England,35,18,17,5,3,2,6,1,5,0,0,10,7,3,48,17,31,3,0,0.34,0.18,0.15,0.18,0.13,588,1.47,61,84,980,490,0.09,114,71,-1,4
+Adam Le Fondre,33,533894400,Premier League,2012/2013,Forward,Reading,1488,749,739,England,34,5,6,12,8,4,2,1,1,3,0,4,4,0,34,17,17,3,0,0.85,0.12,0.73,0.96,0.49,124,2.06,44,44,496,744,0.18,5,128,-1,1
+Adam Mitchell,25,786355200,Premier League,2012/2013,Midfielder,Sunderland,2,0,2,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,45,2,2,0,0,0,-1,-1,-1,28
+Adam Morgan,26,766911600,Premier League,2012/2013,Forward,Liverpool,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Adel Taarabt,31,611996400,Premier League,2012/2013,Midfielder,Queens Park Rangers,2248,1222,1026,Morocco,31,13,12,5,3,2,4,1,3,0,1,6,3,3,39,20,19,5,0,0.36,0.16,0.2,0.22,0.18,450,1.56,58,73,450,562,0.2,89,83,-1,2
+Adil Nabi,26,762422400,Premier League,2012/2013,Forward,West Bromwich Albion,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Adnan Januzaj,25,791971200,Premier League,2012/2013,Midfielder,Manchester United,0,0,0,Belgium,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Adrián López Rodríguez,33,541238400,Premier League,2012/2013,Defender,Wigan Athletic,355,221,134,Spain,5,2,1,0,0,0,0,0,0,0,0,0,0,0,8,5,3,1,0,0,0,0,0,0,0,2.03,44,71,355,0,0.25,275,278,172,22
+Adrian Mariappa,34,528706800,Premier League,2012/2013,Defender,Reading,2610,1350,1260,Jamaica,29,15,14,1,0,1,0,0,0,0,0,4,4,0,53,28,25,5,0,0.03,0,0.03,0,0.07,2610,1.83,49,90,522,0,0.17,243,316,160,9
+Ahmed Eissa El Mohamady Abdel Fattah,33,558169200,Premier League,2012/2013,Midfielder,Sunderland,21,0,21,Egypt,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,-1,-1,-1,24
+Alan Tate,38,399798000,Premier League,2012/2013,Defender,Swansea City,162,72,90,England,3,1,1,0,0,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,2.22,41,54,0,0,0,-1,-1,-1,17
+Albert Crusat Domene,38,390121200,Premier League,2012/2013,Midfielder,Wigan Athletic,0,0,0,Spain,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Alejandro Faurlin,34,523954800,Premier League,2012/2013,Midfielder,Queens Park Rangers,784,380,404,Argentina,11,5,5,0,0,0,2,1,1,0,0,2,2,0,15,7,8,0,0,0.23,0.23,0,0,0,0,1.72,52,71,0,392,0,270,43,-1,16
+Aleksandar Kolarov,34,500457600,Premier League,2012/2013,Defender,Manchester City,1049,647,402,Serbia,20,8,3,1,1,0,2,2,0,0,0,8,5,3,13,6,7,5,0,0.26,0.17,0.09,0.14,0,1049,1.12,81,52,210,525,0.43,166,76,63,11
+Alex McCarthy,30,628675200,Premier League,2012/2013,Goalkeeper,Reading,1170,540,630,England,13,6,7,0,0,0,0,0,0,0,0,2,2,0,23,10,13,0,0,0,0,0,0,0,0,1.77,51,90,0,0,0,326,317,154,21
+Alex Oxlade-Chamberlain,27,745398000,Premier League,2012/2013,Midfielder,Arsenal,1060,522,538,England,25,5,6,1,1,0,3,3,0,0,0,10,3,7,10,7,3,1,0,0.34,0.25,0.08,0.17,0,1060,0.85,106,42,1060,353,0.08,185,34,-1,10
+Alex Pearce,31,595065600,Premier League,2012/2013,Defender,Reading,1644,720,924,Republic of Ireland,19,8,10,0,0,0,1,1,0,0,0,2,2,0,31,11,20,1,0,0.05,0.05,0,0,0,0,1.7,53,87,1644,1644,0.05,311,214,146,25
+Alex Smith,28,688896000,Premier League,2012/2013,Defender,Fulham,0,0,0,England,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Alexander Banor Tettey,34,512985600,Premier League,2012/2013,Midfielder,Norwich City,1902,909,993,Norway,27,10,11,0,0,0,0,0,0,0,0,8,6,2,26,7,19,4,0,0,0,0,0,0,0,1.23,73,70,476,0,0.19,272,295,-1,22
+Alexander Büttner,31,603187200,Premier League,2012/2013,Defender,Manchester United,382,202,180,Netherlands,5,2,2,2,1,1,1,1,0,0,0,3,2,1,6,1,5,1,0,0.71,0.24,0.47,0.45,0.5,191,1.41,64,76,382,382,0.24,20,37,110,10
+Alexander Kačaniklić,29,682066800,Premier League,2012/2013,Midfielder,Fulham,1262,662,600,Sweden,20,9,7,4,1,3,2,2,0,0,0,3,2,1,18,9,9,0,0,0.43,0.14,0.29,0.14,0.45,316,1.28,70,63,0,631,0,54,97,-1,4
+Alfred John Momar N'Diaye,30,636710400,Premier League,2012/2013,Midfielder,Sunderland,1298,591,707,Senegal,16,7,8,0,0,0,0,0,0,0,0,4,3,1,23,6,17,3,0,0,0,0,0,0,0,1.59,56,81,433,0,0.21,260,271,-1,15
+Ali Abdullah Harib Al Habsi,38,378547200,Premier League,2012/2013,Goalkeeper,Wigan Athletic,2610,1350,1260,Oman,29,15,14,0,0,0,0,0,0,0,0,4,0,4,55,32,23,0,0,0,0,0,0,0,0,1.9,47,90,0,0,0,370,389,165,19
+Alou Diarra,39,364028400,Premier League,2012/2013,Midfielder,West Ham United,138,0,138,France,3,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,3,1,0,0,0,0,0,0,0,1.96,46,46,138,0,0.65,-1,-1,-1,18
+Anders Lindegaard,36,450691200,Premier League,2012/2013,Goalkeeper,Manchester United,900,450,450,Denmark,10,5,5,0,0,0,0,0,0,0,0,2,2,0,17,5,12,0,0,0,0,0,0,0,0,1.7,53,90,0,0,0,366,300,145,24
+Anderson Luis de Abreu Oliveira,32,576918000,Premier League,2012/2013,Midfielder,Manchester United,825,566,259,Brazil,17,6,3,1,0,1,1,1,0,0,0,4,3,1,11,3,8,1,0,0.22,0.11,0.11,0,0.35,825,1.2,75,49,825,825,0.11,154,133,-1,15
+André Clarindo dos Santos,37,415958400,Premier League,2012/2013,Midfielder,Arsenal,395,173,222,Brazil,8,1,2,0,0,0,0,0,0,0,0,2,1,1,4,1,3,0,0,0,0,0,0,0,0,0.91,99,49,0,0,0,344,335,-1,21
+Andre Wisdom,27,736930800,Premier League,2012/2013,Defender,Liverpool,1016,540,476,England,12,6,6,0,0,0,1,0,1,0,0,5,5,0,11,1,10,0,0,0.09,0.09,0,0,0,0,0.97,92,85,0,1016,0,287,155,38,17
+Andreas Christensen,24,829119600,Premier League,2012/2013,Defender,Chelsea,0,0,0,Denmark,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Andreas Weimann,29,681375600,Premier League,2012/2013,Forward,Aston Villa,2252,1117,1135,Austria,30,13,13,7,4,3,2,1,1,0,0,4,3,1,40,16,24,4,0,0.36,0.08,0.28,0.32,0.24,322,1.6,56,75,563,1126,0.16,62,169,-1,3
+Andrew Surman,34,524905200,Premier League,2012/2013,Midfielder,Norwich City,273,145,128,England,4,2,2,0,0,0,0,0,0,0,0,1,1,0,6,3,3,0,0,0,0,0,0,0,0,1.98,46,68,0,0,0,359,355,-1,19
+Andrey Arshavin,39,359967600,Premier League,2012/2013,Forward,Arsenal,80,27,53,Russia,7,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,11,80,0,1.13,-1,-1,-1,18
+Andros Townsend,29,679647600,Premier League,2012/2013,Midfielder,Queens Park Rangers,1047,590,457,England,17,7,5,2,1,1,1,1,0,0,0,4,3,1,19,6,13,2,0,0.26,0.09,0.17,0.15,0.2,524,1.63,55,62,524,1047,0.17,104,149,-1,5
+Andy Carroll,31,600076800,Premier League,2012/2013,Forward,West Ham United,1958,1041,917,England,26,12,10,7,4,3,4,4,0,1,0,7,5,2,27,12,15,6,0,0.51,0.18,0.32,0.35,0.29,280,1.24,73,75,326,490,0.28,43,69,-1,2
+Andy Johnson,39,350640000,Premier League,2012/2013,Forward,Queens Park Rangers,135,45,90,England,3,1,1,0,0,0,0,0,0,0,0,1,1,0,3,1,2,0,0,0,0,0,0,0,0,2,45,45,0,0,0,-1,-1,-1,24
+Andy Marshall,45,166690800,Premier League,2012/2013,Goalkeeper,Aston Villa,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Andy Wilkinson,36,460623600,Premier League,2012/2013,Defender,Stoke City,1728,1028,700,England,24,11,8,0,0,0,0,0,0,0,0,6,4,2,23,15,8,6,0,0,0,0,0,0,0,1.2,75,72,288,0,0.31,329,321,75,23
+Àngel Rangel Zaragoza,37,404636400,Premier League,2012/2013,Defender,Swansea City,2750,1530,1220,Spain,33,17,13,3,2,1,1,0,1,0,0,8,5,3,35,20,15,7,0,0.13,0.03,0.1,0.12,0.07,917,1.15,79,83,393,2750,0.23,162,243,68,5
+Ángelo José Henríquez Iturra,26,766220400,Premier League,2012/2013,Forward,Wigan Athletic,44,39,5,Chile,4,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2.05,0,2.05,2.31,0,44,0,0,11,44,0,2.05,-1,-1,-1,13
+Anthony Pilkington,32,581583600,Premier League,2012/2013,Midfielder,Norwich City,2157,1122,1035,Republic of Ireland,30,13,12,5,4,1,3,3,0,0,0,8,6,2,32,11,21,2,0,0.33,0.13,0.21,0.32,0.09,431,1.34,67,72,1079,719,0.08,87,103,-1,3
+Antolín Alcáraz Viveros,38,396860400,Premier League,2012/2013,Defender,Wigan Athletic,691,308,383,Paraguay,10,3,5,0,0,0,0,0,0,0,0,3,1,2,9,3,6,2,0,0,0,0,0,0,0,1.17,77,69,346,0,0.26,371,366,71,26
+Anton Ferdinand,35,477561600,Premier League,2012/2013,Defender,Queens Park Rangers,914,456,458,England,13,5,5,0,0,0,0,0,0,0,0,1,1,0,22,11,11,2,0,0,0,0,0,0,0,2.17,42,70,457,0,0.2,362,358,178,22
+Antonio Valencia,35,491986800,Premier League,2012/2013,Defender,Manchester United,2207,954,1253,Ecuador,30,10,14,1,0,1,5,2,3,0,0,9,4,5,29,10,19,6,0,0.24,0.2,0.04,0,0.07,2207,1.18,76,74,368,441,0.24,218,60,72,16
+Apostolos Vellios,28,694857600,Premier League,2012/2013,Forward,Everton,54,46,8,Greece,6,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,1.67,1.67,0,0,0,0,0,0,9,0,54,0,-1,-1,-1,13
+Armand Traoré,31,623833200,Premier League,2012/2013,Defender,Queens Park Rangers,2094,1102,992,Senegal,26,13,11,0,0,0,0,0,0,0,0,4,2,2,32,17,15,3,0,0,0,0,0,0,0,1.38,65,81,698,0,0.13,255,279,105,21
+Arouna Koné,36,437385600,Premier League,2012/2013,Forward,Wigan Athletic,2931,1463,1468,Côte d'Ivoire,34,16,16,11,5,6,5,3,2,0,0,5,1,4,59,31,28,0,0,0.49,0.15,0.34,0.31,0.37,266,1.81,50,86,0,586,0,39,96,-1,1
+Artur Boruc,40,319881600,Premier League,2012/2013,Goalkeeper,Southampton,1756,766,990,Poland,20,9,11,0,0,0,0,0,0,0,0,5,1,4,27,12,15,1,0,0,0,0,0,0,0,1.38,65,88,1756,0,0.05,305,251,107,13
+Ashkan Dejagah,34,520930800,Premier League,2012/2013,Midfielder,Fulham,1193,550,643,Iran,21,6,7,0,0,0,1,0,1,0,0,4,2,2,20,7,13,3,0,0.08,0.08,0,0,0,0,1.51,60,57,398,1193,0.23,304,174,-1,21
+Ashley Cole,39,346147200,Premier League,2012/2013,Defender,Chelsea,2790,1440,1350,England,31,16,15,1,1,0,2,1,1,0,0,13,8,5,27,13,14,3,0,0.1,0.06,0.03,0.06,0,2790,0.87,103,90,930,1395,0.1,244,197,23,13
+Ashley Westwood,30,638956800,Premier League,2012/2013,Midfielder,Aston Villa,2461,1219,1242,England,30,14,14,0,0,0,6,2,4,0,0,5,4,1,43,16,27,2,0,0.22,0.22,0,0,0,0,1.57,57,82,1231,410,0.07,300,47,-1,12
+Ashley Williams,36,462092400,Premier League,2012/2013,Defender,Swansea City,3330,1710,1620,Wales,37,19,18,0,0,0,0,0,0,0,0,10,5,5,42,23,19,7,0,0,0,0,0,0,0,1.14,79,90,476,0,0.19,315,306,66,22
+Ashley Young,35,489740400,Premier League,2012/2013,Midfielder,Manchester United,1374,630,744,England,19,8,9,0,0,0,3,1,2,0,0,6,3,3,16,6,10,1,0,0.2,0.2,0,0,0,0,1.05,86,72,1374,458,0.07,391,58,-1,22
+Asmir Begović,33,551170800,Premier League,2012/2013,Goalkeeper,Stoke City,3420,1710,1710,Bosnia and Herzegovina,38,19,19,0,0,0,0,0,0,0,0,12,7,5,42,21,21,3,0,0,0,0,0,0,0,1.11,81,90,1140,0,0.08,328,319,60,13
+Bacary Sagna,37,414057600,Premier League,2012/2013,Defender,Arsenal,2240,1250,990,France,25,14,11,0,0,0,0,0,0,0,0,9,4,5,26,17,9,2,0,0,0,0,0,0,0,1.04,86,90,1120,0,0.08,276,257,47,13
+Barry Bannan,30,628502400,Premier League,2012/2013,Midfielder,Aston Villa,1627,900,727,Scotland,24,10,8,0,0,0,1,0,1,0,0,5,4,1,32,14,18,3,0,0.06,0.06,0,0,0,0,1.77,51,68,542,1627,0.17,410,209,-1,23
+Ben Amos,30,639730800,Premier League,2012/2013,Goalkeeper,Manchester United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ben Davies,27,735634800,Premier League,2012/2013,Defender,Swansea City,3050,1597,1453,Wales,37,17,16,1,1,0,2,2,0,0,0,9,5,4,45,23,22,5,0,0.09,0.06,0.03,0.06,0,3050,1.33,68,82,610,1525,0.15,241,207,90,10
+Ben Foster,37,418204800,Premier League,2012/2013,Goalkeeper,West Bromwich Albion,2700,1440,1260,England,30,16,14,0,0,0,0,0,0,0,0,7,4,3,40,21,19,0,0,0,0,0,0,0,0,1.33,68,90,0,0,0,334,325,92,17
+Ben Reeves,28,690537600,Premier League,2012/2013,Defender,Southampton,26,17,9,Northern Ireland,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,-1,-1,-1,14
+Ben Watson,35,489740400,Premier League,2012/2013,Midfielder,Wigan Athletic,624,366,258,England,12,4,3,1,0,1,0,0,0,0,0,1,0,1,13,9,4,1,0,0.14,0,0.14,0,0.35,624,1.88,48,52,624,0,0.14,122,367,-1,14
+Benoît Assou-Ekotto,36,448963200,Premier League,2012/2013,Defender,Tottenham Hotspur,1142,666,476,Cameroon,15,7,5,1,1,0,0,0,0,0,0,3,2,1,12,4,8,2,0,0.08,0,0.08,0.14,0,1142,0.95,95,76,571,0,0.16,179,406,36,10
+Billy Jones,33,543571200,Premier League,2012/2013,Defender,West Bromwich Albion,2207,1117,1090,England,27,12,12,1,1,0,2,2,0,0,0,6,4,2,39,18,21,8,0,0.12,0.08,0.04,0.08,0,2207,1.59,57,82,276,1104,0.33,219,161,132,11
+Billy Knott,27,722937600,Premier League,2012/2013,Midfielder,Sunderland,16,0,16,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,5.63,16,16,0,0,0,-1,-1,-1,18
+Billy Sharp,34,507974400,Premier League,2012/2013,Forward,Southampton,18,14,4,England,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,5,18,9,0,0,0,-1,-1,-1,21
+Bobby Zamora,39,348480000,Premier League,2012/2013,Forward,Queens Park Rangers,1309,631,678,England,21,8,8,4,0,4,1,0,1,0,0,3,3,0,23,8,15,2,1,0.34,0.07,0.28,0,0.53,327,1.58,57,62,436,1309,0.21,58,177,-1,3
+Brad Friedel,49,43398000,Premier League,2012/2013,Goalkeeper,Tottenham Hotspur,990,450,540,USA,11,5,6,0,0,0,0,0,0,0,0,0,0,0,14,6,8,0,0,0,0,0,0,0,0,1.27,71,90,0,0,0,380,418,82,21
+Brad Jones,38,385372800,Premier League,2012/2013,Goalkeeper,Liverpool,630,360,270,Australia,7,4,3,0,0,0,0,0,0,0,0,2,2,0,9,3,6,0,0,0,0,0,0,0,0,1.29,70,90,0,0,0,401,398,87,21
+Bradley Guzan,36,463561200,Premier League,2012/2013,Goalkeeper,Aston Villa,3240,1620,1620,USA,36,18,18,0,0,0,0,0,0,0,0,5,4,1,61,25,36,2,0,0,0,0,0,0,0,1.69,53,90,1620,0,0.06,413,410,143,21
+Bradley Johnson,33,546591600,Premier League,2012/2013,Midfielder,Norwich City,3228,1702,1526,England,37,19,18,1,1,0,2,2,0,0,0,10,8,2,50,20,30,10,0,0.08,0.06,0.03,0.05,0,3228,1.39,65,87,323,1614,0.28,238,211,-1,14
+Branislav Ivanović,36,446284800,Premier League,2012/2013,Defender,Chelsea,2944,1401,1543,Serbia,34,16,17,5,4,1,1,1,0,0,0,12,6,6,29,13,16,5,1,0.18,0.03,0.15,0.26,0.06,589,0.89,102,87,491,2944,0.18,117,246,26,6
+Brede Hangeland,39,361868400,Premier League,2012/2013,Defender,Fulham,3047,1517,1530,Norway,35,18,17,0,0,0,0,0,0,0,0,7,4,3,47,23,24,3,1,0,0,0,0,0,0,1.39,65,87,762,0,0.12,355,347,108,17
+Brek Shea,30,636192000,Premier League,2012/2013,Midfielder,Stoke City,90,24,66,USA,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,90,45,0,0,0,-1,-1,-1,24
+Brett Holman,36,449222400,Premier League,2012/2013,Forward,Aston Villa,1427,706,721,Australia,27,8,8,1,0,1,2,1,1,0,0,5,4,1,29,10,19,1,0,0.19,0.13,0.06,0,0.12,1427,1.83,49,53,1427,714,0.06,204,102,-1,8
+Brian Murphy,37,421138800,Premier League,2012/2013,Goalkeeper,Queens Park Rangers,0,0,0,Republic of Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Bryan Oviedo,30,635328000,Premier League,2012/2013,Defender,Everton,225,187,38,Costa Rica,15,1,0,0,0,0,1,1,0,0,0,3,1,2,1,1,0,1,0,0.4,0.4,0,0,0,0,0.4,225,15,225,225,0.4,-1,-1,-1,14
+Bryan Ruiz González,35,493196400,Premier League,2012/2013,Forward,Fulham,2384,1241,1143,Costa Rica,29,14,12,4,3,1,7,1,6,0,0,5,2,3,39,24,15,2,0,0.42,0.26,0.15,0.22,0.08,596,1.47,61,82,1192,341,0.08,116,30,-1,5
+Brynjar Björn Gunnarsson,44,182674800,Premier League,2012/2013,Midfielder,Reading,0,0,0,Iceland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Callum McManaman,29,672562800,Premier League,2012/2013,Midfielder,Wigan Athletic,639,334,305,England,20,4,4,2,1,1,0,0,0,0,0,2,1,1,11,6,5,0,0,0.28,0,0.28,0.27,0.3,320,1.55,58,32,0,0,0,57,291,-1,9
+Calum Chambers,25,790588800,Premier League,2012/2013,Defender,Southampton,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Cameron Jerome,34,524386800,Premier League,2012/2013,Forward,Stoke City,1107,490,617,England,26,3,5,3,3,0,3,1,2,0,0,6,3,3,11,4,7,3,0,0.49,0.24,0.24,0.55,0,369,0.89,101,43,369,369,0.24,73,36,-1,5
+Carl Jenkinson,28,697536000,Premier League,2012/2013,Defender,Arsenal,1188,436,752,England,14,5,9,0,0,0,0,0,0,0,0,6,1,5,10,5,5,2,1,0,0,0,0,0,0,0.76,119,85,594,0,0.15,342,333,11,23
+Carlo Cudicini,47,116146800,Premier League,2012/2013,Goalkeeper,Tottenham Hotspur,0,0,0,Republic of Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Carlos Alberto Tevez,36,444816000,Premier League,2012/2013,Forward,Manchester City,2408,1253,1155,Argentina,34,14,14,11,9,2,8,5,3,2,0,17,10,7,19,7,12,3,0,0.71,0.3,0.41,0.65,0.16,219,0.71,127,71,803,301,0.11,29,18,-1,3
+Carlos Javier Cuéllar Jiménez,39,367398000,Premier League,2012/2013,Defender,Sunderland,2258,1106,1152,Spain,26,13,13,1,0,1,2,2,0,0,0,8,4,4,36,13,23,5,0,0.12,0.08,0.04,0,0.08,2258,1.43,63,87,452,1129,0.2,225,172,115,13
+Carlton Cole Okirie,37,434790000,Premier League,2012/2013,Forward,West Ham United,1359,566,793,England,27,6,8,2,2,0,1,1,0,0,0,6,3,3,21,7,14,3,1,0.2,0.07,0.13,0.32,0,680,1.39,65,50,340,1359,0.26,131,180,-1,11
+Cesar Azpilicueta,31,620290800,Premier League,2012/2013,Defender,Chelsea,2196,1213,983,Spain,27,13,11,0,0,0,4,3,1,0,0,9,6,3,21,10,11,4,0,0.16,0.16,0,0,0,0,0.86,105,81,549,549,0.16,290,82,22,16
+Charles Banya,27,748335600,Premier League,2012/2013,Midfielder,Fulham,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Charles N'Zogbia,34,517647600,Premier League,2012/2013,Midfielder,Aston Villa,992,553,439,France,21,6,5,2,2,0,4,0,4,0,0,1,1,0,19,9,10,1,0,0.54,0.36,0.18,0.33,0,496,1.72,52,47,992,248,0.09,100,11,-1,6
+Charlie Adam,34,503049600,Premier League,2012/2013,Midfielder,Stoke City,1771,944,827,Scotland,27,12,10,3,3,0,2,2,0,0,0,9,6,3,25,13,12,9,1,0.25,0.1,0.15,0.29,0,590,1.27,71,66,197,886,0.46,115,141,-1,4
+Cheik Ismaël Tioté,34,519721200,Premier League,2012/2013,Midfielder,Newcastle United,1761,960,801,Côte d'Ivoire,24,12,10,0,0,0,1,0,1,0,0,4,3,1,38,21,17,8,1,0.05,0.05,0,0,0,0,1.94,46,73,196,1761,0.46,417,225,-1,29
+Chinedum Onuoha,33,532166400,Premier League,2012/2013,Defender,Queens Park Rangers,1608,851,757,England,23,8,7,0,0,0,0,0,0,0,0,5,3,2,25,14,11,0,0,0,0,0,0,0,0,1.4,64,70,0,0,0,363,345,109,29
+Chris Baird,38,383472000,Premier League,2012/2013,Defender,Fulham,1316,661,655,Northern Ireland,19,7,7,2,1,1,0,0,0,0,0,4,3,1,17,6,11,5,0,0.14,0,0.14,0.14,0.14,658,1.16,77,69,263,0,0.34,120,350,70,8
+Chris Brunt,35,471859200,Premier League,2012/2013,Midfielder,West Bromwich Albion,2180,1062,1118,Northern Ireland,31,11,12,2,1,1,3,1,2,0,0,7,5,2,36,16,20,4,0,0.21,0.12,0.08,0.08,0.08,1090,1.49,61,70,545,727,0.17,181,120,-1,9
+Chris Gunter,31,617007600,Premier League,2012/2013,Defender,Reading,1790,990,800,Wales,20,11,9,0,0,0,0,0,0,0,0,5,5,0,29,11,18,1,0,0,0,0,0,0,0,1.46,62,90,1790,0,0.05,322,311,118,26
+Chris Herd,31,607676400,Premier League,2012/2013,Midfielder,Aston Villa,754,419,335,Australia,9,5,4,0,0,0,0,0,0,0,0,1,1,0,21,11,10,1,0,0,0,0,0,0,0,2.51,36,84,754,0,0.12,412,409,-1,22
+Chris Martin,31,594633600,Premier League,2012/2013,Forward,Norwich City,3,3,0,Scotland,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,-1,-1,-1,21
+Chris Smalling,30,627724800,Premier League,2012/2013,Defender,Manchester United,1013,622,391,England,15,7,3,0,0,0,0,0,0,0,0,7,5,2,10,5,5,1,0,0,0,0,0,0,0,0.89,101,68,1013,0,0.09,256,287,27,23
+Christian Benteke,29,660211200,Premier League,2012/2013,Forward,Aston Villa,2821,1463,1358,Belgium,34,17,15,19,11,8,4,1,3,3,0,5,4,1,55,22,33,9,1,0.73,0.13,0.61,0.68,0.53,148,1.75,51,83,313,705,0.29,10,104,-1,1
+Christopher Veijeany Samba,36,449308800,Premier League,2012/2013,Defender,Queens Park Rangers,900,450,450,Congo,10,5,5,0,0,0,0,0,0,0,0,1,1,0,18,5,13,2,0,0,0,0,0,0,0,1.8,50,90,450,0,0.2,266,261,158,18
+Ciaran Clark,31,622796400,Premier League,2012/2013,Defender,Aston Villa,2498,1228,1270,Republic of Ireland,29,14,14,1,0,1,0,0,0,0,0,5,4,1,50,21,29,7,1,0.04,0,0.04,0,0.07,2498,1.8,50,86,312,0,0.29,228,404,157,9
+Claudio Yacob,33,553590000,Premier League,2012/2013,Midfielder,West Bromwich Albion,2480,1325,1155,Argentina,30,16,13,0,0,0,0,0,0,0,0,7,4,3,38,20,18,6,0,0,0,0,0,0,0,1.38,65,83,413,0,0.22,365,359,-1,22
+Clint Dempsey,37,416044800,Premier League,2012/2013,Forward,Tottenham Hotspur,1997,1121,876,USA,29,13,9,7,3,4,4,2,2,0,0,7,4,3,22,12,10,3,0,0.5,0.18,0.32,0.24,0.41,285,0.99,91,69,666,499,0.14,44,70,-1,3
+Clint Hill,41,277628400,Premier League,2012/2013,Defender,Queens Park Rangers,2632,1324,1308,England,31,15,16,0,0,0,1,1,0,0,0,6,3,3,46,20,26,8,0,0.03,0.03,0,0,0,0,1.57,57,85,329,2632,0.27,352,240,129,28
+Connor Wickham,27,733564800,Premier League,2012/2013,Forward,Sunderland,449,181,268,England,12,1,2,0,0,0,0,0,0,0,0,2,2,0,7,4,3,0,0,0,0,0,0,0,0,1.4,64,37,0,0,0,349,342,-1,22
+Conor Coady,27,730627200,Premier League,2012/2013,Midfielder,Liverpool,2,0,2,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,-1,-1,-1,26
+Costel Pantilimon,33,539164800,Premier League,2012/2013,Goalkeeper,Manchester City,0,0,0,Romania,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Craig Dawson,30,641977200,Premier League,2012/2013,Defender,West Bromwich Albion,90,0,90,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,18
+Craig Gardner,33,533289600,Premier League,2012/2013,Midfielder,Sunderland,2832,1404,1428,England,33,16,16,6,3,3,2,1,1,4,0,9,6,3,46,16,30,11,1,0.25,0.06,0.19,0.19,0.19,472,1.46,62,86,236,1416,0.38,93,205,-1,3
+Cristian Ceballos Prieto,27,723369600,Premier League,2012/2013,Forward,Tottenham Hotspur,0,0,0,Spain,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Csaba Somogyi,35,481708800,Premier League,2012/2013,Goalkeeper,Fulham,0,0,0,Hungary,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Curtis Good,27,732873600,Premier League,2012/2013,Defender,Newcastle United,0,0,0,Australia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Damián Emiliano Martínez,28,715417200,Premier League,2012/2013,Goalkeeper,Arsenal,0,0,0,Argentina,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Damien Duff,41,289209600,Premier League,2012/2013,Midfielder,Fulham,2339,1152,1187,Republic of Ireland,31,13,14,3,1,2,7,6,1,0,0,7,3,4,34,20,14,0,0,0.38,0.27,0.12,0.08,0.15,780,1.31,69,75,0,334,0,146,26,-1,7
+Dan Gosling,30,633859200,Premier League,2012/2013,Midfielder,Newcastle United,40,0,40,England,3,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,2.25,40,13,0,0,0,-1,-1,-1,25
+Daniel Carriço,32,586681200,Premier League,2012/2013,Defender,Reading,87,79,8,Portugal,3,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1.03,87,29,0,0,0,-1,-1,-1,14
+Daniel Munthe Agger,35,471686400,Premier League,2012/2013,Defender,Liverpool,3100,1512,1588,Denmark,35,17,18,3,1,2,0,0,0,0,0,15,10,5,36,12,24,4,1,0.09,0,0.09,0.06,0.11,1033,1.05,86,89,620,0,0.15,169,391,52,6
+Daniel Potts,26,766220400,Premier League,2012/2013,Defender,West Ham United,117,0,117,England,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,2.31,39,59,0,0,0,-1,-1,-1,24
+Daniel Redmond,29,667900800,Premier League,2012/2013,Midfielder,Wigan Athletic,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Daniel Sturridge,31,620636400,Premier League,2012/2013,Forward,Liverpool,1252,575,677,England,21,5,7,11,3,8,3,2,1,1,0,8,5,3,15,3,12,2,0,1.01,0.22,0.79,0.47,1.06,114,1.08,83,60,626,417,0.14,2,44,-1,2
+Danny Fox,34,517734000,Premier League,2012/2013,Defender,Southampton,1215,715,500,Scotland,20,9,5,1,0,1,1,1,0,0,0,2,0,2,30,15,15,4,1,0.15,0.07,0.07,0,0.18,1215,2.22,41,61,243,1215,0.37,190,185,179,9
+Danny Graham,35,492678000,Premier League,2012/2013,Forward,Sunderland,1838,1037,801,England,31,12,9,3,2,1,2,1,1,0,0,6,2,4,30,17,13,0,0,0.24,0.1,0.15,0.17,0.11,613,1.47,61,59,0,919,0,118,147,-1,5
+Danny Guthrie,33,545727600,Premier League,2012/2013,Midfielder,Reading,1617,818,799,England,21,10,9,1,0,1,1,0,1,0,0,4,4,0,31,10,21,4,0,0.11,0.06,0.06,0,0.11,1617,1.73,52,77,404,1617,0.22,201,194,-1,10
+Danny Rose,30,646902000,Premier League,2012/2013,Defender,Sunderland,2221,1207,1014,England,27,14,11,1,0,1,1,1,0,0,0,8,5,3,33,13,20,6,0,0.08,0.04,0.04,0,0.09,2221,1.34,67,82,370,2221,0.24,222,235,98,11
+Danny Seaborne,33,541929600,Premier League,2012/2013,Defender,Southampton,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Danny Simpson,33,536745600,Premier League,2012/2013,Defender,Newcastle United,1524,684,840,England,19,9,9,0,0,0,0,0,0,0,0,4,3,1,29,8,21,3,0,0,0,0,0,0,0,1.71,53,80,508,0,0.18,416,412,149,30
+Danny Welbeck,29,659606400,Premier League,2012/2013,Forward,Manchester United,1290,840,450,England,27,9,4,1,1,0,4,3,1,0,0,12,6,6,11,8,3,1,0,0.35,0.28,0.07,0.11,0,1290,0.77,117,48,1290,323,0.07,194,25,-1,14
+Darren Bent,36,444902400,Premier League,2012/2013,Forward,Aston Villa,808,344,464,England,16,3,5,3,1,2,0,0,0,0,0,2,2,0,15,7,8,1,0,0.33,0,0.33,0.26,0.39,269,1.67,54,51,808,0,0.11,42,408,-1,4
+Darren Fletcher,36,444470400,Premier League,2012/2013,Midfielder,Manchester United,180,90,90,Scotland,3,1,1,1,1,0,0,0,0,0,0,0,0,0,4,1,3,0,0,0.5,0,0.5,1,0,180,2,45,60,0,0,0,-1,-1,-1,12
+Darron Gibson,32,562143600,Premier League,2012/2013,Midfielder,Everton,1810,863,947,Republic of Ireland,23,10,12,1,1,0,2,2,0,0,0,7,5,2,17,6,11,5,1,0.15,0.1,0.05,0.1,0,1810,0.85,106,79,302,905,0.3,215,146,-1,10
+David Cornell,29,670147200,Premier League,2012/2013,Goalkeeper,Swansea City,0,0,0,Wales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+David de Gea,29,657964800,Premier League,2012/2013,Goalkeeper,Manchester United,2520,1260,1260,Spain,28,14,14,0,0,0,0,0,0,0,0,11,5,6,24,13,11,0,0,0,0,0,0,0,0,0.86,105,90,0,0,0,390,388,21,21
+David Ferguson,26,770972400,Premier League,2012/2013,Defender,Sunderland,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+David Fox,36,440150400,Premier League,2012/2013,Midfielder,Norwich City,35,0,35,England,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,5.14,18,18,0,0,0,-1,-1,-1,23
+David Jones,35,468403200,Premier League,2012/2013,Midfielder,Wigan Athletic,809,386,423,England,13,4,4,0,0,0,0,0,0,0,0,1,0,1,20,9,11,1,0,0,0,0,0,0,0,2.22,40,62,809,0,0.11,372,368,-1,20
+David Junior Hoilett,30,644569200,Premier League,2012/2013,Forward,Queens Park Rangers,1447,738,709,Canada,26,8,7,2,2,0,1,0,1,0,0,2,0,2,28,16,12,1,0,0.19,0.06,0.12,0.24,0,724,1.74,52,56,1447,1447,0.06,137,193,-1,7
+David Luiz,33,546073200,Premier League,2012/2013,Defender,Chelsea,2633,1428,1205,Brazil,30,16,13,2,1,1,2,2,0,0,0,14,8,6,22,12,10,8,0,0.14,0.07,0.07,0.06,0.07,1317,0.75,120,88,329,1317,0.27,197,179,10,10
+David Meyler,31,612428400,Premier League,2012/2013,Midfielder,Sunderland,63,0,63,Republic of Ireland,3,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,2,0,0,0,0,0,0,0,0,2.86,32,21,0,0,0,-1,-1,-1,23
+David Silva,34,505555200,Premier League,2012/2013,Midfielder,Manchester City,2527,1291,1236,Spain,32,15,14,4,4,0,8,5,3,0,1,14,7,7,19,10,9,2,0,0.43,0.28,0.14,0.28,0,632,0.68,133,79,1264,316,0.07,123,24,-1,6
+David Stockdale,35,496047600,Premier League,2012/2013,Goalkeeper,Fulham,180,90,90,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,1.5,60,90,0,0,0,-1,-1,-1,16
+David Vaughan,37,414403200,Premier League,2012/2013,Midfielder,Sunderland,720,346,374,Wales,24,3,3,1,0,1,0,0,0,0,0,7,5,2,7,2,5,3,1,0.13,0,0.13,0,0.24,720,0.88,103,30,240,0,0.38,135,298,-1,9
+Davide Santon,29,662803200,Premier League,2012/2013,Defender,Newcastle United,2645,1311,1334,Italy,31,16,15,1,0,1,2,2,0,0,0,5,4,1,49,21,28,4,0,0.1,0.07,0.03,0,0.07,2645,1.67,54,85,661,1323,0.14,246,181,141,10
+Dean Whitehead,38,380448000,Premier League,2012/2013,Midfielder,Stoke City,1389,510,879,England,26,4,8,1,0,1,0,0,0,0,0,11,6,5,19,6,13,11,1,0.06,0,0.06,0,0.1,1389,1.23,73,53,126,0,0.71,207,324,-1,11
+Declan Rudd,29,664012800,Premier League,2012/2013,Goalkeeper,Norwich City,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Demba Ba,35,485852400,Premier League,2012/2013,Forward,Chelsea,2537,1352,1185,Senegal,34,16,14,15,9,6,0,0,0,1,0,9,6,3,41,16,25,0,0,0.53,0,0.53,0.6,0.46,169,1.45,62,75,0,0,0,15,415,-1,1
+Denis Suárez,26,757843200,Premier League,2012/2013,Midfielder,Manchester City,0,0,0,Spain,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Derrick Williams,27,727257600,Premier League,2012/2013,Defender,Aston Villa,25,0,25,Republic of Ireland,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,-1,-1,-1,18
+Dimitar Ivanov Berbatov,39,349689600,Premier League,2012/2013,Forward,Fulham,2848,1426,1422,Bulgaria,33,16,16,15,8,7,3,1,2,4,0,7,3,4,45,27,18,1,0,0.57,0.09,0.47,0.5,0.44,190,1.42,63,86,2848,949,0.03,22,154,-1,1
+Djibril Cissé,39,366447600,Premier League,2012/2013,Forward,Queens Park Rangers,1109,614,495,France,18,7,5,3,2,1,0,0,0,0,1,2,1,1,23,16,7,0,0,0.24,0,0.24,0.29,0.18,370,1.87,48,62,0,0,0,72,315,-1,4
+Dominic Samuel,26,766047600,Premier League,2012/2013,Forward,Reading,18,0,18,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,-1,-1,-1,13
+Dong-Won Ji,29,675414000,Premier League,2012/2013,Midfielder,Sunderland,0,0,0,South Korea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Dudley Junior Campbell,38,374400000,Premier League,2012/2013,Forward,Queens Park Rangers,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Dwight Tiendalli,34,498726000,Premier League,2012/2013,Defender,Swansea City,1011,186,825,Netherlands,14,2,9,1,0,1,0,0,0,0,0,6,2,4,16,3,13,3,0,0.09,0,0.09,0,0.11,1011,1.42,63,72,337,0,0.27,175,286,114,8
+Eden Hazard,29,663235200,Premier League,2012/2013,Midfielder,Chelsea,2637,1462,1175,Belgium,34,17,14,9,6,3,11,5,6,2,0,13,8,5,26,14,12,2,0,0.68,0.38,0.31,0.37,0.23,293,0.89,101,78,1319,240,0.07,46,8,-1,4
+Edin Džeko,34,511430400,Premier League,2012/2013,Forward,Manchester City,1813,974,839,Bosnia and Herzegovina,32,9,7,14,6,8,3,2,1,0,1,14,7,7,20,9,11,4,0,0.84,0.15,0.69,0.55,0.86,130,0.99,91,57,453,604,0.2,8,93,-1,1
+Eduard Campabadal Claros,27,728035200,Premier League,2012/2013,Defender,Wigan Athletic,2,2,0,Spain,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,-1,-1,-1,27
+Elliott Bennett,31,598435200,Premier League,2012/2013,Midfielder,Norwich City,934,368,566,England,24,4,5,1,1,0,3,2,1,0,0,7,5,2,18,4,14,3,0,0.39,0.29,0.1,0.24,0,934,1.73,52,39,311,311,0.29,163,22,-1,9
+Elliott Lee,25,787564800,Premier League,2012/2013,Forward,West Ham United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Emanuel Pogatetz,37,411552000,Premier League,2012/2013,Defender,West Ham United,148,18,130,Austria,6,0,1,0,0,0,0,0,0,0,0,3,1,2,3,1,2,2,0,0,0,0,0,0,0,1.82,49,25,74,0,1.22,-1,-1,-1,25
+Emmanuel Adebayor,36,446630400,Premier League,2012/2013,Forward,Tottenham Hotspur,1600,842,758,Togo,25,8,10,5,2,3,1,0,1,0,0,7,5,2,14,7,7,4,1,0.34,0.06,0.28,0.21,0.36,320,0.79,114,64,320,1600,0.28,56,199,-1,4
+Emmanuel Mayuka,29,659174400,Premier League,2012/2013,Forward,Southampton,223,148,75,Zambia,11,1,0,0,0,0,0,0,0,0,0,1,0,1,6,3,3,0,0,0,0,0,0,0,0,2.42,37,20,0,0,0,-1,-1,-1,11
+Emmanuel Yaw Frimpong,28,695030400,Premier League,2012/2013,Midfielder,Fulham,219,23,196,Ghana,6,0,2,0,0,0,1,0,1,0,0,2,0,2,1,0,1,1,0,0.41,0.41,0,0,0,0,0.41,219,37,219,219,0.41,-1,-1,-1,23
+Emmerson Orlando Boyce,41,307004400,Premier League,2012/2013,Defender,Wigan Athletic,3146,1583,1563,Barbados,36,18,18,4,2,2,0,0,0,0,0,5,1,4,65,36,29,5,0,0.11,0,0.11,0.11,0.12,787,1.86,48,87,629,0,0.14,150,364,161,4
+Enda Stevens,30,647506800,Premier League,2012/2013,Defender,Aston Villa,470,294,176,Republic of Ireland,7,4,2,0,0,0,0,0,0,0,0,3,2,1,10,4,6,1,0,0,0,0,0,0,0,1.91,47,67,470,0,0.19,262,276,167,16
+Eric Lichaj,31,595756800,Premier League,2012/2013,Defender,Aston Villa,1137,506,631,USA,17,4,5,0,0,0,1,1,0,0,0,5,4,1,18,6,12,6,0,0.08,0.08,0,0,0,0,1.42,63,67,190,1137,0.47,411,170,112,19
+Esteban Félix Granero Molina,33,552207600,Premier League,2012/2013,Midfielder,Queens Park Rangers,1664,658,1006,Spain,24,8,11,1,0,1,1,0,1,0,0,5,2,3,23,9,14,7,0,0.11,0.05,0.05,0,0.09,1664,1.24,72,69,238,1664,0.38,212,219,-1,11
+Etey Menachem Shechter,33,540979200,Premier League,2012/2013,Forward,Swansea City,622,200,422,Israel,18,2,5,1,0,1,0,0,0,0,0,4,1,3,11,3,8,3,0,0.14,0,0.14,0,0.21,622,1.59,57,35,207,0,0.43,126,277,-1,9
+Eyong Tarkang Enoh,34,511948800,Premier League,2012/2013,Midfielder,Fulham,692,360,332,Cameroon,9,4,4,0,0,0,0,0,0,0,0,2,0,2,13,11,2,3,0,0,0,0,0,0,0,1.69,53,77,231,0,0.39,420,420,-1,26
+Fabian Delph,30,627638400,Premier League,2012/2013,Midfielder,Aston Villa,1704,834,870,England,24,9,10,0,0,0,0,0,0,0,0,1,1,0,28,13,15,7,0,0,0,0,0,0,0,1.48,61,71,243,0,0.37,409,407,-1,25
+Fabio Borini,29,670233600,Premier League,2012/2013,Forward,Liverpool,508,296,212,Italy,13,3,2,1,0,1,0,0,0,0,0,5,4,1,8,4,4,1,0,0.18,0,0.18,0,0.42,508,1.42,64,39,508,0,0.18,103,396,-1,11
+Fábio Pereira da Silva,30,647506800,Premier League,2012/2013,Defender,Queens Park Rangers,1131,594,537,Brazil,21,7,6,0,0,0,0,0,0,0,0,6,4,2,17,10,7,3,0,0,0,0,0,0,0,1.35,67,54,377,0,0.24,337,329,101,27
+Fabricio Coloccini,38,380534400,Premier League,2012/2013,Defender,Newcastle United,1918,855,1063,Argentina,22,10,12,0,0,0,1,1,0,0,0,4,2,2,33,13,20,3,1,0.05,0.05,0,0,0,0,1.55,58,87,480,1918,0.19,299,217,128,22
+Fernando Torres,36,448617600,Premier League,2012/2013,Forward,Chelsea,2569,1254,1315,Spain,36,14,14,8,5,3,6,2,4,1,0,12,6,6,28,12,16,6,1,0.49,0.21,0.28,0.36,0.21,321,0.98,92,71,428,428,0.21,60,50,-1,5
+Florent Cuvelier,28,716281200,Premier League,2012/2013,Midfielder,Stoke City,0,0,0,Belgium,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Fraizer Campbell,33,558514800,Premier League,2012/2013,Forward,Sunderland,253,66,187,England,12,0,1,1,0,1,0,0,0,0,0,3,1,2,2,0,2,0,0,0.36,0,0.36,0,0.48,253,0.71,127,21,0,0,0,-1,-1,-1,10
+Francis Coquelin,29,674118000,Premier League,2012/2013,Midfielder,Arsenal,222,140,82,France,11,2,1,0,0,0,0,0,0,0,0,3,1,2,5,3,2,0,0,0,0,0,0,0,0,2.03,44,20,0,0,0,-1,-1,-1,20
+Francisco Santos Da Silva Júnior,28,695721600,Premier League,2012/2013,Midfielder,Everton,0,0,0,Guinea-Bissau,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Franco Di Santo,31,607935600,Premier League,2012/2013,Forward,Wigan Athletic,2132,1042,1090,Argentina,35,12,12,5,2,3,2,0,2,0,0,5,1,4,50,27,23,5,0,0.3,0.08,0.21,0.17,0.25,426,2.11,43,61,426,1066,0.21,86,168,-1,3
+Frank Lampard,42,267174000,Premier League,2012/2013,Midfielder,Chelsea,1900,905,995,England,29,10,11,15,7,8,1,1,0,5,1,12,6,6,17,9,8,2,0,0.76,0.05,0.71,0.7,0.72,127,0.81,112,66,950,1900,0.09,6,227,-1,2
+Fraser Fyvie,27,733219200,Premier League,2012/2013,Midfielder,Wigan Athletic,21,21,0,Scotland,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,-1,-1,-1,21
+Frazer Richardson,37,404722800,Premier League,2012/2013,Defender,Southampton,166,71,95,England,5,1,1,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,1.63,55,33,0,0,0,-1,-1,-1,20
+Gabby Agbonlahor,34,529570800,Premier League,2012/2013,Forward,Aston Villa,2190,1002,1188,England,28,11,13,9,2,7,3,2,1,0,0,4,3,1,35,12,23,4,0,0.49,0.12,0.37,0.18,0.53,243,1.44,63,78,548,730,0.16,33,124,-1,2
+Gabriel Obertan,31,604483200,Premier League,2012/2013,Midfielder,Newcastle United,413,176,237,France,14,1,3,0,0,0,1,0,1,0,0,3,2,1,12,2,10,0,0,0.22,0.22,0,0,0,0,2.62,34,30,0,413,0,419,49,-1,27
+Gabriel Sebastian Tamaş,36,437212800,Premier League,2012/2013,Defender,West Bromwich Albion,632,322,310,Romania,11,4,3,0,0,0,0,0,0,0,0,0,0,0,9,5,4,3,0,0,0,0,0,0,0,1.28,70,57,211,0,0.43,296,280,86,14
+Gaël Bigirimana,27,751273200,Premier League,2012/2013,Midfielder,Newcastle United,405,163,242,Burundi,13,0,3,1,1,0,0,0,0,0,0,2,1,1,10,2,8,1,0,0.22,0,0.22,0.55,0,405,2.22,41,31,405,0,0.22,82,248,-1,8
+Gaël Clichy,35,491209200,Premier League,2012/2013,Defender,Manchester City,2334,1067,1267,France,28,12,14,0,0,0,2,2,0,0,0,13,7,6,22,8,14,3,0,0.08,0.08,0,0,0,0,0.85,106,83,778,1167,0.12,377,166,19,18
+Garath McCleary,33,548060400,Premier League,2012/2013,Forward,Reading,1571,710,861,Jamaica,31,6,9,3,1,2,2,1,1,0,0,3,3,0,31,13,18,0,0,0.29,0.11,0.17,0.13,0.21,524,1.78,51,51,0,786,0,105,135,-1,5
+Gareth Bale,31,616575600,Premier League,2012/2013,Forward,Tottenham Hotspur,2925,1350,1575,Wales,33,15,18,21,8,13,4,2,2,0,0,8,4,4,34,10,24,6,0,0.77,0.12,0.65,0.53,0.74,139,1.05,86,89,488,731,0.18,9,125,-1,1
+Gareth Barry,39,351763200,Premier League,2012/2013,Midfielder,Manchester City,2397,1185,1212,England,31,13,14,1,1,0,3,2,1,0,0,17,9,8,19,6,13,6,0,0.15,0.11,0.04,0.08,0,2397,0.71,126,77,400,799,0.23,229,130,-1,12
+Gareth McAuley,40,313228800,Premier League,2012/2013,Defender,West Bromwich Albion,3240,1620,1620,Northern Ireland,36,18,18,3,2,1,2,1,1,0,0,8,5,3,49,22,27,3,0,0.14,0.06,0.08,0.11,0.06,1080,1.36,66,90,1080,1620,0.08,178,208,103,6
+Garry Monk,41,289555200,Premier League,2012/2013,Defender,Swansea City,923,383,540,England,11,4,6,0,0,0,0,0,0,0,0,1,1,0,13,2,11,0,0,0,0,0,0,0,0,1.27,71,84,0,0,0,283,249,83,13
+Gary Cahill,34,503827200,Premier League,2012/2013,Defender,Chelsea,2219,1220,999,England,26,13,11,2,1,1,2,1,1,0,0,6,5,1,29,14,15,1,0,0.16,0.08,0.08,0.07,0.09,1110,1.18,77,85,2219,1110,0.04,180,171,73,11
+Gary Caldwell,38,387446400,Premier League,2012/2013,Defender,Wigan Athletic,2089,894,1195,Scotland,25,11,14,1,1,0,1,1,0,0,0,4,0,4,47,25,22,8,0,0.09,0.04,0.04,0.1,0,2089,2.02,44,84,261,2089,0.34,221,233,171,10
+Gary Gardner,28,709801200,Premier League,2012/2013,Midfielder,Aston Villa,19,0,19,England,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,-1,-1,-1,24
+Gary O'Neil,37,422089200,Premier League,2012/2013,Midfielder,West Ham United,1442,647,795,England,24,8,9,1,1,0,3,2,1,0,0,8,4,4,15,6,9,2,0,0.25,0.19,0.06,0.14,0,1442,0.94,96,60,721,481,0.12,202,65,-1,15
+Gastón Ramírez,29,660124800,Premier League,2012/2013,Midfielder,Southampton,1709,888,821,Uruguay,26,10,10,5,4,1,3,2,1,0,0,7,3,4,25,10,15,3,1,0.42,0.16,0.26,0.41,0.11,342,1.32,68,66,427,570,0.21,65,79,-1,5
+Geoff Cameron,35,489913200,Premier League,2012/2013,Defender,Stoke City,2634,1206,1428,USA,35,13,16,0,0,0,1,0,1,0,0,12,7,5,35,14,21,5,0,0.03,0.03,0,0,0,0,1.2,75,75,527,2634,0.17,294,245,76,16
+George Evans,25,787305600,Premier League,2012/2013,Midfielder,Manchester City,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+George McCartney,39,357375600,Premier League,2012/2013,Defender,West Ham United,877,486,391,Northern Ireland,12,5,4,0,0,0,2,1,1,0,0,3,2,1,17,8,9,2,0,0.21,0.21,0,0,0,0,1.74,52,73,439,439,0.21,405,51,153,17
+George Moncur,27,745657200,Premier League,2012/2013,Midfielder,West Ham United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+George Thorne,27,726134400,Premier League,2012/2013,Midfielder,West Bromwich Albion,230,6,224,England,5,0,3,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,0,1.57,58,46,0,0,0,-1,-1,-1,13
+Gerhard Tremmel,41,280051200,Premier League,2012/2013,Goalkeeper,Swansea City,1108,360,748,Germany,14,4,8,0,0,0,0,0,0,0,0,3,1,2,12,6,6,0,0,0,0,0,0,0,0,0.97,92,79,0,0,0,319,309,40,16
+Gervais Lombe Yao Kouassi,33,549097200,Premier League,2012/2013,Forward,Arsenal,1019,567,452,Côte d'Ivoire,18,7,5,5,4,1,3,2,1,0,0,6,3,3,9,5,4,1,0,0.71,0.26,0.44,0.63,0.2,204,0.79,113,57,1019,340,0.09,24,27,-1,6
+Giorgios Karagounis,43,226483200,Premier League,2012/2013,Midfielder,Fulham,1553,736,817,Greece,25,10,10,1,1,0,0,0,0,0,0,5,2,3,24,14,10,4,0,0.06,0,0.06,0.12,0,1553,1.39,65,62,388,0,0.23,206,266,-1,10
+Glen Johnson,36,462092400,Premier League,2012/2013,Defender,Liverpool,3224,1620,1604,England,36,18,18,1,0,1,4,3,1,0,0,16,11,5,38,14,24,7,0,0.14,0.11,0.03,0,0.06,3224,1.06,85,90,461,806,0.2,231,140,54,12
+Glenn Whelan,36,442828800,Premier League,2012/2013,Midfielder,Stoke City,2593,1340,1253,Republic of Ireland,32,16,15,0,0,0,4,3,1,0,0,11,6,5,31,17,14,4,0,0.14,0.14,0,0,0,0,1.08,84,81,648,648,0.14,332,100,-1,20
+Glyn Oliver Myhill,37,405676800,Premier League,2012/2013,Goalkeeper,West Bromwich Albion,720,270,450,Wales,8,3,5,0,0,0,0,0,0,0,0,1,1,0,11,2,9,0,0,0,0,0,0,0,0,1.38,65,90,0,0,0,394,330,106,20
+Gnégnéri Yaya Touré,37,421657200,Premier League,2012/2013,Midfielder,Manchester City,2830,1434,1396,Côte d'Ivoire,32,16,16,6,4,2,4,3,1,0,0,14,8,6,28,11,17,6,0,0.32,0.13,0.19,0.25,0.13,472,0.89,101,88,472,708,0.19,90,106,-1,4
+Gonzalo Alejandro Jara Reyes,35,494146800,Premier League,2012/2013,Defender,West Bromwich Albion,44,44,0,Chile,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2.05,2.05,0,0,0,0,0,0,44,0,44,0,-1,-1,-1,19
+Goran Popov,36,465548400,Premier League,2012/2013,Defender,West Bromwich Albion,888,498,390,FYR Macedonia,12,6,4,0,0,0,1,1,0,0,0,1,1,0,12,4,8,2,1,0.1,0.1,0,0,0,0,1.22,74,74,296,888,0.3,295,142,77,15
+Graham Burke,27,748594800,Premier League,2012/2013,Forward,Aston Villa,0,0,0,Republic of Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Graham Dorrans,33,547196400,Premier League,2012/2013,Midfielder,West Bromwich Albion,1763,971,792,Scotland,26,12,9,1,0,1,3,3,0,1,0,5,3,2,28,18,10,3,0,0.2,0.15,0.05,0,0.11,1763,1.43,63,68,588,588,0.15,214,87,-1,10
+Grant Holt,39,355910400,Premier League,2012/2013,Forward,Norwich City,2571,1304,1267,England,34,14,14,8,5,3,3,0,3,1,1,9,7,2,40,12,28,8,0,0.39,0.11,0.28,0.35,0.21,321,1.4,64,76,321,857,0.28,61,137,-1,1
+Guilherme do Prado Raymundo,38,378633600,Premier League,2012/2013,Forward,Southampton,755,311,444,Brazil,18,3,5,0,0,0,1,0,1,0,0,4,2,2,17,6,11,0,0,0.12,0.12,0,0,0,0,2.03,44,42,0,755,0,381,127,-1,23
+Gustavo Lucas Domingues Piazon,26,759052800,Premier League,2012/2013,Forward,Chelsea,15,15,0,Brazil,1,0,0,0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,0,6,6,0,0,0,0,0,0,15,0,15,0,-1,-1,-1,15
+Guy Roland Demel,39,361263600,Premier League,2012/2013,Defender,West Ham United,2483,1164,1319,Côte d'Ivoire,31,14,14,0,0,0,2,1,1,0,0,9,4,5,34,10,24,2,0,0.07,0.07,0,0,0,0,1.23,73,80,1242,1242,0.07,404,189,80,19
+Gylfi Sigurdsson,31,621241200,Premier League,2012/2013,Midfielder,Tottenham Hotspur,1220,744,476,Iceland,33,8,4,3,1,2,4,2,2,0,0,9,5,4,18,12,6,0,0,0.52,0.3,0.22,0.12,0.38,407,1.33,68,37,0,305,0,80,16,-1,7
+Hal Robson-Kanu,31,611737200,Premier League,2012/2013,Forward,Reading,1278,619,659,Wales,25,6,7,7,3,4,1,1,0,1,0,3,3,0,31,14,17,0,0,0.56,0.07,0.49,0.44,0.55,183,2.18,41,51,0,1278,0,19,191,-1,2
+Harry Kane,27,743842800,Premier League,2012/2013,Forward,Norwich City,138,64,74,England,4,0,1,0,0,0,0,0,0,0,0,1,1,0,4,2,2,0,0,0,0,0,0,0,0,2.61,35,35,0,0,0,-1,-1,-1,17
+Hatem Ben Arfa,33,542102400,Premier League,2012/2013,Midfielder,Newcastle United,1459,786,673,France,19,8,8,4,2,2,2,1,1,2,0,2,1,1,26,16,10,1,0,0.37,0.12,0.25,0.23,0.27,365,1.6,56,77,1459,730,0.06,69,126,-1,3
+Henrique Hilário Meireles Alves Sampaio,44,183106800,Premier League,2012/2013,Goalkeeper,Chelsea,0,0,0,Portugal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Hogan Ephraim,32,575798400,Premier League,2012/2013,Midfielder,Queens Park Rangers,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Hope Akpan,29,682153200,Premier League,2012/2013,Midfielder,Reading,470,250,220,Nigeria,9,4,2,0,0,0,3,2,1,0,0,0,0,0,12,6,6,0,0,0.57,0.57,0,0,0,0,2.3,39,52,0,157,0,250,1,-1,16
+Hugo Lloris,33,535968000,Premier League,2012/2013,Goalkeeper,Tottenham Hotspur,2430,1260,1170,France,27,14,13,0,0,0,0,0,0,0,0,9,5,4,26,10,16,0,0,0,0,0,0,0,0,0.96,93,90,0,0,0,280,254,37,16
+Hugo Rodallega Martínez,35,491122800,Premier League,2012/2013,Forward,Fulham,1508,836,672,Colombia,29,7,7,3,2,1,1,1,0,0,0,6,3,3,21,13,8,0,0,0.24,0.06,0.18,0.22,0.13,503,1.25,72,52,0,1508,0,94,210,-1,6
+Iago Falqué Silva,30,631440000,Premier League,2012/2013,Forward,Tottenham Hotspur,5,0,5,Spain,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,-1,-1,-1,14
+Ian Harte,43,241858800,Premier League,2012/2013,Defender,Reading,1361,824,537,Republic of Ireland,16,9,6,0,0,0,3,1,2,0,0,3,3,0,26,14,12,1,0,0.2,0.2,0,0,0,0,1.72,52,85,1361,454,0.07,321,61,150,27
+Ignasi Miquel i Pons,28,717663600,Premier League,2012/2013,Defender,Arsenal,3,0,3,Spain,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,-1,-1,-1,14
+Isaiah Brown,23,852624000,Premier League,2012/2013,Forward,West Bromwich Albion,4,4,0,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,4,0,22.5,-1,-1,-1,25
+Iván Ramis,35,467535600,Premier League,2012/2013,Defender,Wigan Athletic,1399,679,720,Spain,16,8,8,2,1,1,0,0,0,0,0,3,0,3,26,15,11,1,0,0.13,0,0.13,0.13,0.13,700,1.67,54,87,1399,0,0.06,136,365,140,8
+Jack Colback,30,625215600,Premier League,2012/2013,Midfielder,Sunderland,2811,1443,1368,England,35,15,15,0,0,0,0,0,0,0,0,11,7,4,35,12,23,4,0,0,0,0,0,0,0,1.12,80,80,703,0,0.13,348,341,-1,26
+Jack Collison,32,591778800,Premier League,2012/2013,Midfielder,West Ham United,627,175,452,Wales,17,1,4,2,0,2,0,0,0,0,0,4,2,2,12,1,11,2,0,0.29,0,0.29,0,0.4,314,1.72,52,37,314,0,0.29,50,293,-1,7
+Jack Cork,31,614761200,Premier League,2012/2013,Midfielder,Southampton,2431,1208,1223,England,28,14,14,0,0,0,0,0,0,0,0,7,3,4,28,12,16,1,0,0,0,0,0,0,0,1.04,87,87,2431,0,0.04,258,285,-1,12
+Jack Robinson,27,746866800,Premier League,2012/2013,Defender,Liverpool,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jack Rodwell,29,668678400,Premier League,2012/2013,Midfielder,Manchester City,494,419,75,England,11,5,1,2,2,0,0,0,0,0,0,6,3,3,7,6,1,2,0,0.36,0,0.36,0.43,0,247,1.28,71,45,247,0,0.36,34,375,-1,10
+Jack Wilshere,28,694252800,Premier League,2012/2013,Midfielder,Arsenal,1698,1017,681,England,25,12,8,0,0,0,3,3,0,0,0,9,4,5,22,12,10,5,1,0.16,0.16,0,0,0,0,1.17,77,68,340,566,0.27,306,84,-1,15
+Jacob Butterfield,30,645001200,Premier League,2012/2013,Midfielder,Norwich City,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jak Alnwick,27,740300400,Premier League,2012/2013,Goalkeeper,Newcastle United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jake Livermore,30,627033600,Premier League,2012/2013,Midfielder,Tottenham Hotspur,414,211,203,England,11,2,2,0,0,0,0,0,0,0,0,0,0,0,8,2,6,3,0,0,0,0,0,0,0,1.74,52,38,138,0,0.65,368,390,-1,22
+James Collins,37,430470000,Premier League,2012/2013,Defender,West Ham United,2496,1321,1175,Wales,29,15,14,0,0,0,1,1,0,0,0,9,5,4,34,18,16,9,0,0.04,0.04,0,0,0,0,1.23,73,86,277,2496,0.32,406,232,79,16
+James McArthur,33,560588400,Premier League,2012/2013,Midfielder,Wigan Athletic,2407,1224,1183,Scotland,34,13,11,3,1,2,2,0,2,0,0,4,1,3,53,29,24,7,0,0.19,0.07,0.11,0.07,0.15,802,1.98,45,71,344,1204,0.26,151,182,-1,5
+James McCarthy,29,658396800,Premier League,2012/2013,Midfielder,Wigan Athletic,3376,1710,1666,Republic of Ireland,38,19,19,3,3,0,2,1,1,0,0,5,1,4,70,38,32,7,0,0.13,0.05,0.08,0.16,0,1125,1.87,48,89,482,1688,0.19,182,222,-1,6
+James McClean,31,609231600,Premier League,2012/2013,Midfielder,Sunderland,2332,1175,1157,Republic of Ireland,36,12,12,2,2,0,3,2,1,0,0,11,7,4,29,10,19,4,0,0.19,0.12,0.08,0.15,0,1166,1.12,80,65,583,777,0.15,183,122,-1,7
+James McFadden,37,419155200,Premier League,2012/2013,Forward,Sunderland,35,2,33,Scotland,3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,-1,-1,-1,16
+James Milner,34,505209600,Premier League,2012/2013,Midfielder,Manchester City,1720,687,1033,England,26,7,12,4,1,3,3,1,2,0,0,14,7,7,12,5,7,2,1,0.37,0.16,0.21,0.13,0.26,430,0.63,143,66,573,573,0.16,85,85,-1,5
+James Morrison,34,517388400,Premier League,2012/2013,Midfielder,West Bromwich Albion,2847,1372,1475,Scotland,35,16,17,5,3,2,4,1,3,1,0,7,4,3,43,19,24,4,0,0.28,0.13,0.16,0.2,0.12,569,1.36,66,81,712,712,0.13,110,105,-1,4
+James Perch,35,496738800,Premier League,2012/2013,Defender,Newcastle United,1819,801,1018,England,27,9,10,1,0,1,0,0,0,0,0,3,2,1,38,16,22,9,0,0.05,0,0.05,0,0.09,1819,1.88,48,67,202,0,0.45,211,413,163,11
+James Tavernier,28,688896000,Premier League,2012/2013,Defender,Newcastle United,36,0,36,England,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,5,18,18,0,0,0,-1,-1,-1,17
+James Tomkins,31,607161600,Premier League,2012/2013,Defender,West Ham United,1728,655,1073,England,26,7,11,1,0,1,1,0,1,0,0,6,3,3,32,10,22,5,0,0.1,0.05,0.05,0,0.08,1728,1.67,54,66,346,1728,0.26,217,215,139,14
+James Vaughan,32,584866800,Premier League,2012/2013,Forward,Norwich City,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+James Ward-Prowse,25,783676800,Premier League,2012/2013,Midfielder,Southampton,480,198,282,England,15,1,3,0,0,0,0,0,0,0,0,1,0,1,14,4,10,0,0,0,0,0,0,0,0,2.63,34,32,0,0,0,379,382,-1,24
+Jamie Carragher,42,254822400,Premier League,2012/2013,Defender,Liverpool,1528,759,769,England,24,8,8,0,0,0,1,0,1,0,0,13,9,4,16,6,10,4,0,0.06,0.06,0,0,0,0,0.94,96,64,382,1528,0.24,400,204,34,22
+Jamie Mackie,35,496738800,Premier League,2012/2013,Forward,Queens Park Rangers,1701,964,737,Scotland,29,9,8,2,1,1,0,0,0,0,0,6,3,3,28,17,11,2,0,0.11,0,0.11,0.09,0.12,851,1.48,61,59,851,0,0.11,153,328,-1,8
+Jamie Ness,29,667900800,Premier League,2012/2013,Midfielder,Stoke City,0,0,0,Scotland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ján Mucha,37,407923200,Premier League,2012/2013,Goalkeeper,Everton,180,180,0,Slovakia,2,2,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0.5,180,90,0,0,0,-1,-1,-1,17
+Jan Vertonghen,33,546246000,Premier League,2012/2013,Defender,Tottenham Hotspur,3060,1530,1530,Belgium,34,17,17,4,1,3,3,2,1,0,0,9,5,4,35,14,21,7,0,0.21,0.09,0.12,0.06,0.18,765,1.03,87,90,437,1020,0.21,143,148,46,5
+Jason Puncheon,34,520153200,Premier League,2012/2013,Midfielder,Southampton,2065,1134,931,England,32,14,11,5,2,3,2,2,0,0,0,6,3,3,34,12,22,1,0,0.31,0.09,0.22,0.16,0.29,413,1.48,61,65,2065,1033,0.04,81,152,-1,4
+Jason Roberts,42,254563200,Premier League,2012/2013,Forward,Reading,708,339,369,Grenada,11,4,4,0,0,0,1,1,0,0,0,1,1,0,14,9,5,2,0,0.13,0.13,0,0,0,0,1.78,51,64,354,708,0.25,289,109,-1,15
+Javi García,33,539769600,Premier League,2012/2013,Midfielder,Manchester City,1493,591,902,Spain,24,7,10,2,0,2,0,0,0,0,0,12,6,6,11,3,8,5,0,0.12,0,0.12,0,0.2,747,0.66,136,62,299,0,0.3,149,262,-1,7
+Javier Garrido Behovide,35,479721600,Premier League,2012/2013,Defender,Norwich City,3040,1690,1350,Spain,34,19,15,0,0,0,2,1,1,0,0,10,8,2,45,20,25,4,0,0.06,0.06,0,0,0,0,1.33,68,89,760,1520,0.12,281,202,93,18
+Javier Hernandez,32,581151600,Premier League,2012/2013,Forward,Manchester United,944,393,551,Mexico,22,4,5,10,4,6,3,1,2,0,1,6,2,4,11,4,7,1,0,1.24,0.29,0.95,0.92,0.98,94,1.05,86,43,944,315,0.1,1,23,-1,3
+Jay Bothroyd,38,389430000,Premier League,2012/2013,Forward,Queens Park Rangers,237,34,203,England,4,0,2,1,0,1,0,0,0,0,0,1,0,1,3,1,2,1,0,0.38,0,0.38,0,0.44,237,1.14,79,59,237,0,0.38,-1,-1,-1,9
+Jay Rodriguez,31,617698800,Premier League,2012/2013,Forward,Southampton,2180,921,1259,England,35,9,15,6,3,3,5,1,4,0,0,7,3,4,36,14,22,4,0,0.45,0.21,0.25,0.29,0.21,363,1.49,61,62,545,436,0.17,68,52,-1,2
+Jay Tabb,36,446198400,Premier League,2012/2013,Midfielder,Reading,1020,429,591,Republic of Ireland,12,5,7,0,0,0,1,1,0,0,0,1,1,0,20,11,9,2,0,0.09,0.09,0,0,0,0,1.76,51,85,510,1020,0.18,325,158,-1,22
+Jazz Richards,29,671439600,Premier League,2012/2013,Defender,Swansea City,0,0,0,Wales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jean André Emanuel Beausejour Coliqueo,36,454921200,Premier League,2012/2013,Midfielder,Wigan Athletic,2783,1338,1445,Chile,34,16,16,1,1,0,8,5,3,0,0,5,1,4,56,29,27,4,0,0.29,0.26,0.03,0.07,0,2783,1.81,50,82,696,348,0.13,237,28,-1,12
+Jed Steer,28,717145200,Premier League,2012/2013,Goalkeeper,Norwich City,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jem Karacan,31,604051200,Premier League,2012/2013,Midfielder,Reading,1608,857,751,Turkey,21,11,10,1,0,1,1,0,1,0,0,4,4,0,31,13,18,2,0,0.11,0.06,0.06,0,0.12,1608,1.74,52,77,804,1608,0.11,205,206,-1,8
+Jermain Defoe,38,402822000,Premier League,2012/2013,Forward,Tottenham Hotspur,2410,1179,1231,England,34,13,14,11,5,6,3,2,1,0,0,9,5,4,27,9,18,4,0,0.52,0.11,0.41,0.38,0.44,219,1.01,89,71,603,803,0.15,28,131,-1,2
+Jermaine Jenas,37,414403200,Premier League,2012/2013,Midfielder,Queens Park Rangers,823,358,465,England,13,3,5,2,1,1,0,0,0,0,0,2,1,1,16,4,12,1,0,0.22,0,0.22,0.25,0.19,412,1.75,51,63,823,0,0.11,78,376,-1,6
+Jermaine Pennant,37,411465600,Premier League,2012/2013,Midfielder,Stoke City,65,65,0,England,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0,0,0,-1,-1,-1,15
+Jerome Thomas,37,417254400,Premier League,2012/2013,Midfielder,West Bromwich Albion,402,144,258,England,10,1,3,0,0,0,0,0,0,0,0,2,0,2,7,3,4,0,0,0,0,0,0,0,0,1.57,57,40,0,0,0,249,297,-1,12
+Ji-Sung Park,39,351936000,Premier League,2012/2013,Midfielder,Queens Park Rangers,1341,629,712,South Korea,20,7,8,0,0,0,3,0,3,0,0,5,3,2,25,10,15,1,0,0.2,0.2,0,0,0,0,1.68,54,67,1341,447,0.07,324,57,-1,26
+Jimmy Kébé,36,443347200,Premier League,2012/2013,Midfielder,Reading,1337,750,587,Mali,18,9,7,5,5,0,1,0,1,0,0,3,3,0,25,15,10,1,0,0.4,0.07,0.34,0.6,0,267,1.68,53,74,1337,1337,0.07,38,184,-1,4
+Jobi McAnuff,38,374140800,Premier League,2012/2013,Midfielder,Reading,3275,1626,1649,Jamaica,38,19,19,0,0,0,7,4,3,0,0,5,5,0,65,32,33,5,0,0.19,0.19,0,0,0,0,1.79,50,86,655,468,0.14,323,64,-1,24
+Joe Allen,30,637401600,Premier League,2012/2013,Midfielder,Liverpool,1919,900,1019,Wales,27,9,12,0,0,0,0,0,0,0,0,11,8,3,27,10,17,2,0,0,0,0,0,0,0,1.27,71,71,960,0,0.09,399,395,-1,23
+Joe Bennett,30,638611200,Premier League,2012/2013,Defender,Aston Villa,1855,888,967,England,25,10,11,0,0,0,2,1,1,0,0,1,0,1,41,19,22,4,1,0.1,0.1,0,0,0,0,1.99,45,74,464,928,0.19,297,145,170,14
+Joe Cole,38,374054400,Premier League,2012/2013,Midfielder,West Ham United,784,384,400,England,17,3,4,3,2,1,0,0,0,0,0,6,4,2,17,6,11,2,0,0.34,0,0.34,0.47,0.23,261,1.95,46,46,392,0,0.23,37,397,-1,4
+Joe Hart,33,545814000,Premier League,2012/2013,Goalkeeper,Manchester City,3420,1710,1710,England,38,19,19,0,0,0,0,0,0,0,0,18,10,8,31,13,18,1,0,0,0,0,0,0,0,0.82,110,90,3420,0,0.03,376,373,14,17
+Joel Robles Blázquez,30,645606000,Premier League,2012/2013,Goalkeeper,Wigan Athletic,810,360,450,Spain,9,4,5,0,0,0,0,0,0,0,0,1,1,0,16,6,10,0,0,0,0,0,0,0,0,1.78,51,90,0,0,0,263,255,155,16
+Joey O'Brien,34,509011200,Premier League,2012/2013,Defender,West Ham United,2724,1414,1310,Republic of Ireland,33,16,16,2,2,0,4,2,2,0,0,11,6,5,34,16,18,6,0,0.2,0.13,0.07,0.13,0,1362,1.12,80,83,454,681,0.2,196,110,65,10
+Johan Danon Djourou-Gbadjere,33,537955200,Premier League,2012/2013,Defender,Arsenal,0,0,0,Switzerland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+John Arne Semundseth Riise,40,338626800,Premier League,2012/2013,Defender,Fulham,2529,1269,1260,Norway,31,15,14,0,0,0,2,2,0,0,0,8,4,4,36,19,17,4,0,0.07,0.07,0,0,0,0,1.28,70,82,632,1265,0.14,353,187,84,24
+John Michael Nchekwube Obinna,33,546073200,Premier League,2012/2013,Midfielder,Chelsea,1628,675,953,Nigeria,22,8,11,0,0,0,0,0,0,0,0,9,5,4,20,8,12,3,0,0,0,0,0,0,0,1.11,81,74,543,0,0.17,375,372,-1,23
+John O'Shea,39,357462000,Premier League,2012/2013,Defender,Sunderland,2994,1464,1530,Republic of Ireland,34,17,17,2,2,0,0,0,0,0,0,9,5,4,45,17,28,3,0,0.06,0,0.06,0.12,0,1497,1.35,67,88,998,0,0.09,199,338,100,6
+John Ruddy,33,530521200,Premier League,2012/2013,Goalkeeper,Norwich City,1342,630,712,England,15,7,8,0,0,0,0,0,0,0,0,6,5,1,21,6,15,0,0,0,0,0,0,0,0,1.41,64,89,0,0,0,358,351,111,27
+John Stones,26,770108400,Premier League,2012/2013,Defender,Everton,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+John Terry,39,345024000,Premier League,2012/2013,Defender,Chelsea,948,321,627,England,14,4,7,4,1,3,0,0,0,0,0,7,3,4,9,3,6,1,0,0.38,0,0.38,0.28,0.43,237,0.85,105,68,948,0,0.09,32,370,18,8
+Johnny Heitinga,36,437731200,Premier League,2012/2013,Defender,Everton,1599,801,798,Netherlands,26,8,9,0,0,0,0,0,0,0,0,5,4,1,23,10,13,5,0,0,0,0,0,0,0,1.29,70,62,320,0,0.28,389,387,88,18
+Joleon Lescott,38,398329200,Premier League,2012/2013,Defender,Manchester City,1540,1081,459,England,26,12,5,1,1,0,0,0,0,0,0,11,8,3,15,10,5,3,0,0.06,0,0.06,0.08,0,1540,0.88,103,59,513,0,0.18,210,362,24,14
+Jonás Manuel Gutiérrez,37,426236400,Premier League,2012/2013,Midfielder,Newcastle United,2898,1372,1526,Argentina,34,17,17,1,1,0,0,0,0,0,0,6,4,2,47,22,25,8,0,0.03,0,0.03,0.07,0,2898,1.46,62,85,362,0,0.25,247,414,-1,9
+Jonas Olsson,37,416131200,Premier League,2012/2013,Defender,West Bromwich Albion,3240,1620,1620,Sweden,36,18,18,0,0,0,0,0,0,0,0,8,5,3,48,21,27,5,0,0,0,0,0,0,0,1.33,68,90,648,0,0.14,335,326,91,21
+Jonathan de Guzmán,33,558514800,Premier League,2012/2013,Midfielder,Swansea City,2857,1432,1425,Netherlands,37,17,16,5,3,2,6,4,2,0,0,10,5,5,40,19,21,6,0,0.35,0.19,0.16,0.19,0.13,571,1.26,71,77,476,476,0.19,112,66,-1,3
+Jonathan Henly,26,763718400,Premier League,2012/2013,Goalkeeper,Reading,0,0,0,Scotland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jonathan Howson,32,580201200,Premier League,2012/2013,Midfielder,Norwich City,2042,867,1175,England,30,9,13,2,1,1,1,1,0,0,0,4,4,0,44,13,31,2,0,0.13,0.04,0.09,0.1,0.08,1021,1.94,46,68,1021,2042,0.09,170,231,-1,8
+Jonathan Walters,37,432889200,Premier League,2012/2013,Forward,Stoke City,3310,1663,1647,Republic of Ireland,38,19,19,8,3,5,2,1,1,3,2,12,7,5,42,21,21,4,0,0.27,0.05,0.22,0.16,0.27,414,1.14,79,87,828,1655,0.11,77,224,-1,1
+Jonjo Shelvey,28,699177600,Premier League,2012/2013,Midfielder,Liverpool,917,481,436,England,19,5,4,0,0,0,0,0,0,0,0,6,4,2,12,5,7,4,1,0,0,0,0,0,0,1.18,76,48,183,0,0.49,402,399,-1,20
+Jonny Evans,32,568195200,Premier League,2012/2013,Defender,Manchester United,1903,994,909,Northern Ireland,23,11,10,3,2,1,1,0,1,0,0,10,6,4,22,10,12,2,0,0.19,0.05,0.14,0.18,0.1,634,1.04,87,83,952,1903,0.09,121,218,48,6
+Jordan Archer,27,734598000,Premier League,2012/2013,Goalkeeper,Tottenham Hotspur,0,0,0,Scotland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jordan Bowery,29,678438000,Premier League,2012/2013,Forward,Aston Villa,296,177,119,England,10,2,1,0,0,0,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,0.91,99,30,0,0,0,267,250,-1,11
+Jordan Henderson,30,645606000,Premier League,2012/2013,Midfielder,Liverpool,1528,687,841,England,30,7,9,5,1,4,3,0,3,0,0,14,9,5,12,3,9,3,0,0.47,0.18,0.29,0.13,0.43,306,0.71,127,51,509,509,0.18,51,68,-1,4
+Jordan Laidler,25,804582000,Premier League,2012/2013,Forward,Sunderland,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jordan Mustoe,29,665049600,Premier League,2012/2013,Defender,Wigan Athletic,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jordan Obita,26,755337600,Premier League,2012/2013,Midfielder,Reading,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jordan Spence,30,643532400,Premier League,2012/2013,Defender,West Ham United,21,21,0,England,4,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,-1,-1,-1,21
+Jordi Gómez García-Penche,35,485766000,Premier League,2012/2013,Midfielder,Wigan Athletic,1515,856,659,Spain,32,9,8,3,3,0,1,1,0,0,0,5,1,4,31,17,14,5,1,0.24,0.06,0.18,0.32,0,505,1.84,49,47,253,1515,0.36,97,198,-1,7
+Jordon Ibe,24,818409600,Premier League,2012/2013,Midfielder,Liverpool,64,64,0,England,1,1,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,1.41,1.41,0,0,0,0,0,0,64,0,64,0,-1,-1,-1,14
+Jos Hooiveld,37,419846400,Premier League,2012/2013,Defender,Southampton,2032,834,1198,Netherlands,25,9,14,0,0,0,0,0,0,0,0,6,2,4,34,13,21,5,0,0,0,0,0,0,0,1.51,60,81,406,0,0.22,367,379,122,22
+José Bosingwa da Silva,38,399020400,Premier League,2012/2013,Defender,Queens Park Rangers,1831,839,992,Portugal,23,10,12,0,0,0,1,1,0,0,0,3,1,2,30,12,18,2,0,0.05,0.05,0,0,0,0,1.47,61,80,916,1831,0.1,257,223,120,14
+José Enrique de la Sánchez Diaz,34,506851200,Premier League,2012/2013,Defender,Liverpool,2256,1120,1136,Spain,29,12,13,2,2,0,4,4,0,0,0,13,8,5,22,9,13,1,0,0.24,0.16,0.08,0.16,0,1128,0.88,103,78,2256,564,0.04,176,80,25,8
+Jose Fonte,36,440928000,Premier League,2012/2013,Defender,Southampton,2312,1232,1080,Portugal,27,13,12,2,2,0,0,0,0,0,0,3,2,1,42,17,25,5,0,0.08,0,0.08,0.15,0,1156,1.63,55,86,462,0,0.19,177,380,135,8
+José Manuel Flores Moreno,33,542016000,Premier League,2012/2013,Defender,Swansea City,2241,1161,1080,Spain,26,14,12,0,0,0,0,0,0,0,0,9,4,5,28,17,11,6,1,0,0,0,0,0,0,1.12,80,86,320,0,0.28,316,307,62,21
+Juan Mata,32,578214000,Premier League,2012/2013,Midfielder,Chelsea,2748,1421,1327,Spain,35,16,15,12,3,9,12,6,6,0,0,13,8,5,27,14,13,3,0,0.79,0.39,0.39,0.19,0.61,229,0.88,102,79,916,229,0.1,31,7,-1,3
+Júlio César Soares de Espíndola,41,305190000,Premier League,2012/2013,Goalkeeper,Queens Park Rangers,2101,990,1111,Brazil,24,11,13,0,0,0,1,1,0,0,0,6,4,2,36,12,24,0,0,0.04,0.04,0,0,0,0,1.54,58,88,0,2101,0,291,234,125,15
+Jussi Jääskeläinen,45,167122800,Premier League,2012/2013,Goalkeeper,West Ham United,3420,1710,1710,Finland,38,19,19,0,0,0,0,0,0,0,0,11,6,5,50,20,30,2,0,0,0,0,0,0,0,1.32,68,90,1710,0,0.05,403,400,89,23
+Kader Mangane,37,417254400,Premier League,2012/2013,Defender,Sunderland,18,0,18,Senegal,2,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,-1,-1,-1,14
+Kaiansu Kei Kamara,36,462870000,Premier League,2012/2013,Forward,Norwich City,656,313,343,Sierra Leone,11,3,4,1,1,0,1,0,1,0,0,2,2,0,10,4,6,0,0,0.27,0.14,0.14,0.29,0,656,1.37,66,60,0,656,0,127,98,-1,12
+Karim El Ahmadi Al Aroos,35,475660800,Premier League,2012/2013,Midfielder,Aston Villa,1168,568,600,Morocco,20,6,6,1,1,0,0,0,0,0,0,2,2,0,22,10,12,5,0,0.08,0,0.08,0.16,0,1168,1.7,53,58,234,0,0.39,187,405,-1,10
+Karim Rekik,25,786355200,Premier League,2012/2013,Defender,Manchester City,84,84,0,Netherlands,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,-1,-1,-1,24
+Kaspars Gorkšs,38,373881600,Premier League,2012/2013,Defender,Reading,1260,630,630,Latvia,14,7,7,1,0,1,0,0,0,0,0,1,1,0,29,15,14,2,0,0.07,0,0.07,0,0.14,1260,2.07,43,90,630,0,0.14,192,312,174,12
+Keiren Westwood,35,467362800,Premier League,2012/2013,Goalkeeper,Sunderland,0,0,0,Republic of Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Kelvin Davis,44,212828400,Premier League,2012/2013,Goalkeeper,Southampton,854,494,360,England,10,5,4,0,0,0,0,0,0,0,0,1,1,0,18,6,12,0,0,0,0,0,0,0,0,1.9,47,85,0,0,0,378,378,166,17
+Kemar Roofe,27,726307200,Premier League,2012/2013,Midfielder,West Bromwich Albion,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Kemy Agustien,34,524905200,Premier League,2012/2013,Midfielder,Swansea City,563,185,378,Curaçao,18,1,3,0,0,0,1,0,1,0,0,6,3,3,9,2,7,2,0,0.16,0.16,0,0,0,0,1.44,63,31,282,563,0.32,318,81,-1,19
+Kenwyne Jones,36,465807600,Premier League,2012/2013,Forward,Stoke City,1037,649,388,Trinidad and Tobago,26,6,4,3,3,0,2,2,0,0,0,7,4,3,18,15,3,0,0,0.43,0.17,0.26,0.42,0,346,1.56,58,40,0,519,0,66,77,-1,6
+Kerim Frei Koyunlu,26,753696000,Premier League,2012/2013,Midfielder,Fulham,231,179,52,Turkey,7,2,0,0,0,0,0,0,0,0,0,1,0,1,4,4,0,0,0,0,0,0,0,0,0,1.56,58,33,0,0,0,-1,-1,-1,22
+Kevin Mirallas,33,560415600,Premier League,2012/2013,Forward,Everton,1834,923,911,Belgium,27,13,10,6,4,2,3,2,1,0,0,9,5,4,23,9,14,3,0,0.44,0.15,0.29,0.39,0.2,306,1.13,80,68,611,611,0.15,52,95,-1,3
+Kevin Nolan,38,393750000,Premier League,2012/2013,Midfielder,West Ham United,2989,1517,1472,England,35,18,17,10,8,2,2,1,1,0,0,10,6,4,45,18,27,6,0,0.36,0.06,0.3,0.47,0.12,299,1.35,66,85,498,1495,0.18,48,196,-1,1
+Kieran Gibbs,31,622796400,Premier League,2012/2013,Defender,Arsenal,2101,1136,965,England,27,13,10,0,0,0,3,1,2,0,0,9,3,6,22,14,8,2,0,0.13,0.13,0,0,0,0,0.94,96,78,1051,700,0.09,341,111,33,24
+Kieran Richardson,35,467190000,Premier League,2012/2013,Defender,Fulham,916,299,617,England,15,4,9,1,0,1,0,0,0,0,0,2,1,1,19,5,14,2,0,0.1,0,0.1,0,0.15,916,1.87,48,61,458,0,0.2,158,339,162,11
+Kieron Dyer,41,283766400,Premier League,2012/2013,Midfielder,Queens Park Rangers,195,0,195,England,4,0,1,0,0,0,0,0,0,0,0,1,0,1,5,0,5,1,0,0,0,0,0,0,0,2.31,39,49,195,0,0.46,-1,-1,-1,20
+Kolo Habib Touré,39,353836800,Premier League,2012/2013,Defender,Manchester City,917,363,554,Côte d'Ivoire,15,3,7,0,0,0,0,0,0,0,0,8,4,4,6,1,5,2,0,0,0,0,0,0,0,0.59,153,61,459,0,0.2,288,272,5,20
+Korey Smith,29,665308800,Premier League,2012/2013,Midfielder,Norwich City,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Kyle Bartley,29,674895600,Premier League,2012/2013,Defender,Swansea City,147,57,90,England,2,0,1,0,0,0,0,0,0,0,0,0,0,0,6,1,5,0,0,0,0,0,0,0,0,3.67,25,74,0,0,0,-1,-1,-1,12
+Kyle Naughton,31,595238400,Premier League,2012/2013,Defender,Tottenham Hotspur,1061,408,653,England,14,5,8,0,0,0,1,0,1,0,0,4,1,3,12,4,8,0,0,0.08,0.08,0,0,0,0,1.02,88,76,0,1061,0,369,164,44,20
+Kyle Walker,30,643878000,Premier League,2012/2013,Defender,Tottenham Hotspur,3161,1609,1552,England,36,18,18,0,0,0,4,2,2,0,0,8,5,3,37,15,22,5,0,0.11,0.11,0,0,0,0,1.05,85,88,632,790,0.14,392,136,49,23
+Laurent Koscielny,35,495183600,Premier League,2012/2013,Defender,Arsenal,1671,942,729,France,25,11,9,2,0,2,1,0,1,0,0,9,2,7,17,14,3,2,1,0.16,0.05,0.11,0,0.25,836,0.92,98,67,557,1671,0.16,152,220,30,8
+Lee Camp,36,462006000,Premier League,2012/2013,Goalkeeper,Norwich City,222,74,148,Northern Ireland,3,0,1,0,0,0,0,0,0,0,0,0,0,0,4,2,2,1,0,0,0,0,0,0,0,1.62,56,74,222,0,0.41,-1,-1,-1,25
+Lee Cattermole,32,574934400,Premier League,2012/2013,Midfielder,Sunderland,666,268,398,England,10,5,5,0,0,0,0,0,0,0,0,3,1,2,5,4,1,2,0,0,0,0,0,0,0,0.68,133,67,333,0,0.27,347,340,-1,27
+Leighton Baines,35,471600000,Premier League,2012/2013,Defender,Everton,3420,1710,1710,England,38,19,19,5,3,2,5,1,4,2,0,11,7,4,36,15,21,4,0,0.26,0.13,0.13,0.16,0.11,684,0.95,95,90,855,684,0.11,132,108,35,6
+Leo Chambers,25,807606000,Premier League,2012/2013,Defender,West Ham United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Leon Barnett,34,502185600,Premier League,2012/2013,Defender,Norwich City,560,290,270,England,8,3,3,0,0,0,1,0,1,0,0,2,2,0,12,6,6,1,0,0.16,0.16,0,0,0,0,1.93,47,70,560,560,0.16,360,86,169,16
+Leon Britton,38,401007600,Premier League,2012/2013,Midfielder,Swansea City,2535,1319,1216,England,33,15,15,0,0,0,0,0,0,0,0,9,5,4,32,15,17,4,0,0,0,0,0,0,0,1.14,79,77,634,0,0.14,317,308,-1,20
+Leon Osman,39,358930800,Premier League,2012/2013,Midfielder,Everton,3183,1666,1517,England,36,19,17,5,4,1,2,2,0,0,0,10,7,3,33,14,19,9,0,0.2,0.06,0.14,0.22,0.06,637,0.93,96,88,354,1592,0.25,129,212,-1,7
+Leroy Lita,35,473068800,Premier League,2012/2013,Forward,Swansea City,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Lewis Holtby,30,653641200,Premier League,2012/2013,Midfielder,Tottenham Hotspur,507,243,264,Germany,11,2,2,0,0,0,2,1,1,0,0,2,1,1,7,3,4,2,0,0.36,0.36,0,0,0,0,1.24,72,46,254,254,0.36,265,9,-1,25
+Liam Marrs,27,724406400,Premier League,2012/2013,Defender,Sunderland,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Liam Ridgewell,36,459241200,Premier League,2012/2013,Defender,West Bromwich Albion,2486,1164,1322,England,30,13,15,0,0,0,1,1,0,0,0,7,4,3,37,17,20,6,0,0.04,0.04,0,0,0,0,1.34,67,83,414,2486,0.22,338,236,97,23
+Lloyd Isgrove,27,726825600,Premier League,2012/2013,Midfielder,Southampton,0,0,0,Wales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Lloyd Jones,25,813049200,Premier League,2012/2013,Defender,Liverpool,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Loïc Rémy,33,536572800,Premier League,2012/2013,Forward,Queens Park Rangers,1145,559,586,France,14,6,7,6,3,3,0,0,0,1,1,2,1,1,18,7,11,1,0,0.47,0,0.47,0.48,0.46,191,1.41,64,82,1145,0,0.08,21,252,-1,1
+Louis Saha,42,271407600,Premier League,2012/2013,Forward,Sunderland,182,90,92,France,11,0,0,0,0,0,0,0,0,0,0,3,1,2,4,1,3,0,0,0,0,0,0,0,0,1.98,46,17,0,0,0,-1,-1,-1,25
+Lucas Leiva,33,537177600,Premier League,2012/2013,Midfielder,Liverpool,1952,1007,945,Brazil,26,13,11,0,0,0,1,1,0,0,0,12,8,4,23,8,15,6,0,0.05,0.05,0,0,0,0,1.06,85,75,325,1952,0.28,398,216,-1,24
+Luciano Becchio,36,441446400,Premier League,2012/2013,Forward,Norwich City,166,158,8,Argentina,8,2,0,0,0,0,1,1,0,0,0,4,3,1,1,1,0,0,0,0.54,0.54,0,0,0,0,0.54,166,21,0,166,0,-1,-1,-1,26
+Luís Carlos Almeida da Cunha,33,532598400,Premier League,2012/2013,Midfielder,Manchester United,630,220,410,Portugal,11,2,5,1,1,0,2,0,2,0,0,3,1,2,5,3,2,1,0,0.43,0.29,0.14,0.41,0,630,0.71,126,57,630,315,0.14,124,21,-1,17
+Luis Suárez,33,538473600,Premier League,2012/2013,Forward,Liverpool,2955,1515,1440,Uruguay,33,17,16,23,11,12,5,4,1,0,0,13,9,4,39,15,24,10,0,0.85,0.15,0.7,0.65,0.75,128,1.19,76,90,296,591,0.3,7,88,-1,1
+Lukas Podolski,35,486716400,Premier League,2012/2013,Forward,Arsenal,1998,1051,947,Germany,33,13,12,11,9,2,10,5,5,0,0,12,5,7,26,18,8,1,0,0.95,0.45,0.5,0.77,0.19,182,1.17,77,61,1998,200,0.05,18,4,-1,4
+Luke Daniels,32,568368000,Premier League,2012/2013,Goalkeeper,West Bromwich Albion,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Luke Moore,34,508665600,Premier League,2012/2013,Forward,Swansea City,527,203,324,England,17,1,3,3,1,2,2,1,1,0,0,6,4,2,5,0,5,0,0,0.85,0.34,0.51,0.44,0.56,176,0.85,105,31,0,264,0,16,14,-1,4
+Luke Shaw,25,805532400,Premier League,2012/2013,Defender,Southampton,1952,912,1040,England,25,10,12,0,0,0,0,0,0,0,0,6,3,3,20,8,12,2,0,0,0,0,0,0,0,0.92,98,78,976,0,0.09,382,383,29,19
+Magaye Serigne Falilou Dit Nelson Gueye,30,647247600,Premier League,2012/2013,Forward,Everton,49,44,5,Senegal,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,-1,-1,-1,16
+Mahamadou Diarra,39,359017200,Premier League,2012/2013,Midfielder,Fulham,607,282,325,Mali,8,3,4,0,0,0,0,0,0,0,0,3,2,1,13,5,8,1,0,0,0,0,0,0,0,1.93,47,76,607,0,0.15,356,348,-1,13
+Maicon Douglas Sisenando,39,364978800,Premier League,2012/2013,Defender,Manchester City,516,244,272,Brazil,9,2,2,0,0,0,0,0,0,0,0,4,2,2,2,1,1,0,0,0,0,0,0,0,0,0.35,258,57,0,0,0,248,263,2,21
+Mapou Yanga-Mbiwa,31,611218800,Premier League,2012/2013,Defender,Newcastle United,1035,485,550,France,14,5,6,0,0,0,0,0,0,0,0,2,1,1,20,12,8,0,0,0,0,0,0,0,0,1.74,52,74,0,0,0,264,260,152,18
+Marc Albrighton,30,627379200,Premier League,2012/2013,Midfielder,Aston Villa,427,248,179,England,9,2,2,0,0,0,0,0,0,0,0,2,2,0,11,6,5,0,0,0,0,0,0,0,0,2.32,39,47,0,0,0,292,275,-1,15
+Marc Tierney,35,493628400,Premier League,2012/2013,Defender,Norwich City,90,0,90,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,5,0,5,0,0,0,0,0,0,0,0,5,18,90,0,0,0,-1,-1,-1,20
+Marc Wilson,33,556182000,Premier League,2012/2013,Defender,Stoke City,1495,646,849,Republic of Ireland,19,8,11,0,0,0,0,0,0,0,0,6,4,2,15,5,10,3,0,0,0,0,0,0,0,0.9,100,79,498,0,0.18,330,322,28,22
+Marc-Antoine Fortuné,39,362905200,Premier League,2012/2013,Forward,West Bromwich Albion,820,437,383,France,21,4,5,2,0,2,2,0,2,0,0,6,3,3,11,4,7,3,1,0.44,0.22,0.22,0,0.47,410,1.21,75,39,205,410,0.44,79,46,-1,7
+Marcello Trotta,28,717750000,Premier League,2012/2013,Forward,Fulham,0,0,0,Italy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Mario Balotelli,30,650444400,Premier League,2012/2013,Forward,Manchester City,589,184,405,Italy,14,2,5,1,0,1,0,0,0,0,0,6,2,4,4,2,2,2,0,0.15,0,0.15,0,0.22,589,0.61,147,42,295,0,0.31,119,377,-1,15
+Mark Bunn,35,469440000,Premier League,2012/2013,Goalkeeper,Norwich City,1854,1006,848,England,23,12,10,0,0,0,0,0,0,0,0,4,3,1,30,12,18,3,1,0,0,0,0,0,0,1.46,62,81,464,0,0.19,285,284,119,24
+Mark Gower,42,276418800,Premier League,2012/2013,Midfielder,Swansea City,6,0,6,England,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,-1,-1,-1,15
+Mark Noble,33,547455600,Premier League,2012/2013,Midfielder,West Ham United,2286,1320,966,England,28,14,11,4,4,0,3,2,1,3,0,8,5,3,34,16,18,7,0,0.28,0.12,0.16,0.27,0,572,1.34,67,82,327,762,0.28,109,114,-1,3
+Mark Schwarzer,48,87202800,Premier League,2012/2013,Goalkeeper,Fulham,3240,1620,1620,Australia,36,18,18,0,0,0,0,0,0,0,0,8,4,4,52,28,24,0,0,0,0,0,0,0,0,1.44,62,90,0,0,0,351,344,116,15
+Marko Marin,31,605779200,Premier League,2012/2013,Midfielder,Chelsea,143,70,73,Germany,6,1,1,1,1,0,1,0,1,0,0,1,1,0,3,0,3,2,0,1.26,0.63,0.63,1.29,0,143,1.89,48,24,72,143,1.26,-1,-1,-1,12
+Markus Rosenberg,38,401958000,Premier League,2012/2013,Forward,West Bromwich Albion,544,240,304,Sweden,24,2,3,0,0,0,2,2,0,0,0,3,2,1,9,2,7,0,0,0.33,0.33,0,0,0,0,1.49,60,23,0,272,0,301,15,-1,16
+Marouane Chamakh,36,442569600,Premier League,2012/2013,Forward,West Ham United,151,62,89,Morocco,3,1,1,0,0,0,0,0,0,0,0,0,0,0,4,1,3,0,0,0,0,0,0,0,0,2.38,38,50,0,0,0,-1,-1,-1,22
+Marouane Fellaini,32,564566400,Premier League,2012/2013,Midfielder,Everton,2786,1350,1436,Belgium,31,15,16,11,6,5,6,4,2,0,0,10,6,4,29,12,17,9,0,0.55,0.19,0.36,0.4,0.31,253,0.94,96,90,310,464,0.29,35,67,-1,1
+Martin Kelly,30,641199600,Premier League,2012/2013,Defender,Liverpool,336,156,180,England,4,2,2,0,0,0,0,0,0,0,0,0,0,0,7,3,4,0,0,0,0,0,0,0,0,1.88,48,84,0,0,0,397,394,164,25
+Martin Škrtel,35,471945600,Premier League,2012/2013,Defender,Liverpool,2080,1075,1005,Slovakia,25,12,11,2,2,0,0,0,0,0,0,10,8,2,31,10,21,4,0,0.09,0,0.09,0.17,0,1040,1.34,67,83,520,0,0.17,171,393,96,10
+Mason Springthorpe,25,783676800,Premier League,2012/2013,Goalkeeper,Everton,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Massadio Haïdara,27,723283200,Premier League,2012/2013,Defender,Newcastle United,196,106,90,France,4,1,1,0,0,0,0,0,0,0,0,0,0,0,8,6,2,0,0,0,0,0,0,0,0,3.67,25,49,0,0,0,-1,-1,-1,31
+Mathieu Debuchy,35,491382000,Premier League,2012/2013,Defender,Newcastle United,1169,615,554,France,14,7,7,0,0,0,0,0,0,0,0,1,0,1,22,16,6,4,1,0,0,0,0,0,0,1.69,53,84,292,0,0.31,252,296,144,12
+Matija Nastasić,27,733305600,Premier League,2012/2013,Defender,Manchester City,1822,652,1170,Serbia,21,8,13,0,0,0,0,0,0,0,0,11,5,6,15,4,11,1,0,0,0,0,0,0,0,0.74,121,87,1822,0,0.05,286,283,8,22
+Matt Jarvis,34,517129200,Premier League,2012/2013,Midfielder,West Ham United,2565,1253,1312,England,32,14,15,2,1,1,0,0,0,0,0,9,4,5,38,16,22,0,0,0.07,0,0.07,0.07,0.07,1283,1.33,68,80,0,0,0,189,270,-1,8
+Matthew Briggs,29,668246400,Premier League,2012/2013,Defender,Fulham,295,90,205,Guyana,5,1,2,0,0,0,0,0,0,0,0,0,0,0,7,2,5,0,0,0,0,0,0,0,0,2.14,42,59,0,0,0,310,288,177,18
+Matthew Etherington,39,366620400,Premier League,2012/2013,Midfielder,Stoke City,1727,967,760,England,31,12,9,0,0,0,0,0,0,0,0,10,6,4,24,15,9,3,0,0,0,0,0,0,0,1.25,72,56,576,0,0.16,331,323,-1,21
+Matthew Kennedy,25,783676800,Premier League,2012/2013,Midfielder,Everton,0,0,0,Scotland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Matthew Kilgallon,36,442396800,Premier League,2012/2013,Defender,Sunderland,512,242,270,England,6,3,3,0,0,0,0,0,0,0,0,2,2,0,9,2,7,1,0,0,0,0,0,0,0,1.58,57,85,512,0,0.18,350,343,131,20
+Matthew Lowton,31,613378800,Premier League,2012/2013,Defender,Aston Villa,3267,1620,1647,England,37,18,19,2,1,1,3,2,1,0,0,5,4,1,62,26,36,10,0,0.14,0.08,0.06,0.06,0.05,1634,1.71,53,88,327,1089,0.28,203,173,147,5
+Matthew Taylor,38,375696000,Premier League,2012/2013,Midfielder,West Ham United,1370,766,604,England,28,7,7,1,1,0,2,2,0,0,0,8,4,4,21,10,11,2,0,0.2,0.13,0.07,0.12,0,1370,1.38,65,49,685,685,0.13,195,107,-1,12
+Matthew Upson,41,293270400,Premier League,2012/2013,Defender,Stoke City,90,90,0,England,1,1,0,1,1,0,0,0,0,0,0,0,0,0,3,3,0,0,0,1,0,1,1,0,90,3,30,90,0,0,0,-1,-1,-1,10
+Matthias Fanimo,26,759744000,Premier League,2012/2013,Forward,West Ham United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Maurice Edu,34,514195200,Premier League,2012/2013,Midfielder,Stoke City,10,0,10,USA,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,-1,-1,-1,14
+Mauro Boselli,35,485593200,Premier League,2012/2013,Forward,Wigan Athletic,129,50,79,Argentina,7,0,1,0,0,0,0,0,0,0,0,1,0,1,3,1,2,0,0,0,0,0,0,0,0,2.09,43,18,0,0,0,-1,-1,-1,25
+Max Ehmer,28,697104000,Premier League,2012/2013,Midfielder,Queens Park Rangers,0,0,0,Germany,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Maya Yoshida,32,588409200,Premier League,2012/2013,Defender,Southampton,2852,1440,1412,Japan,32,16,15,0,0,0,0,0,0,0,0,7,3,4,46,18,28,2,0,0,0,0,0,0,0,1.45,62,89,1426,0,0.06,259,253,117,16
+Maynor Alexis Figueroa Róchez,37,420706800,Premier League,2012/2013,Defender,Wigan Athletic,2815,1385,1430,Honduras,33,16,17,1,0,1,1,0,1,0,0,5,1,4,54,30,24,7,1,0.06,0.03,0.03,0,0.06,2815,1.73,52,85,352,2815,0.26,235,244,151,15
+Mehdi Abeid,28,713084400,Premier League,2012/2013,Midfielder,Newcastle United,0,0,0,Algeria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Micah Richards,32,583138800,Premier League,2012/2013,Defender,Manchester City,617,437,180,England,7,5,2,0,0,0,0,0,0,0,0,5,4,1,4,3,1,2,0,0,0,0,0,0,0,0.58,154,88,309,0,0.29,302,290,4,23
+Michael Carrick,39,365151600,Premier League,2012/2013,Midfielder,Manchester United,3044,1355,1689,England,36,15,19,1,0,1,4,4,0,0,0,13,7,6,38,15,23,3,0,0.15,0.12,0.03,0,0.05,3044,1.12,80,85,1015,761,0.09,242,121,-1,19
+Michael Dawson,36,437990400,Premier League,2012/2013,Defender,Tottenham Hotspur,2009,1036,973,England,27,12,11,1,1,0,0,0,0,0,0,6,3,3,24,9,15,4,0,0.04,0,0.04,0.09,0,2009,1.08,84,74,502,0,0.18,224,256,57,11
+Michael Essien,37,407750400,Premier League,2012/2013,Midfielder,Chelsea,0,0,0,Ghana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Michael Harriman,27,719823600,Premier League,2012/2013,Defender,Queens Park Rangers,90,0,90,Republic of Ireland,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,30
+Michael Kightly,34,506937600,Premier League,2012/2013,Midfielder,Stoke City,1194,728,466,England,22,8,6,3,1,2,1,0,1,0,0,7,5,2,14,7,7,2,0,0.3,0.08,0.23,0.12,0.39,398,1.06,85,54,597,1194,0.15,75,163,-1,3
+Michael Owen,40,314006400,Premier League,2012/2013,Forward,Stoke City,93,24,69,England,8,0,0,1,0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0.97,0,0.97,0,1.3,93,0.97,93,12,0,0,0,-1,-1,-1,7
+Michael Turner,36,437212800,Premier League,2012/2013,Defender,Norwich City,2225,1153,1072,England,26,14,11,3,1,2,0,0,0,0,0,8,6,2,38,15,23,6,0,0.12,0,0.12,0.08,0.17,742,1.54,59,86,371,0,0.24,147,352,126,7
+Michel Vorm,36,435481200,Premier League,2012/2013,Goalkeeper,Swansea City,2312,1350,962,Netherlands,26,15,11,0,0,0,0,0,0,0,0,7,4,3,35,17,18,1,0,0,0,0,0,0,0,1.36,66,89,2312,0,0.04,313,304,102,11
+Mickaël Tavares,37,404377200,Premier League,2012/2013,Midfielder,Fulham,0,0,0,Senegal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Miguel Pérez Cuesta,34,511776000,Premier League,2012/2013,Forward,Swansea City,3013,1636,1377,Spain,35,19,16,18,11,7,2,1,1,0,0,10,5,5,38,23,15,6,0,0.6,0.06,0.54,0.61,0.46,167,1.14,79,86,502,1507,0.18,13,192,-1,1
+Mikael Mandron,26,781858800,Premier League,2012/2013,Forward,Sunderland,20,0,20,France,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,0,0,0,0,0,0,0,9,10,10,20,0,4.5,-1,-1,-1,17
+Mike Pollitt,48,68198400,Premier League,2012/2013,Goalkeeper,Wigan Athletic,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Mike Williamson,36,437126400,Premier League,2012/2013,Defender,Newcastle United,1710,900,810,England,19,10,9,0,0,0,0,0,0,0,0,4,3,1,29,14,15,8,0,0,0,0,0,0,0,1.53,59,90,214,0,0.42,408,416,124,26
+Mikel Arteta Amatriain,38,385977600,Premier League,2012/2013,Midfielder,Arsenal,2985,1440,1545,Spain,34,16,18,6,5,1,3,2,1,5,1,14,5,9,29,17,12,6,0,0.27,0.09,0.18,0.31,0.06,498,0.87,103,88,498,995,0.18,98,156,-1,5
+Mikele Leigertwood,37,405936000,Premier League,2012/2013,Midfielder,Reading,2645,1295,1350,Antigua and Barbuda,30,14,15,1,1,0,0,0,0,0,0,3,3,0,54,28,26,3,0,0.03,0,0.03,0.07,0,2645,1.84,49,88,882,0,0.1,236,313,-1,11
+Mladen Petrić,39,347184000,Premier League,2012/2013,Forward,Fulham,877,516,361,Croatia,23,6,3,5,4,1,1,1,0,1,0,5,3,2,18,10,8,0,0,0.62,0.1,0.51,0.7,0.25,175,1.85,49,38,0,877,0,17,143,-1,2
+Modibo Maïga,33,557650800,Premier League,2012/2013,Forward,West Ham United,409,172,237,Mali,17,1,1,2,2,0,2,2,0,0,0,4,1,3,5,3,2,2,0,0.88,0.44,0.44,1.05,0,205,1.1,82,24,205,205,0.44,23,5,-1,9
+Mohamed Diamé,33,550652400,Premier League,2012/2013,Midfielder,West Ham United,2610,1379,1231,Senegal,33,16,15,3,3,0,0,0,0,0,0,10,6,4,32,13,19,3,0,0.1,0,0.1,0.2,0,870,1.1,82,79,870,0,0.1,160,402,-1,5
+Morgan Schneiderlin,30,626515200,Premier League,2012/2013,Midfielder,Southampton,3210,1680,1530,France,36,19,17,5,3,2,0,0,0,0,0,7,3,4,53,23,30,9,0,0.14,0,0.14,0.16,0.12,642,1.49,61,89,357,0,0.25,130,381,-1,3
+Moussa Dembele,33,553417200,Premier League,2012/2013,Midfielder,Tottenham Hotspur,2390,1220,1170,Belgium,32,14,14,1,1,0,2,0,2,0,0,10,6,4,26,12,14,4,0,0.11,0.08,0.04,0.07,0,2390,0.98,92,75,598,1195,0.15,227,167,-1,13
+Moussa Sissoko,31,619254000,Premier League,2012/2013,Midfielder,Newcastle United,1070,540,530,France,12,6,6,3,3,0,2,0,2,0,0,1,1,0,24,14,10,2,0,0.42,0.17,0.25,0.5,0,357,2.02,45,89,535,535,0.17,71,75,-1,5
+Nacho Monreal,34,509788800,Premier League,2012/2013,Defender,Arsenal,791,251,540,Spain,10,3,6,1,0,1,1,1,0,0,0,6,2,4,5,2,3,2,0,0.23,0.11,0.11,0,0.17,791,0.57,158,79,396,791,0.23,156,134,3,11
+Nathan Aké,25,793094400,Premier League,2012/2013,Defender,Chelsea,90,90,0,Netherlands,3,1,0,0,0,0,0,0,0,0,0,2,0,2,1,1,0,0,0,0,0,0,0,0,0,1,90,30,0,0,0,-1,-1,-1,25
+Nathan Baker,29,672390000,Premier League,2012/2013,Defender,Aston Villa,2012,1055,957,England,26,13,12,0,0,0,0,0,0,0,0,2,2,0,34,14,20,4,0,0,0,0,0,0,0,1.52,59,77,503,0,0.18,395,392,123,27
+Nathan Delfouneso,29,665481600,Premier League,2012/2013,Forward,Aston Villa,46,46,0,England,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,5.87,15,46,0,0,0,-1,-1,-1,20
+Nathan Dyer,32,565171200,Premier League,2012/2013,Midfielder,Swansea City,2340,1202,1138,England,37,13,12,3,0,3,4,2,2,0,0,10,5,5,30,18,12,5,1,0.27,0.15,0.12,0,0.24,780,1.15,78,63,468,585,0.19,141,92,-1,6
+Nathaniel Clyne,29,670838400,Premier League,2012/2013,Defender,Southampton,3021,1530,1491,England,34,17,17,1,1,0,3,1,2,0,0,6,3,3,52,20,32,2,0,0.12,0.09,0.03,0.06,0,3021,1.55,58,89,1511,1007,0.06,233,151,127,10
+Neil Leonard Dula Etheridge,30,634377600,Premier League,2012/2013,Goalkeeper,Fulham,0,0,0,Philippines,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Neil Taylor,31,602841600,Premier League,2012/2013,Defender,Swansea City,278,113,165,Wales,6,2,2,0,0,0,0,0,0,0,0,2,1,1,1,0,1,0,0,0,0,0,0,0,0,0.32,278,46,0,0,0,314,305,1,18
+Nemanja Vidić,38,372495600,Premier League,2012/2013,Defender,Manchester United,1619,899,720,Serbia,19,10,8,1,1,0,0,0,0,0,0,8,5,3,13,7,6,2,0,0.06,0,0.06,0.1,0,1619,0.72,125,85,810,0,0.11,208,361,7,20
+Nick Blackman,30,626774400,Premier League,2012/2013,Forward,Reading,387,145,242,England,11,1,2,0,0,0,1,0,1,0,0,2,2,0,6,1,5,2,0,0.23,0.23,0,0,0,0,1.4,65,35,194,387,0.47,269,40,-1,28
+Nick Powell,26,764409600,Premier League,2012/2013,Midfielder,Manchester United,30,30,0,England,2,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,3,0,3,3,0,30,0,0,15,0,0,0,-1,-1,-1,11
+Nicky Maynard,33,534672000,Premier League,2012/2013,Forward,West Ham United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Nicky Shorey,39,351417600,Premier League,2012/2013,Defender,Reading,1443,540,903,England,17,6,10,0,0,0,4,3,1,0,0,1,1,0,31,15,16,0,0,0.25,0.25,0,0,0,0,1.93,47,85,0,361,0,293,32,168,18
+Nigel de Jong,35,470649600,Premier League,2012/2013,Midfielder,Manchester City,90,0,90,Netherlands,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,19
+Nikica Jelavić,35,493974000,Premier League,2012/2013,Forward,Everton,2431,1229,1202,Croatia,37,14,12,7,5,2,1,0,1,0,0,10,7,3,25,10,15,4,0,0.3,0.04,0.26,0.37,0.15,347,0.93,97,66,608,2431,0.15,67,228,-1,2
+Nile Ranger,29,671353200,Premier League,2012/2013,Forward,Newcastle United,6,3,3,England,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,-1,-1,-1,14
+Noel Hunt,37,409737600,Premier League,2012/2013,Forward,Reading,953,445,508,Republic of Ireland,24,5,5,2,1,1,0,0,0,0,0,3,3,0,22,8,14,4,0,0.19,0,0.19,0.2,0.18,477,2.08,43,40,238,0,0.38,92,314,-1,7
+Nuri Şahin,32,589446000,Premier League,2012/2013,Midfielder,Liverpool,454,283,171,Turkey,7,4,3,1,0,1,1,0,1,0,0,2,2,0,6,2,4,0,0,0.4,0.2,0.2,0,0.53,454,1.19,76,65,0,454,0,88,62,-1,13
+Olivier Giroud,34,528447600,Premier League,2012/2013,Forward,Arsenal,2326,1092,1234,France,34,11,13,11,10,1,3,1,2,0,0,12,5,7,22,12,10,4,1,0.54,0.12,0.43,0.82,0.07,211,0.85,106,68,465,775,0.19,26,116,-1,3
+Oriol Romeu,29,685695600,Premier League,2012/2013,Midfielder,Chelsea,237,109,128,Spain,6,1,3,0,0,0,0,0,0,0,0,2,2,0,2,0,2,1,0,0,0,0,0,0,0,0.76,119,40,237,0,0.38,-1,-1,-1,18
+Osazemwinde Peter Odemwingie,39,364028400,Premier League,2012/2013,Forward,West Bromwich Albion,1271,717,554,Nigeria,25,7,6,5,5,0,3,2,1,1,0,5,4,1,15,7,8,2,1,0.57,0.21,0.35,0.63,0,254,1.06,85,51,424,424,0.21,36,56,-1,3
+Oscar dos Santos Emboaba Júnior,29,684399600,Premier League,2012/2013,Midfielder,Chelsea,2294,1350,944,Brazil,34,15,9,4,3,1,6,4,2,1,0,11,7,4,25,13,12,2,0,0.39,0.24,0.16,0.2,0.1,574,0.98,92,67,1147,382,0.08,108,39,-1,9
+Oussama Assaidi,32,587631600,Premier League,2012/2013,Forward,Liverpool,73,30,43,Morocco,4,0,0,0,0,0,0,0,0,0,0,2,2,0,2,0,2,0,0,0,0,0,0,0,0,2.47,37,18,0,0,0,-1,-1,-1,16
+Pablo Hernández Domínguez,35,482054400,Premier League,2012/2013,Midfielder,Swansea City,2201,1130,1071,Spain,30,14,13,3,3,0,6,3,3,0,0,6,4,2,31,12,19,3,0,0.37,0.25,0.12,0.24,0,734,1.27,71,73,734,367,0.12,142,35,-1,7
+Pablo Zabaleta,35,474710400,Premier League,2012/2013,Defender,Manchester City,2651,1301,1350,Argentina,30,14,15,2,2,0,2,0,2,0,0,12,6,6,29,13,16,7,0,0.14,0.07,0.07,0.14,0,1326,0.98,91,88,379,1326,0.24,198,175,42,8
+Pajtim Kasami,28,707468400,Premier League,2012/2013,Midfielder,Fulham,22,22,0,Switzerland,2,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,-1,-1,-1,14
+Papiss Demba Cissé,35,486630000,Premier League,2012/2013,Forward,Newcastle United,3003,1427,1576,Senegal,36,17,18,8,5,3,2,0,2,0,1,6,4,2,59,27,32,6,0,0.3,0.06,0.24,0.32,0.17,375,1.77,51,83,501,1502,0.18,74,213,-1,1
+Patrice Evra,39,358758000,Premier League,2012/2013,Defender,Manchester United,3060,1530,1530,France,34,17,17,4,2,2,5,4,1,0,0,10,5,5,36,18,18,3,0,0.26,0.15,0.12,0.12,0.12,765,1.06,85,90,1020,612,0.09,148,91,53,5
+Paul Scharner,40,321609600,Premier League,2012/2013,Midfielder,Wigan Athletic,1260,630,630,Austria,14,7,7,0,0,0,1,1,0,0,0,2,1,1,27,14,13,5,0,0.07,0.07,0,0,0,0,1.93,47,90,252,1260,0.36,271,176,-1,18
+Paul Scholes,45,153820800,Premier League,2012/2013,Midfielder,Manchester United,768,476,292,England,16,6,2,1,1,0,1,0,1,0,0,3,2,1,17,11,6,7,0,0.23,0.12,0.12,0.19,0,768,1.99,45,48,110,768,0.82,140,112,-1,18
+Paulo Dino Gazzaniga,28,694339200,Premier League,2012/2013,Goalkeeper,Southampton,810,450,360,Argentina,9,5,4,0,0,0,0,0,0,0,0,1,1,0,12,5,7,0,0,0,0,0,0,0,0,1.33,68,90,0,0,0,383,384,94,18
+Paulo Renato Rebocho Ferreira,41,285494400,Premier League,2012/2013,Defender,Chelsea,8,1,7,Portugal,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,-1,-1,-1,19
+Pavel Pogrebnyak,36,437126400,Premier League,2012/2013,Forward,Reading,2033,1114,919,Russia,29,14,12,5,2,3,0,0,0,0,0,5,5,0,37,20,17,5,1,0.22,0,0.22,0.16,0.29,407,1.64,55,70,339,0,0.27,84,301,-1,3
+Pepe Reina,38,399625200,Premier League,2012/2013,Goalkeeper,Liverpool,2790,1350,1440,Spain,31,15,16,0,0,0,0,0,0,0,0,14,9,5,33,12,21,1,0,0,0,0,0,0,0,1.06,85,90,2790,0,0.03,396,360,56,18
+Per Mertesacker,36,465289200,Premier League,2012/2013,Defender,Arsenal,3028,1428,1600,Germany,34,15,18,3,1,2,0,0,0,0,0,14,5,9,28,16,12,4,1,0.09,0,0.09,0.06,0.11,1009,0.83,108,89,606,0,0.15,173,363,15,7
+Peter Crouch,39,349689600,Premier League,2012/2013,Forward,Stoke City,2337,1037,1300,England,34,13,15,7,4,3,4,4,0,0,0,11,7,4,21,5,16,2,0,0.42,0.15,0.27,0.35,0.21,334,0.81,111,69,1169,584,0.08,63,89,-1,2
+Péter Gulácsi,30,641977200,Premier League,2012/2013,Goalkeeper,Liverpool,0,0,0,Hungary,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Petr Čech,38,390726000,Premier League,2012/2013,Goalkeeper,Chelsea,3196,1620,1576,Czech Republic,36,18,18,0,0,0,0,0,0,0,0,14,8,6,33,15,18,1,0,0,0,0,0,0,0,0.93,97,89,3196,0,0.03,373,369,32,22
+Phil Bardsley,35,488790000,Premier League,2012/2013,Defender,Sunderland,983,528,455,Scotland,18,6,5,1,1,0,0,0,0,0,0,6,3,3,20,9,11,5,0,0.09,0,0.09,0.17,0,983,1.83,49,55,197,0,0.46,174,294,159,8
+Phil Jagielka,38,398415600,Premier League,2012/2013,Defender,Everton,3154,1534,1620,England,36,18,18,2,1,1,2,0,2,0,0,10,6,4,34,14,20,1,0,0.11,0.06,0.06,0.06,0.06,1577,0.97,93,88,3154,1577,0.03,200,201,41,9
+Phil Jones,28,698659200,Premier League,2012/2013,Defender,Manchester United,1207,616,591,England,17,7,6,0,0,0,0,0,0,0,0,4,3,1,16,6,10,4,0,0,0,0,0,0,0,1.19,75,71,302,0,0.3,253,289,74,25
+Phil Neville,43,222681600,Premier League,2012/2013,Midfielder,Everton,1552,682,870,England,18,8,10,0,0,0,1,1,0,0,0,4,2,2,17,7,10,4,0,0.06,0.06,0,0,0,0,0.99,91,86,388,1552,0.23,387,203,-1,19
+Philippe Coutinho,28,708332400,Premier League,2012/2013,Midfielder,Liverpool,932,432,500,Brazil,13,6,6,3,2,1,5,0,5,0,0,7,4,3,9,4,5,0,0,0.77,0.48,0.29,0.42,0.18,311,0.87,104,72,0,186,0,53,2,-1,5
+Philippe Senderos,35,477216000,Premier League,2012/2013,Defender,Fulham,1681,871,810,Switzerland,21,9,9,0,0,0,0,0,0,0,0,5,1,4,24,19,5,6,0,0,0,0,0,0,0,1.28,70,80,280,0,0.32,303,258,85,20
+Rafael,30,647506800,Premier League,2012/2013,Defender,Manchester United,2317,1101,1216,Brazil,28,12,15,3,1,2,3,1,2,0,0,9,4,5,28,12,16,7,1,0.23,0.12,0.12,0.08,0.15,772,1.09,83,83,290,772,0.31,139,115,58,7
+Rafael van der Vaart,37,413798400,Premier League,2012/2013,Midfielder,Tottenham Hotspur,84,62,22,Netherlands,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1.07,84,42,0,0,0,-1,-1,-1,18
+Rafik Halliche,34,526028400,Premier League,2012/2013,Defender,Fulham,0,0,0,Algeria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Raheem Sterling,25,786873600,Premier League,2012/2013,Forward,Liverpool,1746,907,839,England,24,10,9,2,2,0,3,1,2,0,0,9,7,2,23,10,13,1,0,0.26,0.15,0.1,0.2,0,873,1.19,76,73,1746,582,0.05,159,94,-1,9
+Ramires Santos do Nascimento,33,543571200,Premier League,2012/2013,Midfielder,Chelsea,2518,1247,1271,Brazil,35,14,14,5,5,0,1,0,1,0,0,12,8,4,28,13,15,10,1,0.21,0.04,0.18,0.36,0,504,1,90,72,252,2518,0.36,102,229,-1,7
+Raphael Spiegel,27,724752000,Premier League,2012/2013,Goalkeeper,West Ham United,0,0,0,Switzerland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Raul José Trindade Meireles,37,416736000,Premier League,2012/2013,Midfielder,Chelsea,101,93,8,Portugal,3,1,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,-1,-1,-1,21
+Remie Streete,25,783763200,Premier League,2012/2013,Defender,Newcastle United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ricardo Jorge Vaz Té,34,528534000,Premier League,2012/2013,Forward,West Ham United,1608,855,753,Portugal,24,11,7,3,2,1,4,3,1,0,0,8,5,3,22,7,15,3,0,0.39,0.22,0.17,0.21,0.12,536,1.23,73,67,536,402,0.17,106,48,-1,6
+Richard Chaplow,35,476179200,Premier League,2012/2013,Midfielder,Southampton,51,28,23,England,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,3.53,26,17,0,0,0,-1,-1,-1,15
+Richard Wright,42,247564800,Premier League,2012/2013,Goalkeeper,Manchester City,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Rickie Lambert,38,382694400,Premier League,2012/2013,Forward,Southampton,3133,1638,1495,England,38,19,16,15,7,8,4,2,2,3,0,7,3,4,48,20,28,2,0,0.55,0.11,0.43,0.38,0.48,209,1.38,65,82,1567,783,0.06,25,138,-1,1
+Rio Ferdinand,41,279273600,Premier League,2012/2013,Defender,Manchester United,2324,995,1329,England,28,11,15,1,1,0,1,1,0,0,0,7,2,5,30,13,17,2,0,0.08,0.04,0.04,0.09,0,2324,1.16,77,83,1162,2324,0.08,226,237,69,13
+Rob Elliot,34,515228400,Premier League,2012/2013,Goalkeeper,Newcastle United,834,303,531,Republic of Ireland,10,3,6,0,0,0,1,1,0,0,0,1,0,1,19,11,8,2,1,0.11,0.11,0,0,0,0,2.05,44,83,417,834,0.22,282,132,173,21
+Rob Hall,27,751100400,Premier League,2012/2013,Forward,West Ham United,12,12,0,England,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,-1,-1,-1,20
+Robert Green,40,317030400,Premier League,2012/2013,Goalkeeper,Queens Park Rangers,1319,720,599,England,16,8,6,0,0,0,0,0,0,0,0,2,0,2,22,15,7,0,0,0,0,0,0,0,0,1.5,60,82,0,0,0,361,357,121,19
+Robert Huth,36,461660400,Premier League,2012/2013,Defender,Stoke City,3150,1530,1620,Germany,35,17,18,1,1,0,0,0,0,0,0,11,6,5,40,20,20,5,0,0.03,0,0.03,0.06,0,3150,1.14,79,90,630,0,0.14,230,320,67,12
+Robert Snodgrass,33,557996400,Premier League,2012/2013,Midfielder,Norwich City,3066,1588,1478,Scotland,37,18,17,6,2,4,6,2,4,0,0,10,8,2,45,19,26,8,0,0.35,0.18,0.18,0.11,0.24,511,1.32,68,83,383,511,0.23,96,73,-1,2
+Robin van Persie,37,429001200,Premier League,2012/2013,Forward,Manchester United,3123,1549,1574,Netherlands,38,17,18,26,12,14,8,5,3,3,1,13,7,6,40,18,22,6,0,0.98,0.23,0.75,0.7,0.8,120,1.15,78,82,521,390,0.17,4,41,-1,1
+Róger Espinoza Ramírez,33,530607600,Premier League,2012/2013,Midfielder,Wigan Athletic,604,347,257,Honduras,12,3,3,1,1,0,2,1,1,0,0,0,0,0,15,7,8,1,0,0.45,0.3,0.15,0.26,0,604,2.24,40,50,604,302,0.15,113,20,-1,11
+Roland Conde Lamah,32,567936000,Premier League,2012/2013,Forward,Swansea City,150,26,124,Belgium,5,0,1,0,0,0,0,0,0,0,0,1,0,1,4,0,4,0,0,0,0,0,0,0,0,2.4,38,30,0,0,0,-1,-1,-1,23
+Romain Amalfitano,31,620204400,Premier League,2012/2013,Midfielder,Newcastle United,0,0,0,France,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Román Golobart Benet,28,701164800,Premier League,2012/2013,Defender,Wigan Athletic,213,90,123,Spain,3,1,1,0,0,0,0,0,0,0,0,0,0,0,4,2,2,1,0,0,0,0,0,0,0,1.69,53,71,213,0,0.42,-1,-1,-1,17
+Romelu Lukaku,27,737276400,Premier League,2012/2013,Forward,West Bromwich Albion,2004,908,1096,Belgium,35,9,11,17,10,7,4,2,2,2,1,7,4,3,36,13,23,3,0,0.94,0.18,0.76,0.99,0.57,118,1.62,56,57,668,501,0.13,3,72,-1,1
+Ron Vlaar,35,477388800,Premier League,2012/2013,Defender,Aston Villa,2391,1131,1260,Netherlands,27,13,14,2,1,1,0,0,0,0,0,3,2,1,44,19,25,1,0,0.08,0,0.08,0.08,0.07,1196,1.66,54,89,2391,0,0.04,186,403,137,7
+Ronnie Stam,36,456390000,Premier League,2012/2013,Defender,Wigan Athletic,1011,566,445,Netherlands,17,6,5,0,0,0,0,0,0,0,0,0,0,0,24,12,12,0,0,0,0,0,0,0,0,2.14,42,59,0,0,0,277,292,176,23
+Rony Lopes,24,820137600,Premier League,2012/2013,Midfielder,Manchester City,0,0,0,Portugal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Rory Delap,44,205484400,Premier League,2012/2013,Midfielder,Stoke City,10,0,10,Republic of Ireland,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,-1,-1,-1,17
+Rory Donnelly,28,698400000,Premier League,2012/2013,Forward,Swansea City,0,0,0,Northern Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ross Barkley,26,755078400,Premier League,2012/2013,Midfielder,Everton,206,45,161,England,7,0,2,0,0,0,0,0,0,0,0,3,2,1,1,0,1,2,0,0,0,0,0,0,0,0.44,206,29,103,0,0.87,-1,-1,-1,12
+Ross Turnbull,35,473673600,Premier League,2012/2013,Goalkeeper,Chelsea,224,90,134,England,3,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0.8,112,75,0,0,0,-1,-1,-1,20
+Russell Martin,34,505209600,Premier League,2012/2013,Defender,Norwich City,2691,1350,1341,Scotland,31,15,15,3,2,1,0,0,0,0,0,7,6,1,50,18,32,1,0,0.1,0,0.1,0.13,0.07,897,1.67,54,87,2691,0,0.03,164,354,138,5
+Ryan Bennett,30,636710400,Premier League,2012/2013,Defender,Norwich City,1063,377,686,England,15,3,7,1,1,0,0,0,0,0,0,3,3,0,21,4,17,2,0,0.08,0,0.08,0.24,0,1063,1.78,51,71,532,0,0.17,184,353,156,15
+Ryan Bertrand,31,618303600,Premier League,2012/2013,Defender,Chelsea,1282,459,823,England,19,5,9,0,0,0,0,0,0,0,0,6,2,4,14,4,10,1,0,0,0,0,0,0,0,0.98,92,67,1282,0,0.07,374,371,43,24
+Ryan Giggs,46,123408000,Premier League,2012/2013,Midfielder,Manchester United,1160,698,462,Wales,22,8,4,2,1,1,3,2,1,0,0,8,4,4,13,8,5,0,0,0.39,0.23,0.16,0.13,0.19,580,1.01,89,53,0,387,0,111,42,-1,8
+Ryan Mason,29,676796400,Premier League,2012/2013,Midfielder,Tottenham Hotspur,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ryan Nelsen,42,246006000,Premier League,2012/2013,Defender,Queens Park Rangers,1884,894,990,New Zealand,21,10,11,1,0,1,0,0,0,0,0,5,3,2,28,12,16,0,0,0.05,0,0.05,0,0.09,1884,1.34,67,90,0,0,0,216,303,95,12
+Ryan Shawcross,33,560329200,Premier League,2012/2013,Defender,Stoke City,3330,1620,1710,England,37,18,19,1,1,0,1,1,0,0,0,12,7,5,39,18,21,9,0,0.05,0.03,0.03,0.06,0,3330,1.05,85,90,370,3330,0.24,232,242,51,8
+Ryan Shotton,31,594198000,Premier League,2012/2013,Defender,Stoke City,1821,889,932,England,23,10,10,0,0,0,1,1,0,0,0,8,4,4,17,10,7,6,1,0.05,0.05,0,0,0,0,0.84,107,79,304,1821,0.3,333,226,17,18
+Ryan Taylor,36,461746800,Premier League,2012/2013,Defender,Newcastle United,26,0,26,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,-1,-1,-1,24
+Ryan Tunnicliffe,27,725702400,Premier League,2012/2013,Midfielder,Manchester United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ryo Miyaichi,27,724320000,Premier League,2012/2013,Midfielder,Wigan Athletic,49,23,26,Japan,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,-1,-1,-1,24
+Sam Johnstone,27,733046400,Premier League,2012/2013,Goalkeeper,Manchester United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Samba Diakité,31,601632000,Premier League,2012/2013,Midfielder,Queens Park Rangers,954,530,424,Mali,14,6,5,0,0,0,1,1,0,0,0,1,0,1,18,13,5,6,1,0.09,0.09,0,0,0,0,1.7,53,68,159,954,0.57,336,159,-1,25
+Samir Carruthers,27,733910400,Premier League,2012/2013,Midfielder,Aston Villa,0,0,0,Republic of Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Samir Nasri,33,551689200,Premier League,2012/2013,Midfielder,Manchester City,1805,980,825,France,28,11,11,2,1,1,7,5,2,0,0,11,7,4,20,9,11,4,1,0.45,0.35,0.1,0.09,0.11,903,1,90,64,361,258,0.25,161,13,-1,9
+Sammy Ameobi,28,704703600,Premier League,2012/2013,Midfielder,Newcastle United,219,120,99,England,8,1,0,0,0,0,1,1,0,0,0,1,1,0,3,1,2,1,0,0.41,0.41,0,0,0,0,1.23,73,27,219,219,0.41,-1,-1,-1,16
+Sandro Ranieri Guimarães Cordeiro,31,605952000,Premier League,2012/2013,Midfielder,Tottenham Hotspur,1779,858,921,Brazil,22,11,11,1,0,1,2,1,1,0,0,6,3,3,19,7,12,4,0,0.15,0.1,0.05,0,0.1,1779,0.96,94,81,445,890,0.2,213,144,-1,9
+Santiago Cazorla González,35,471772800,Premier League,2012/2013,Midfielder,Arsenal,3311,1635,1676,Spain,38,18,19,12,5,7,11,8,3,0,0,14,5,9,36,22,14,1,0,0.63,0.3,0.33,0.28,0.38,276,0.98,92,87,3311,301,0.03,41,19,-1,2
+Sascha Riether,37,417254400,Premier League,2012/2013,Defender,Fulham,3045,1559,1486,Germany,35,18,17,1,0,1,4,2,2,0,0,7,4,3,48,26,22,4,0,0.15,0.12,0.03,0,0.06,3045,1.42,63,87,761,761,0.12,239,117,113,12
+Scott Harrison,27,747039600,Premier League,2012/2013,Forward,Sunderland,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Scott Parker,40,340268400,Premier League,2012/2013,Midfielder,Tottenham Hotspur,1363,588,775,England,21,7,8,0,0,0,1,1,0,0,0,6,3,3,19,7,12,1,0,0.07,0.07,0,0,0,0,1.25,72,65,1363,1363,0.07,254,186,-1,17
+Scott Sinclair,31,606816000,Premier League,2012/2013,Midfielder,Manchester City,203,97,106,England,12,1,1,1,0,1,0,0,0,0,0,8,5,3,1,0,1,0,0,0.44,0,0.44,0,0.85,203,0.44,203,17,0,0,0,-1,-1,-1,13
+Scott Wootton,29,684658800,Premier League,2012/2013,Defender,Manchester United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Séamus Coleman,32,592556400,Premier League,2012/2013,Defender,Everton,2164,1000,1164,Republic of Ireland,26,11,13,0,0,0,5,5,0,0,0,11,7,4,20,6,14,4,0,0.21,0.21,0,0,0,0,0.83,108,83,541,433,0.17,388,55,16,15
+Sean Morrison,29,663321600,Premier League,2012/2013,Defender,Reading,1328,720,608,England,16,8,7,2,1,1,0,0,0,0,0,3,3,0,25,12,13,0,0,0.14,0,0.14,0.13,0.15,664,1.69,53,83,0,0,0,128,281,142,6
+Sebastián Coates Nión,30,655282800,Premier League,2012/2013,Defender,Liverpool,232,94,138,Uruguay,5,1,1,0,0,0,0,0,0,0,0,1,1,0,3,2,1,0,0,0,0,0,0,0,0,1.16,77,46,0,0,0,-1,-1,-1,19
+Sebastian Larsson,35,486889200,Premier League,2012/2013,Midfielder,Sunderland,2998,1527,1471,Sweden,38,17,19,1,1,0,4,1,3,0,0,11,7,4,45,15,30,5,0,0.15,0.12,0.03,0.06,0,2998,1.35,67,79,600,750,0.15,240,118,-1,12
+Sebastian Lletget,28,715503600,Premier League,2012/2013,Midfielder,West Ham United,0,0,0,USA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Sébastien Aymar Bassong Nguena,34,521276400,Premier League,2012/2013,Defender,Norwich City,2962,1620,1342,Cameroon,34,18,16,3,1,2,2,2,0,0,0,10,8,2,37,15,22,3,0,0.15,0.06,0.09,0.06,0.13,987,1.12,80,87,987,1481,0.09,168,200,64,6
+Sébastien Squillaci,40,334825200,Premier League,2012/2013,Defender,Arsenal,0,0,0,France,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Serge Gnabry,25,805705200,Premier League,2012/2013,Forward,Arsenal,7,0,7,Germany,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,-1,-1,-1,16
+Sergio Aguero,32,581238000,Premier League,2012/2013,Forward,Manchester City,1947,1045,902,Argentina,30,12,10,12,7,5,2,0,2,2,0,15,9,6,18,8,10,2,0,0.65,0.09,0.55,0.6,0.5,162,0.83,108,65,974,974,0.09,12,153,-1,2
+Shane Duffy,28,694252800,Premier League,2012/2013,Defender,Everton,0,0,0,Republic of Ireland,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Shane Ferguson,29,679302000,Premier League,2012/2013,Midfielder,Newcastle United,343,247,96,Northern Ireland,9,3,1,0,0,0,1,0,1,0,0,1,1,0,6,3,3,0,0,0.26,0.26,0,0,0,0,1.57,57,38,0,343,0,278,29,-1,15
+Shane Long,33,538300800,Premier League,2012/2013,Forward,West Bromwich Albion,2162,1147,1015,Republic of Ireland,34,13,12,8,4,4,4,4,0,0,1,8,5,3,26,14,12,3,0,0.5,0.17,0.33,0.31,0.35,270,1.08,83,64,721,541,0.12,40,78,-1,2
+Shaun Cummings,31,604396800,Premier League,2012/2013,Defender,Reading,810,360,450,Jamaica,9,4,5,0,0,0,0,0,0,0,0,0,0,0,21,14,7,1,0,0,0,0,0,0,0,2.33,39,90,810,0,0.11,327,318,180,20
+Shaun Derry,42,250243200,Premier League,2012/2013,Midfielder,Queens Park Rangers,1077,566,511,England,18,4,6,0,0,0,0,0,0,0,0,4,3,1,13,3,10,3,0,0,0,0,0,0,0,1.09,83,60,359,0,0.25,312,302,-1,23
+Shaun Maloney,37,412243200,Premier League,2012/2013,Midfielder,Wigan Athletic,2945,1453,1492,Scotland,36,17,17,6,2,4,8,4,4,1,0,5,1,4,58,32,26,6,0,0.43,0.24,0.18,0.12,0.24,491,1.77,51,82,491,368,0.18,99,38,-1,2
+Shaun Wright-Phillips,38,372841200,Premier League,2012/2013,Midfielder,Queens Park Rangers,1248,652,596,England,20,8,6,1,0,1,1,0,1,0,0,5,3,2,19,10,9,0,0,0.14,0.07,0.07,0,0.15,1248,1.37,66,62,0,1248,0,191,178,-1,10
+Shay Given,44,198835200,Premier League,2012/2013,Goalkeeper,Aston Villa,180,90,90,Republic of Ireland,2,1,1,0,0,0,0,0,0,0,0,0,0,0,4,3,1,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,13
+Shinji Kagawa,31,606124800,Premier League,2012/2013,Midfielder,Manchester United,1325,639,686,Japan,20,8,9,6,5,1,3,1,2,0,0,8,4,4,16,8,8,1,0,0.61,0.2,0.41,0.7,0.13,221,1.09,83,66,1325,442,0.07,30,59,-1,4
+Shola Ameobi,39,371718000,Premier League,2012/2013,Forward,Newcastle United,675,466,209,Nigeria,23,3,1,1,1,0,1,0,1,0,0,4,3,1,13,10,3,5,0,0.27,0.13,0.13,0.19,0,675,1.73,52,29,135,675,0.67,133,101,-1,7
+Simeon Jackson,33,543916800,Premier League,2012/2013,Forward,Norwich City,400,294,106,Canada,13,4,1,1,1,0,0,0,0,0,0,3,3,0,4,3,1,0,0,0.23,0,0.23,0.31,0,400,0.9,100,31,0,0,0,76,282,-1,11
+Simon Church,31,597744000,Premier League,2012/2013,Forward,Reading,0,0,0,Wales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Simon Davies,40,309510000,Premier League,2012/2013,Midfielder,Fulham,0,0,0,Wales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Simon Dawkins,32,565344000,Premier League,2012/2013,Midfielder,Aston Villa,71,32,39,Jamaica,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,2.54,36,18,0,0,0,-1,-1,-1,28
+Simon Lappin,37,412329600,Premier League,2012/2013,Midfielder,Norwich City,0,0,0,Scotland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Simon Mignolet,32,573638400,Premier League,2012/2013,Goalkeeper,Sunderland,3420,1710,1710,Belgium,38,19,19,0,0,0,0,0,0,0,0,11,7,4,51,18,33,1,0,0,0,0,0,0,0,1.34,67,90,3420,0,0.03,346,337,99,19
+Stanislav Manolev,34,503568000,Premier League,2012/2013,Defender,Fulham,430,90,340,Bulgaria,5,1,3,0,0,0,0,0,0,0,0,1,0,1,3,1,2,2,0,0,0,0,0,0,0,0.63,143,86,215,0,0.42,273,267,6,25
+Stefan Savić,29,663321600,Premier League,2012/2013,Defender,Manchester City,0,0,0,Montenegro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Stéphane M'Bia Etoundi,34,516956400,Premier League,2012/2013,Midfielder,Queens Park Rangers,2418,1190,1228,Cameroon,29,15,14,0,0,0,3,2,1,0,0,6,3,3,39,18,21,10,1,0.11,0.11,0,0,0,0,1.45,62,83,220,806,0.41,298,139,-1,13
+Stéphane Sessègnon,36,454921200,Premier League,2012/2013,Midfielder,Sunderland,2901,1480,1421,Benin,35,17,17,7,4,3,4,1,3,0,0,11,7,4,43,16,27,2,1,0.34,0.12,0.22,0.24,0.19,414,1.33,67,83,967,725,0.09,83,123,-1,2
+Stephen Dobbie,37,407923200,Premier League,2012/2013,Forward,Swansea City,0,0,0,Scotland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Stephen Henderson,32,578559600,Premier League,2012/2013,Goalkeeper,West Ham United,0,0,0,Republic of Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Stephen Ireland,34,525078000,Premier League,2012/2013,Midfielder,Aston Villa,782,304,478,Republic of Ireland,13,3,6,0,0,0,1,0,1,0,0,4,3,1,17,9,8,1,0,0.12,0.12,0,0,0,0,1.96,46,60,782,782,0.12,407,113,-1,26
+Stephen Kelly,37,431679600,Premier League,2012/2013,Defender,Reading,1529,767,762,Republic of Ireland,18,8,8,0,0,0,0,0,0,0,0,2,2,0,36,15,21,2,0,0,0,0,0,0,0,2.12,42,85,765,0,0.12,357,349,175,19
+Steve De Ridder,33,541238400,Premier League,2012/2013,Midfielder,Southampton,48,45,3,Belgium,4,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,12,48,0,1.88,-1,-1,-1,25
+Steve Harper,45,164012400,Premier League,2012/2013,Goalkeeper,Newcastle United,458,270,188,England,6,3,2,0,0,0,0,0,0,0,0,1,1,0,8,4,4,0,0,0,0,0,0,0,0,1.57,57,76,0,0,0,393,417,130,20
+Steve Morison,37,430988400,Premier League,2012/2013,Forward,Norwich City,465,175,290,Wales,19,2,2,1,1,0,0,0,0,0,0,5,4,1,13,7,6,0,0,0.19,0,0.19,0.51,0,465,2.52,36,24,0,0,0,91,356,-1,13
+Steve Sidwell,37,408700800,Premier League,2012/2013,Midfielder,Fulham,2106,1016,1090,England,28,12,12,4,4,0,2,0,2,1,0,7,4,3,32,16,16,9,2,0.26,0.09,0.17,0.35,0,527,1.37,66,75,191,1053,0.47,107,160,-1,3
+Steven Caulker,28,693993600,Premier League,2012/2013,Defender,Tottenham Hotspur,1574,854,720,England,18,9,8,2,1,1,1,0,1,0,0,3,2,1,19,10,9,0,0,0.17,0.06,0.11,0.11,0.13,787,1.09,83,87,0,1574,0,157,195,59,8
+Steven Davis,35,473414400,Premier League,2012/2013,Midfielder,Southampton,2072,1017,1055,Northern Ireland,32,11,11,2,1,1,1,1,0,0,0,5,2,3,38,16,22,1,0,0.13,0.04,0.09,0.09,0.09,1036,1.65,55,65,2072,2072,0.04,165,230,-1,7
+Steven Fletcher,33,543744000,Premier League,2012/2013,Forward,Sunderland,2374,1245,1129,Scotland,28,14,14,11,3,8,1,0,1,0,0,8,6,2,33,12,21,3,0,0.45,0.04,0.42,0.22,0.64,216,1.25,72,85,791,2374,0.11,27,239,-1,1
+Steven Gerrard,40,328518000,Premier League,2012/2013,Midfielder,Liverpool,3223,1620,1603,England,36,18,18,10,6,4,9,5,4,4,1,15,10,5,41,15,26,5,0,0.53,0.25,0.28,0.33,0.22,322,1.14,79,90,645,358,0.14,55,33,-1,3
+Steven N'Kemboanza Mike Christopher N'Zonzi,31,598176000,Premier League,2012/2013,Midfielder,Stoke City,3109,1579,1530,France,35,18,17,1,1,0,0,0,0,0,0,11,6,5,40,21,19,10,1,0.03,0,0.03,0.06,0,3109,1.16,78,89,283,0,0.32,245,264,-1,9
+Steven Naismith,34,527065200,Premier League,2012/2013,Forward,Everton,1277,514,763,Scotland,31,4,9,4,2,2,1,0,1,0,0,7,4,3,16,8,8,0,0,0.35,0.07,0.28,0.35,0.24,319,1.13,80,41,0,1277,0,59,188,-1,8
+Steven Pienaar,38,385200000,Premier League,2012/2013,Midfielder,Everton,3065,1484,1581,South Africa,35,17,18,6,4,2,6,4,2,0,0,10,6,4,31,12,19,9,2,0.35,0.18,0.18,0.24,0.11,511,0.91,99,88,341,511,0.26,95,74,-1,4
+Steven Reid,39,353059200,Premier League,2012/2013,Defender,West Bromwich Albion,909,413,496,Republic of Ireland,11,5,6,0,0,0,0,0,0,0,0,4,2,2,8,3,5,4,0,0,0,0,0,0,0,0.79,114,83,227,0,0.4,364,327,12,24
+Steven Taylor,34,506851200,Premier League,2012/2013,Defender,Newcastle United,2137,1080,1057,England,25,12,12,0,0,0,0,0,0,0,0,3,2,1,38,20,18,2,0,0,0,0,0,0,0,1.6,56,85,1069,0,0.08,415,411,133,23
+Steven Whittaker,36,456217200,Premier League,2012/2013,Defender,Norwich City,1046,360,686,Scotland,13,4,8,1,0,1,0,0,0,0,0,3,2,1,12,2,10,0,0,0.09,0,0.09,0,0.13,1046,1.03,87,80,0,0,0,167,274,45,10
+Stewart Downing,36,459327600,Premier League,2012/2013,Midfielder,Liverpool,2194,944,1250,England,29,11,14,3,2,1,5,3,2,0,0,12,7,5,27,8,19,0,0,0.33,0.21,0.12,0.19,0.07,731,1.11,81,76,0,439,0,144,53,-1,7
+Stuart Taylor,39,344246400,Premier League,2012/2013,Goalkeeper,Reading,360,90,270,England,4,1,3,0,0,0,0,0,0,0,0,0,0,0,10,2,8,0,0,0,0,0,0,0,0,2.5,36,90,0,0,0,279,247,181,17
+Sung-Yeung Ki,31,601632000,Premier League,2012/2013,Midfielder,Swansea City,2036,988,1048,South Korea,29,9,11,0,0,0,2,2,0,0,0,7,3,4,26,14,12,3,0,0.09,0.09,0,0,0,0,1.15,78,70,679,1018,0.13,251,150,-1,14
+Suso,26,753696000,Premier League,2012/2013,Forward,Liverpool,603,396,207,Spain,14,5,3,0,0,0,0,0,0,0,0,8,6,2,7,3,4,0,0,0,0,0,0,0,0,1.04,86,43,0,0,0,284,273,-1,15
+Sylvain Distin,42,251107200,Premier League,2012/2013,Defender,Everton,2835,1530,1305,France,34,17,14,0,0,0,1,1,0,0,0,10,7,3,27,13,14,2,0,0.03,0.03,0,0,0,0,0.86,105,83,1418,2835,0.06,385,241,20,21
+Sylvain Marveaux,34,513936000,Premier League,2012/2013,Midfielder,Newcastle United,994,516,478,France,22,5,5,1,0,1,4,3,1,0,0,4,3,1,19,7,12,0,0,0.45,0.36,0.09,0,0.19,994,1.72,52,45,0,249,0,172,10,-1,6
+Tadanari Lee,34,503827200,Premier League,2012/2013,Forward,Southampton,0,0,0,Japan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Tal Ben Haim,38,386409600,Premier League,2012/2013,Defender,Queens Park Rangers,196,196,0,Israel,3,2,0,0,0,0,0,0,0,0,0,1,1,0,3,3,0,0,0,0,0,0,0,0,0,1.38,65,65,0,0,0,-1,-1,-1,17
+Theo Walcott,31,606038400,Premier League,2012/2013,Forward,Arsenal,2284,1223,1061,England,32,13,11,14,9,5,10,7,3,0,0,11,4,7,26,17,9,3,0,0.95,0.39,0.55,0.66,0.42,163,1.02,88,71,761,228,0.12,11,6,-1,1
+Thomas Hitzlsperger,38,386841600,Premier League,2012/2013,Midfielder,Everton,349,267,82,Germany,7,3,1,0,0,0,0,0,0,0,0,0,0,0,5,3,2,0,0,0,0,0,0,0,0,1.29,70,50,0,0,0,307,268,-1,22
+Thomas Løvendahl Sørensen,44,203410800,Premier League,2012/2013,Goalkeeper,Stoke City,0,0,0,Denmark,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Thomas Vermaelen,34,500803200,Premier League,2012/2013,Defender,Arsenal,2235,1228,1007,Belgium,29,14,11,0,0,0,0,0,0,0,0,8,3,5,31,19,12,3,0,0,0,0,0,0,0,1.25,72,77,745,0,0.12,340,332,81,25
+Tim Howard,41,289555200,Premier League,2012/2013,Goalkeeper,Everton,3240,1530,1710,USA,36,17,19,0,0,0,0,0,0,0,0,10,6,4,35,14,21,0,0,0,0,0,0,0,0,0.97,93,90,0,0,0,384,385,39,11
+Tim Krul,32,576057600,Premier League,2012/2013,Goalkeeper,Newcastle United,2127,1137,990,Netherlands,24,13,11,0,0,0,1,1,0,0,0,4,3,1,38,16,22,0,0,0.04,0.04,0,0,0,0,1.61,56,89,0,2127,0,414,238,134,19
+Titus Malachi Bramble,39,364546800,Premier League,2012/2013,Defender,Sunderland,1180,640,540,England,16,6,6,0,0,0,0,0,0,0,0,4,4,0,16,5,11,3,0,0,0,0,0,0,0,1.22,74,74,393,0,0.23,339,331,78,21
+Tom Carroll,28,707036400,Premier League,2012/2013,Midfielder,Tottenham Hotspur,76,36,40,England,7,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,1.18,1.18,0,0,0,0,0,0,11,0,76,0,-1,-1,-1,15
+Tom Cleverley,31,618908400,Premier League,2012/2013,Midfielder,Manchester United,1457,658,799,England,22,8,10,2,1,1,2,0,2,0,0,8,4,4,14,4,10,1,0,0.25,0.12,0.12,0.14,0.11,729,0.86,104,66,1457,729,0.06,138,119,-1,9
+Tom Huddlestone,33,536140800,Premier League,2012/2013,Midfielder,Tottenham Hotspur,1030,494,536,England,20,5,6,0,0,0,4,1,3,0,0,2,2,0,16,5,11,4,1,0.35,0.35,0,0,0,0,1.4,64,52,206,258,0.44,308,12,-1,19
+Tomáš Rosický,40,339490800,Premier League,2012/2013,Midfielder,Arsenal,613,249,364,Czech Republic,10,3,4,2,0,2,1,1,0,0,0,4,1,3,5,4,1,2,0,0.44,0.15,0.29,0,0.49,307,0.73,123,61,307,613,0.29,49,90,-1,9
+Tony Hibbert,39,351504000,Premier League,2012/2013,Defender,Everton,430,270,160,England,6,3,1,0,0,0,0,0,0,0,0,2,2,0,5,2,3,1,0,0,0,0,0,0,0,1.05,86,72,430,0,0.21,386,386,50,20
+Tyias Browning,26,770022000,Premier League,2012/2013,Defender,Everton,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Urby Emanuelson,34,519289200,Premier League,2012/2013,Midfielder,Fulham,643,410,233,Netherlands,13,3,2,1,0,1,0,0,0,0,0,4,1,3,16,14,2,1,0,0.14,0,0.14,0,0.39,643,2.24,40,49,643,0,0.14,125,265,-1,9
+Vassiriki Abou Diaby,34,516178800,Premier League,2012/2013,Midfielder,Arsenal,712,276,436,France,11,5,5,0,0,0,0,0,0,0,0,6,2,4,5,2,3,1,0,0,0,0,0,0,0,0.63,142,65,712,0,0.13,343,334,-1,22
+Vegard Forren,32,571996800,Premier League,2012/2013,Defender,Southampton,0,0,0,Norway,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Victor Chinedu Anichebe,32,577782000,Premier League,2012/2013,Forward,Everton,1719,926,793,Nigeria,26,10,9,6,3,3,4,2,2,0,0,10,6,4,17,8,9,2,0,0.52,0.21,0.31,0.29,0.34,287,0.89,101,66,860,430,0.1,47,54,-1,5
+Victor Moses,29,660988800,Premier League,2012/2013,Midfielder,Chelsea,1215,438,777,Nigeria,24,4,9,1,0,1,1,1,0,0,0,9,5,4,10,3,7,0,0,0.15,0.07,0.07,0,0.12,1215,0.74,122,51,0,1215,0,188,183,-1,14
+Vincent Kompany,34,513504000,Premier League,2012/2013,Defender,Manchester City,2239,1084,1155,Belgium,26,13,13,1,1,0,0,0,0,0,0,11,6,5,20,7,13,4,1,0.04,0,0.04,0.08,0,2239,0.8,112,86,448,0,0.2,220,374,13,16
+Vito Mannone,32,573292800,Premier League,2012/2013,Goalkeeper,Arsenal,810,270,540,Italy,9,3,6,0,0,0,0,0,0,0,0,3,1,2,10,5,5,0,0,0,0,0,0,0,0,1.11,81,90,0,0,0,345,336,61,19
+Vurnon Anita,31,607676400,Premier League,2012/2013,Midfielder,Newcastle United,1731,941,790,Netherlands,25,8,9,0,0,0,1,0,1,0,0,5,4,1,33,15,18,2,0,0.05,0.05,0,0,0,0,1.72,52,69,866,1731,0.1,418,221,-1,28
+Wayne Rooney,34,498985200,Premier League,2012/2013,Forward,Manchester United,2017,1042,975,England,27,11,11,12,7,5,10,7,3,1,1,9,5,4,23,9,14,7,0,0.98,0.45,0.54,0.6,0.46,168,1.03,88,75,288,202,0.31,14,3,-1,2
+Wayne Routledge,35,473932800,Premier League,2012/2013,Midfielder,Swansea City,2528,1447,1081,England,36,17,13,5,5,0,4,1,3,0,0,8,5,3,36,22,14,0,0,0.32,0.14,0.18,0.31,0,506,1.28,70,70,0,632,0,101,99,-1,2
+Wellington Pereira do Nascimento,36,451468800,Premier League,2012/2013,Forward,West Ham United,0,0,0,Brazil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Wes Hoolahan,38,390726000,Premier League,2012/2013,Midfielder,Norwich City,2433,1248,1185,Republic of Ireland,33,14,14,3,2,1,3,1,2,0,0,9,7,2,34,14,20,3,0,0.22,0.11,0.11,0.14,0.08,811,1.26,72,74,811,811,0.11,155,129,-1,4
+William Gallas,43,240649200,Premier League,2012/2013,Defender,Tottenham Hotspur,1525,720,805,France,19,8,8,1,1,0,0,0,0,0,0,5,2,3,18,7,11,2,0,0.06,0,0.06,0.13,0,1525,1.06,85,80,763,0,0.12,209,419,55,12
+Wilson Roberto Palacios Suazo,36,459932400,Premier League,2012/2013,Midfielder,Stoke City,47,9,38,Honduras,4,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,-1,-1,-1,19
+Winston Reid,32,583916400,Premier League,2012/2013,Defender,West Ham United,3145,1710,1435,New Zealand,36,19,17,1,1,0,0,0,0,0,0,10,6,4,48,20,28,8,0,0.03,0,0.03,0.05,0,3145,1.37,66,87,393,0,0.23,234,401,104,13
+Wojciech Szczęsny,30,640422000,Premier League,2012/2013,Goalkeeper,Arsenal,2250,1260,990,Poland,25,14,11,0,0,0,0,0,0,0,0,10,4,6,23,15,8,1,0,0,0,0,0,0,0,0.92,98,90,2250,0,0.04,309,299,31,17
+Yacouba Sylla,29,659865600,Premier League,2012/2013,Midfielder,Aston Villa,598,344,254,Mali,11,4,3,0,0,0,2,1,1,0,0,0,0,0,12,7,5,3,0,0.3,0.3,0,0,0,0,1.81,50,54,199,299,0.45,268,17,-1,17
+Yassine El Ghanassy,30,647766000,Premier League,2012/2013,Forward,West Bromwich Albion,0,0,0,Belgium,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Yoan Gouffran,34,517388400,Premier League,2012/2013,Midfielder,Newcastle United,1058,482,576,France,15,6,8,3,0,3,0,0,0,0,0,2,1,1,20,11,9,1,0,0.26,0,0.26,0,0.47,353,1.7,53,71,1058,0,0.09,64,259,-1,4
+Yohan Cabaye,34,506073600,Premier League,2012/2013,Midfielder,Newcastle United,2124,1152,972,France,26,14,11,6,3,3,2,1,1,1,0,4,2,2,36,20,16,8,0,0.34,0.08,0.25,0.23,0.28,354,1.53,59,82,266,1062,0.34,70,165,-1,2
+Yossi Shai Benayoun,40,326358000,Premier League,2012/2013,Midfielder,Chelsea,366,226,140,Israel,12,2,2,0,0,0,1,1,0,0,0,3,1,2,3,1,2,1,0,0.25,0.25,0,0,0,0,0.74,122,31,366,366,0.25,261,31,-1,17
+Younes Kaboul,34,505209600,Premier League,2012/2013,Defender,Tottenham Hotspur,90,0,90,France,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,24
+Youssouf Chafiq Mulumbu Ngangu,33,538560000,Premier League,2012/2013,Midfielder,West Bromwich Albion,2516,1256,1260,Congo DR,28,14,14,2,2,0,2,2,0,0,0,7,5,2,37,16,21,5,1,0.14,0.07,0.07,0.14,0,1258,1.32,68,90,419,1258,0.21,193,190,-1,8
+Zoltán Gera,41,293616000,Premier League,2012/2013,Forward,West Bromwich Albion,1127,671,456,Hungary,16,9,5,4,3,1,1,0,1,0,0,4,4,0,13,6,7,1,0,0.4,0.08,0.32,0.4,0.2,282,1.04,87,70,1127,1127,0.08,45,162,-1,5
+Łukasz Fabiański,35,482659200,Premier League,2012/2013,Goalkeeper,Arsenal,360,180,180,Poland,4,2,2,0,0,0,0,0,0,0,0,1,0,1,3,2,1,0,0,0,0,0,0,0,0,0.75,120,90,0,0,0,274,269,9,26
