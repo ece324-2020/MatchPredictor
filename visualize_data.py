@@ -19,7 +19,7 @@ data = pd.concat(data)
 data['Winning_Side'] = data.apply(lambda x: 'Home' if x.home_team_goal_count > x.away_team_goal_count else 'Away' if x.home_team_goal_count < x.away_team_goal_count else "Draw", axis=1)
 print(data.head())
 
-data.Winning_Side.value_counts().plot(kind='pie', title = "Winning side of every Premier League match from 2012-2020", autopct='%1.1f%%', startangle=270 )
+data.Winning_Side.value_counts().plot(kind='pie', title = "Winning side of every Premier League match from 2012-2020", autopct='%1.1f%%', startangle=270, fontsize = 24)
 #plt.show()
 plt.savefig('data_figures/result_pie.png')
 plt.close()
@@ -27,7 +27,7 @@ plt.close()
 
 
 def make_density_plot(columnName, df):
-    df.groupby("Winning_Side")[columnName].plot(kind = "kde", title = "Density graph of {} for each each match result".format(columnName), legend=True)
+    df.groupby("Winning_Side")[columnName].plot(kind = "kde", title = "Density graph of {} for each match result".format(columnName), legend=True)
     plt.xlabel(columnName)
     #fig.figure.savefig('data_figures/{}_density.png'.format(columnName))
     #plt.show()
@@ -35,7 +35,7 @@ def make_density_plot(columnName, df):
     plt.close()
 
 def make_histogram_plot(columnName, df):
-    df.groupby("Winning_Side")[columnName].plot(kind = "hist", title = "Histogram graph of {} for each each match result".format(columnName), legend=True, bins = 20, alpha = 0.3)
+    df.groupby("Winning_Side")[columnName].plot(kind = "hist", title = "Histogram graph of {} for each match result".format(columnName), legend=True, bins = 20, alpha = 0.3)
     plt.xlabel(columnName)
     #fig.figure.savefig('data_figures/{}_density.png'.format(columnName))
     #plt.show()
@@ -45,7 +45,7 @@ def make_histogram_plot(columnName, df):
 def make_box_plot(columnName, df):
     df.boxplot(by="Winning_Side", column=columnName)
     plt.ylabel(columnName)
-    plt.title("Box plot of {} for each each match result".format(columnName))
+    plt.title("Box plot of {} for each match result".format(columnName))
     plt.suptitle('')
     #plt.show()
     plt.savefig('data_figures/{}_boxplot.png'.format(columnName))
